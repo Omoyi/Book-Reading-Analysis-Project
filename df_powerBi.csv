@@ -41,7 +41,7 @@ respondent_id,books_read_1year,print_books,audiobooks,ebooks,smartphone,ebook_re
 100173,5.0,yes,no,yes,yes,no,yes,yes,Female,47.0,Postgraduate or professional degree,1
 100180,12.0,yes,no,no,yes,no,yes,no,Female,58.0,Postgraduate or professional degree,1
 100181,3.0,yes,no,no,yes,no,no,no,Female,67.0,Two-year associate degree,0
-100186,, , , ,yes,no,no,no,Female,84.0,"Some college, no degree",0
+100186,0.0, , , ,yes,no,no,no,Female,84.0,"Some college, no degree",0
 100188,0.0, , , ,yes,no,no,yes,Female,75.0,Two-year associate degree,0
 100190,1.0,yes,no,no,yes,no,yes,yes,Male,55.0,Two-year associate degree,0
 100197,2.0,yes,no,no,no,no,no,no,Female,68.0,"Some college, no degree",0
@@ -53,7 +53,7 @@ respondent_id,books_read_1year,print_books,audiobooks,ebooks,smartphone,ebook_re
 100215,20.0,yes,no,no,yes,no,no,yes,Male,80.0,"Some college, no degree",1
 100219,30.0,yes,yes,yes,yes,yes,yes,yes,Female,42.0,Postgraduate or professional degree,1
 100222,6.0,yes,no,no,no,no,no,yes,Male,84.0,Postgraduate or professional degree,1
-100225,75.0,yes,no,no,yes,,no,yes,Female,74.0,Two-year associate degree,1
+100225,75.0,yes,no,no,yes,no,no,yes,Female,74.0,Two-year associate degree,1
 100228,97.0,yes,no,yes,yes,no,yes,yes,Male,34.0,Unknown,1
 100242,6.0,yes,no,no,no,no,no,no,Female,67.0,Unknown,1
 100252,5.0,yes,no,no,yes,no,yes,yes,Female,19.0,"Some college, no degree",1
@@ -68,14 +68,14 @@ respondent_id,books_read_1year,print_books,audiobooks,ebooks,smartphone,ebook_re
 100287,15.0,yes,no,yes,yes,no,no,yes,Female,70.0,"Some college, no degree",1
 100288,0.0, , , ,yes,no,yes,no,Male,52.0,Two-year associate degree,0
 100291,1.0,yes,no,no,yes,no,yes,yes,Male,58.0,Postgraduate or professional degree,0
-100301,, , , ,yes,no,no,yes,Female,59.0,"Some college, no degree",0
+100301,0.0, , , ,yes,no,no,yes,Female,59.0,"Some college, no degree",0
 100302,6.0,yes,no,no,yes,no,no,yes,Male,55.0,Unknown,1
 100305,0.0, , , ,yes,no,yes,no,Female,44.0,Postgraduate or professional degree,0
 100316,97.0,yes,no,no,yes,no,no,yes,Female,65.0,Postgraduate or professional degree,1
 100321,0.0, , , ,yes,no,no,yes,Female,53.0,Four-year college degree or bachelor's degree,0
 100322,8.0,yes,yes,yes,yes,yes,yes,yes,Male,74.0,Postgraduate or professional degree,1
 100323,2.0,yes,no,no,yes,no,yes,yes,Female,39.0,Postgraduate or professional degree,0
-100327,, , , ,yes,no,no,yes,Male,79.0,Two-year associate degree,0
+100327,0.0, , , ,yes,no,no,yes,Male,79.0,Two-year associate degree,0
 100333,0.0, , , ,yes,no,no,yes,Female,70.0,"Some college, no degree",0
 100338,10.0,yes,no,yes,yes,no,yes,yes,Male,61.0,Postgraduate or professional degree,1
 100339,97.0,yes,yes,no,yes,no,yes,yes,Female,38.0,Postgraduate or professional degree,1
@@ -110,7 +110,7 @@ respondent_id,books_read_1year,print_books,audiobooks,ebooks,smartphone,ebook_re
 100461,10.0,yes,no,no,yes,no,yes,yes,Male,66.0,Two-year associate degree,1
 100471,0.0, , , ,yes,no,yes,yes,Male,51.0,"Some college, no degree",0
 100472,6.0,yes,no,no,yes,no,no,yes,Female,76.0,Two-year associate degree,1
-100478,, , , ,no,no,no,yes,Female,73.0,High school graduate or GED,0
+100478,0.0, , , ,no,no,no,yes,Female,73.0,High school graduate or GED,0
 100489,0.0, , , ,yes,no,no,yes,Female,62.0,Two-year associate degree,0
 100491,12.0,yes,no,no,yes,no,yes,yes,Female,86.0,Postgraduate or professional degree,1
 100497,12.0,yes,yes,yes,yes,no,yes,yes,Female,71.0,Two-year associate degree,1
@@ -140,9 +140,9 @@ respondent_id,books_read_1year,print_books,audiobooks,ebooks,smartphone,ebook_re
 100614,0.0, , , ,no,no,no,no,Female,87.0,Two-year associate degree,0
 100623,5.0,yes,no,no,yes,no,yes,yes,Male,19.0,"Some college, no degree",1
 100624,5.0,yes,no,yes,yes,no,no,yes,Male,56.0,"Some college, no degree",1
-100629,1.0,no,,,no,no,no,no,Female,60.0,Less than high school,0
-100636,0.0, , , ,yes,no,no,yes,Male,,,0
-100646,, , , ,no,no,no,no,Female,86.0,Four-year college degree or bachelor's degree,0
+100629,1.0,no,no,no,no,no,no,no,Female,60.0,Less than high school,0
+100636,0.0, , , ,yes,no,no,yes,Male,51.0,Unknown,0
+100646,0.0, , , ,no,no,no,no,Female,86.0,Four-year college degree or bachelor's degree,0
 100659,8.0,yes,no,no,yes,no,yes,yes,Female,58.0,Unknown,1
 100668,1.0,yes,no,no,yes,no,yes,yes,Male,64.0,"Some college, no degree",0
 100670,2.0,yes,no,no,yes,no,yes,yes,Male,63.0,Unknown,0
@@ -154,7 +154,7 @@ respondent_id,books_read_1year,print_books,audiobooks,ebooks,smartphone,ebook_re
 100700,15.0,no,yes,yes,yes,yes,yes,yes,Male,40.0,Postgraduate or professional degree,1
 100710,40.0,yes,no,yes,yes,yes,no,yes,Female,72.0,"Some college, no degree",1
 100711,3.0,yes,no,no,yes,no,yes,yes,Male,68.0,Postgraduate or professional degree,0
-100713,3.0,yes,no,no,yes,yes,no,no,Male,,"Some college, no degree",0
+100713,3.0,yes,no,no,yes,yes,no,no,Male,51.0,"Some college, no degree",0
 100722,0.0, , , ,yes,no,no,yes,Male,77.0,Postgraduate or professional degree,0
 100723,5.0,yes,yes,yes,yes,yes,yes,yes,Female,65.0,Postgraduate or professional degree,1
 100726,0.0, , , ,yes,no,no,yes,Male,62.0,Four-year college degree or bachelor's degree,0
@@ -175,7 +175,7 @@ respondent_id,books_read_1year,print_books,audiobooks,ebooks,smartphone,ebook_re
 100790,5.0,yes,yes,yes,yes,yes,no,yes,Female,75.0,Unknown,1
 100795,20.0,yes,no,yes,yes,yes,no,no,Female,59.0,Four-year college degree or bachelor's degree,1
 100796,0.0, , , ,yes,no,no,no,Male,30.0,"Some college, no degree",0
-100803,52.0,yes,no,no,yes,no,yes,yes,Female,,Unknown,1
+100803,52.0,yes,no,no,yes,no,yes,yes,Female,51.0,Unknown,1
 100813,10.0,yes,no,no,no,no,yes,no,Female,83.0,Postgraduate or professional degree,1
 100828,1.0,no,no,no,yes,no,no,no,Male,67.0,Unknown,0
 100844,10.0,yes,no,no,yes,yes,yes,yes,Female,73.0,Two-year associate degree,1
@@ -202,7 +202,7 @@ respondent_id,books_read_1year,print_books,audiobooks,ebooks,smartphone,ebook_re
 100953,20.0,yes,no,yes,yes,yes,yes,yes,Female,64.0,Four-year college degree or bachelor's degree,1
 100959,50.0,yes,yes,yes,yes,no,yes,yes,Female,19.0,"Some college, no degree",1
 100963,3.0,yes,no,no,no,no,no,yes,Female,58.0,Two-year associate degree,0
-100966,2.0,yes,no,,yes,no,no,no,Female,91.0,High school graduate or GED,0
+100966,2.0,yes,no,no,yes,no,no,no,Female,91.0,High school graduate or GED,0
 100973,24.0,yes,yes,yes,yes,yes,yes,yes,Female,57.0,"Some college, no degree",1
 100982,0.0, , , ,yes,no,yes,yes,Male,56.0,Postgraduate or professional degree,0
 100991,12.0,yes,no,yes,yes,no,yes,yes,Female,73.0,Unknown,1
@@ -217,11 +217,11 @@ respondent_id,books_read_1year,print_books,audiobooks,ebooks,smartphone,ebook_re
 101024,20.0,no,no,yes,yes,no,yes,yes,Female,60.0,Postgraduate or professional degree,1
 101028,6.0,yes,yes,no,yes,no,yes,yes,Female,62.0,Unknown,1
 101033,0.0, , , ,yes,no,no,yes,Female,72.0,"Some college, no degree",0
-101037,2.0,yes,,no,yes,no,no,yes,Female,72.0,Four-year college degree or bachelor's degree,0
+101037,2.0,yes,no,no,yes,no,no,yes,Female,72.0,Four-year college degree or bachelor's degree,0
 101041,1.0,yes,no,no,yes,no,no,yes,Male,75.0,"Some college, no degree",0
 101042,5.0,yes,no,no,yes,yes,no,yes,Female,78.0,Postgraduate or professional degree,1
 101046,0.0, , , ,yes,no,yes,yes,Female,52.0,Postgraduate or professional degree,0
-101047,97.0,yes,no,no,yes,no,yes,yes,Female,,Four-year college degree or bachelor's degree,1
+101047,97.0,yes,no,no,yes,no,yes,yes,Female,51.0,Four-year college degree or bachelor's degree,1
 101048,12.0,yes,no,no,no,no,no,yes,Male,68.0,Postgraduate or professional degree,1
 101055,50.0,yes,no,yes,yes,yes,yes,yes,Female,68.0,Four-year college degree or bachelor's degree,1
 101056,11.0,yes,no,yes,yes,yes,yes,yes,Female,72.0,Four-year college degree or bachelor's degree,1
@@ -239,7 +239,7 @@ respondent_id,books_read_1year,print_books,audiobooks,ebooks,smartphone,ebook_re
 101112,20.0,yes,yes,no,yes,no,no,yes,Female,73.0,Unknown,1
 101114,10.0,yes,no,no,yes,yes,yes,yes,Male,71.0,Postgraduate or professional degree,1
 101120,97.0,yes,no,no,yes,no,no,yes,Male,68.0,Postgraduate or professional degree,1
-101125,0.0, , , ,yes,,no,yes,Female,82.0,"Some college, no degree",0
+101125,0.0, , , ,yes,no,no,yes,Female,82.0,"Some college, no degree",0
 101135,60.0,yes,no,yes,yes,yes,yes,yes,Female,30.0,Two-year associate degree,1
 101136,0.0, , , ,yes,no,yes,yes,Female,29.0,"Some college, no degree",0
 101140,30.0,yes,no,no,yes,no,yes,yes,Female,23.0,Two-year associate degree,1
@@ -255,7 +255,7 @@ respondent_id,books_read_1year,print_books,audiobooks,ebooks,smartphone,ebook_re
 101212,60.0,yes,no,no,yes,no,no,yes,Male,61.0,"Some college, no degree",1
 101217,2.0,yes,no,no,no,no,yes,no,Female,16.0,High school graduate or GED,0
 101218,0.0, , , ,no,no,no,no,Male,67.0,Less than high school,0
-101224,3.0,yes,no,no,yes,no,no,no,Female,,"Some college, no degree",0
+101224,3.0,yes,no,no,yes,no,no,no,Female,51.0,"Some college, no degree",0
 101227,30.0,yes,no,yes,yes,yes,yes,yes,Female,52.0,Postgraduate or professional degree,1
 101228,15.0,yes,yes,yes,yes,no,yes,yes,Male,72.0,Unknown,1
 101234,97.0,yes,no,no,yes,no,no,yes,Female,69.0,Two-year associate degree,1
@@ -266,7 +266,7 @@ respondent_id,books_read_1year,print_books,audiobooks,ebooks,smartphone,ebook_re
 101256,75.0,yes,no,no,yes,no,no,no,Female,73.0,"Some college, no degree",1
 101263,12.0,yes,no,no,yes,no,no,yes,Male,64.0,Unknown,1
 101265,2.0,yes,no,no,yes,no,yes,yes,Female,60.0,Four-year college degree or bachelor's degree,0
-101268,3.0,yes,no,no,yes,no,yes,yes,Female,,Unknown,0
+101268,3.0,yes,no,no,yes,no,yes,yes,Female,51.0,Unknown,0
 101275,5.0,yes,no,no,yes,no,yes,yes,Female,27.0,"Some college, no degree",1
 101276,12.0,yes,no,yes,yes,no,yes,yes,Male,58.0,Two-year associate degree,1
 101277,4.0,yes,no,no,yes,no,yes,yes,Female,67.0,"Some college, no degree",0
@@ -286,21 +286,21 @@ respondent_id,books_read_1year,print_books,audiobooks,ebooks,smartphone,ebook_re
 101330,8.0,yes,no,no,yes,no,yes,yes,Male,55.0,Unknown,1
 101335,3.0,yes,no,no,yes,no,yes,yes,Female,41.0,Two-year associate degree,0
 101351,0.0, , , ,yes,yes,yes,yes,Male,44.0,Two-year associate degree,0
-101356,8.0,yes,no,no,yes,no,no,yes,Male,,Unknown,1
+101356,8.0,yes,no,no,yes,no,no,yes,Male,51.0,Unknown,1
 101359,0.0, , , ,yes,no,yes,no,Female,68.0,Two-year associate degree,0
 101361,3.0,yes,yes,yes,yes,yes,yes,yes,Female,60.0,Four-year college degree or bachelor's degree,0
 101375,0.0, , , ,no,no,no,no,Male,94.0,"Some college, no degree",0
 101377,2.0,yes,yes,no,yes,no,yes,yes,Female,54.0,Two-year associate degree,0
 101378,0.0, , , ,yes,no,yes,yes,Male,41.0,High school graduate or GED,0
 101397,4.0,yes,yes,no,yes,no,yes,yes,Female,64.0,Postgraduate or professional degree,0
-101401,2.0,yes,no,no,no,no,no,yes,Female,,Postgraduate or professional degree,0
+101401,2.0,yes,no,no,no,no,no,yes,Female,51.0,Postgraduate or professional degree,0
 101402,2.0,yes,no,no,yes,no,no,yes,Female,90.0,Postgraduate or professional degree,0
 101405,2.0,yes,no,no,yes,no,no,yes,Female,61.0,"Some college, no degree",0
 101406,0.0, , , ,yes,no,no,no,Male,56.0,"Some college, no degree",0
 101419,50.0,yes,no,no,yes,no,no,yes,Male,71.0,Postgraduate or professional degree,1
 101425,52.0,yes,no,no,yes,no,no,yes,Male,72.0,Postgraduate or professional degree,1
 101426,4.0,yes,no,no,yes,no,yes,yes,Female,69.0,"Some college, no degree",0
-101429,0.0, , , ,no,no,,yes,Female,46.0,High school graduate or GED,0
+101429,0.0, , , ,no,no,no,yes,Female,46.0,High school graduate or GED,0
 101430,5.0,yes,no,no,no,no,no,yes,Male,59.0,"Some college, no degree",1
 101433,24.0,yes,no,no,yes,no,no,yes,Female,69.0,Two-year associate degree,1
 101435,2.0,yes,no,no,yes,no,no,no,Female,78.0,High school graduate or GED,0
@@ -320,7 +320,7 @@ respondent_id,books_read_1year,print_books,audiobooks,ebooks,smartphone,ebook_re
 101517,15.0,yes,yes,yes,yes,no,yes,yes,Male,54.0,Postgraduate or professional degree,1
 101518,40.0,yes,yes,yes,yes,yes,no,yes,Female,66.0,Postgraduate or professional degree,1
 101522,2.0,yes,no,no,yes,yes,yes,yes,Female,16.0,High school graduate or GED,0
-101527,2.0,yes,no,no,yes,no,no,no,Female,,High school graduate or GED,0
+101527,2.0,yes,no,no,yes,no,no,no,Female,51.0,High school graduate or GED,0
 101529,5.0,yes,no,no,yes,no,yes,yes,Female,74.0,Unknown,1
 101537,4.0,yes,no,yes,no,yes,no,yes,Female,63.0,"Some college, no degree",0
 101545,10.0,yes,no,yes,yes,yes,no,yes,Male,78.0,Unknown,1
@@ -336,7 +336,7 @@ respondent_id,books_read_1year,print_books,audiobooks,ebooks,smartphone,ebook_re
 101602,0.0, , , ,yes,no,no,no,Male,70.0,"Some college, no degree",0
 101604,3.0,yes,no,no,yes,no,no,yes,Female,61.0,"Some college, no degree",0
 101608,0.0, , , ,no,no,no,no,Female,71.0,Less than high school,0
-101615,3.0,yes,no,no,yes,no,no,no,Male,,Four-year college degree or bachelor's degree,0
+101615,3.0,yes,no,no,yes,no,no,no,Male,51.0,Four-year college degree or bachelor's degree,0
 101626,2.0,yes,no,no,yes,no,no,yes,Female,76.0,Two-year associate degree,0
 101630,2.0,yes,no,no,yes,no,no,yes,Male,67.0,Two-year associate degree,0
 101635,0.0, , , ,no,no,no,no,Female,74.0,High school graduate or GED,0
@@ -350,17 +350,17 @@ respondent_id,books_read_1year,print_books,audiobooks,ebooks,smartphone,ebook_re
 101661,24.0,yes,no,no,yes,no,no,no,Female,68.0,Two-year associate degree,1
 101667,2.0,yes,no,no,yes,yes,yes,yes,Male,64.0,"Some college, no degree",0
 101669,97.0,yes,yes,yes,yes,yes,yes,yes,Female,50.0,Postgraduate or professional degree,1
-101673,, , , ,no,no,no,no,Female,83.0,"Some college, no degree",0
+101673,0.0, , , ,no,no,no,no,Female,83.0,"Some college, no degree",0
 101687,3.0,yes,no,no,no,no,no,yes,Female,79.0,"Some college, no degree",0
 101694,10.0,no,yes,yes,yes,no,yes,yes,Female,83.0,Unknown,1
-101709,30.0,no,yes,no,yes,yes,yes,no,Female,84.0,,1
+101709,30.0,no,yes,no,yes,yes,yes,no,Female,84.0,Unknown,1
 101718,3.0,yes,no,no,yes,no,no,no,Male,55.0,Two-year associate degree,0
 101723,2.0,yes,no,no,yes,no,no,no,Male,62.0,"Some college, no degree",0
 101729,40.0,yes,no,yes,yes,yes,yes,yes,Male,68.0,Unknown,1
 101732,40.0,no,no,yes,yes,no,yes,yes,Female,64.0,"Some college, no degree",1
 101734,50.0,yes,no,no,no,yes,yes,yes,Female,40.0,Four-year college degree or bachelor's degree,1
 101744,3.0,yes,no,no,yes,no,no,yes,Male,61.0,Postgraduate or professional degree,0
-101747,12.0,yes,no,no,yes,no,no,yes,Male,,Postgraduate or professional degree,1
+101747,12.0,yes,no,no,yes,no,no,yes,Male,51.0,Postgraduate or professional degree,1
 101759,0.0, , , ,yes,no,no,yes,Male,73.0,Two-year associate degree,0
 101763,15.0,yes,no,no,no,no,no,no,Male,46.0,Less than high school,1
 101764,0.0, , , ,yes,no,yes,no,Male,57.0,"Some college, no degree",0
@@ -380,9 +380,9 @@ respondent_id,books_read_1year,print_books,audiobooks,ebooks,smartphone,ebook_re
 101876,25.0,yes,yes,no,yes,no,no,no,Male,77.0,High school graduate or GED,1
 101879,2.0,yes,no,no,yes,no,yes,yes,Female,45.0,"Some college, no degree",0
 101881,12.0,yes,no,yes,yes,no,yes,yes,Male,66.0,Four-year college degree or bachelor's degree,1
-101882,0.0, , , ,no,no,no,no,Female,65.0,,0
+101882,0.0, , , ,no,no,no,no,Female,65.0,Unknown,0
 101885,10.0,yes,no,no,yes,no,no,yes,Female,45.0,Postgraduate or professional degree,1
-101889,0.0, , , ,yes,no,no,yes,Female,,Postgraduate or professional degree,0
+101889,0.0, , , ,yes,no,no,yes,Female,51.0,Postgraduate or professional degree,0
 101901,0.0, , , ,yes,no,no,yes,Male,62.0,Postgraduate or professional degree,0
 101910,15.0,no,yes,yes,yes,yes,yes,yes,Female,51.0,Unknown,1
 101912,12.0,no,no,yes,yes,yes,yes,yes,Female,43.0,Postgraduate or professional degree,1
@@ -392,7 +392,7 @@ respondent_id,books_read_1year,print_books,audiobooks,ebooks,smartphone,ebook_re
 101948,4.0,yes,no,yes,yes,yes,yes,yes,Male,29.0,Postgraduate or professional degree,0
 101952,90.0,yes,no,yes,yes,yes,yes,yes,Female,72.0,Unknown,1
 101956,8.0,yes,no,no,yes,no,yes,yes,Male,57.0,Unknown,1
-101958,15.0,yes,yes,yes,yes,no,yes,yes,Female,,Two-year associate degree,1
+101958,15.0,yes,yes,yes,yes,no,yes,yes,Female,51.0,Two-year associate degree,1
 101959,5.0,yes,yes,yes,yes,yes,yes,yes,Male,50.0,"Some college, no degree",1
 101961,3.0,yes,no,no,yes,no,no,yes,Female,66.0,Unknown,0
 101965,24.0,yes,no,no,yes,no,no,yes,Female,64.0,Postgraduate or professional degree,1
@@ -432,19 +432,19 @@ respondent_id,books_read_1year,print_books,audiobooks,ebooks,smartphone,ebook_re
 200120,97.0,yes,yes,no, ,no,no,yes,Female,25.0,Two-year associate degree,1
 200122,5.0,yes,yes,no, ,no,yes,no,Male,33.0,Postgraduate or professional degree,1
 200123,1.0,yes,no,no, ,no,no,no,Male,59.0,Four-year college degree or bachelor's degree,0
-200130,5.0,,no,no, ,no,no,no,Male,82.0,Unknown,1
+200130,5.0,no,no,no, ,no,no,no,Male,82.0,Unknown,1
 200135,6.0,yes,yes,no, ,no,yes,yes,Male,67.0,Unknown,1
 200138,3.0,no,yes,yes, ,yes,yes,yes,Male,39.0,Postgraduate or professional degree,0
 200142,20.0,yes,no,yes, ,no,no,yes,Male,34.0,Unknown,1
-200145,30.0,yes,yes,no, ,no,no,no,Male,,"Some college, no degree",1
+200145,30.0,yes,yes,no, ,no,no,no,Male,51.0,"Some college, no degree",1
 200151,50.0,yes,no,yes, ,yes,yes,yes,Female,73.0,"Some college, no degree",1
 200153,0.0, , , , ,no,no,no,Male,53.0,Less than high school,0
-200155,, , , , ,no,yes,yes,Male,37.0,"Some college, no degree",0
+200155,0.0, , , , ,no,yes,yes,Male,37.0,"Some college, no degree",0
 200157,9.0,yes,no,yes, ,no,no,yes,Male,20.0,"Some college, no degree",1
-200160,50.0,yes,,, ,no,yes,yes,Female,30.0,Two-year associate degree,1
+200160,50.0,yes,no,no, ,no,yes,yes,Female,30.0,Two-year associate degree,1
 200167,5.0,no,no,yes, ,yes,yes,yes,Female,37.0,Postgraduate or professional degree,1
 200174,1.0,yes,yes,no, ,yes,yes,yes,Female,55.0,Less than high school,0
-200186,6.0,yes,yes,no, ,no,yes,yes,Female,,Postgraduate or professional degree,1
+200186,6.0,yes,yes,no, ,no,yes,yes,Female,51.0,Postgraduate or professional degree,1
 200187,25.0,yes,yes,yes, ,yes,yes,yes,Female,62.0,Unknown,1
 200190,10.0,yes,yes,yes, ,no,yes,yes,Male,31.0,"Some college, no degree",1
 200192,15.0,yes,no,no, ,yes,yes,yes,Male,19.0,"Some college, no degree",1
@@ -460,9 +460,9 @@ respondent_id,books_read_1year,print_books,audiobooks,ebooks,smartphone,ebook_re
 200231,50.0,yes,no,no, ,no,yes,yes,Male,67.0,Postgraduate or professional degree,1
 200236,6.0,yes,yes,yes, ,yes,no,yes,Male,25.0,Postgraduate or professional degree,1
 200238,97.0,yes,yes,yes, ,no,yes,yes,Male,24.0,Two-year associate degree,1
-200242,50.0,no,,yes, ,yes,yes,yes,Female,79.0,Four-year college degree or bachelor's degree,1
+200242,50.0,no,no,yes, ,yes,yes,yes,Female,79.0,Four-year college degree or bachelor's degree,1
 200244,25.0,yes,no,yes, ,no,yes,yes,Male,28.0,Postgraduate or professional degree,1
-200245,5.0,yes,no,no, ,no,yes,yes,Female,50.0,,1
+200245,5.0,yes,no,no, ,no,yes,yes,Female,50.0,Unknown,1
 200249,0.0, , , , ,no,no,yes,Female,20.0,Two-year associate degree,0
 200252,0.0, , , , ,no,no,yes,Male,58.0,"Some college, no degree",0
 200253,4.0,yes,no,no, ,no,yes,yes,Male,40.0,Postgraduate or professional degree,0
@@ -541,7 +541,7 @@ respondent_id,books_read_1year,print_books,audiobooks,ebooks,smartphone,ebook_re
 200561,0.0, , , , ,no,no,no,Male,63.0,Two-year associate degree,0
 200566,25.0,yes,no,no, ,no,no,yes,Female,77.0,Postgraduate or professional degree,1
 200575,12.0,yes,no,no, ,no,yes,yes,Male,30.0,Postgraduate or professional degree,1
-200581,2.0,no,no,no, ,,no,no,Female,83.0,"Some college, no degree",0
+200581,2.0,no,no,no, ,no,no,no,Female,83.0,"Some college, no degree",0
 200584,5.0,yes,no,yes, ,no,yes,yes,Female,38.0,Postgraduate or professional degree,1
 200586,2.0,yes,no,no, ,no,no,yes,Male,64.0,Unknown,0
 200590,4.0,yes,yes,no, ,no,no,yes,Female,72.0,Postgraduate or professional degree,0
@@ -557,7 +557,7 @@ respondent_id,books_read_1year,print_books,audiobooks,ebooks,smartphone,ebook_re
 200650,5.0,yes,yes,yes, ,no,no,yes,Female,21.0,Two-year associate degree,1
 200656,1.0,yes,no,no, ,no,no,no,Male,53.0,"Some college, no degree",0
 200664,50.0,yes,no,no, ,no,yes,yes,Female,61.0,Postgraduate or professional degree,1
-200667,, , , , ,no,yes,yes,Female,40.0,Postgraduate or professional degree,0
+200667,0.0, , , , ,no,yes,yes,Female,40.0,Postgraduate or professional degree,0
 200670,15.0,yes,no,yes, ,no,no,no,Female,70.0,Postgraduate or professional degree,1
 200675,0.0, , , , ,no,yes,no,Male,25.0,"Some college, no degree",0
 200676,11.0,yes,no,yes, ,yes,no,yes,Male,68.0,Two-year associate degree,1
@@ -609,7 +609,7 @@ respondent_id,books_read_1year,print_books,audiobooks,ebooks,smartphone,ebook_re
 200882,1.0,yes,no,no, ,no,no,yes,Female,70.0,Unknown,0
 200886,20.0,yes,no,yes, ,no,no,yes,Male,18.0,Two-year associate degree,1
 200891,0.0, , , , ,no,no,yes,Male,27.0,"Some college, no degree",0
-200892,5.0,,yes,no, ,no,no,no,Male,45.0,High school graduate or GED,1
+200892,5.0,no,yes,no, ,no,no,no,Male,45.0,High school graduate or GED,1
 200896,2.0,no,no,yes, ,yes,yes,yes,Female,56.0,Two-year associate degree,0
 200899,0.0, , , , ,no,no,no,Male,54.0,"Some college, no degree",0
 200902,20.0,yes,yes,yes, ,no,yes,yes,Female,32.0,Postgraduate or professional degree,1
@@ -636,7 +636,7 @@ respondent_id,books_read_1year,print_books,audiobooks,ebooks,smartphone,ebook_re
 200985,10.0,yes,yes,yes, ,no,no,no,Male,18.0,High school graduate or GED,1
 200987,3.0,yes,no,no, ,yes,yes,yes,Male,17.0,High school graduate or GED,0
 200991,8.0,no,no,yes, ,yes,yes,yes,Male,43.0,Unknown,1
-200994,0.0, , , , ,,yes,yes,Male,63.0,"Some college, no degree",0
+200994,0.0, , , , ,no,yes,yes,Male,63.0,"Some college, no degree",0
 200997,0.0, , , , ,no,no,no,Male,51.0,High school graduate or GED,0
 201003,97.0,yes,no,yes, ,yes,no,yes,Male,58.0,Unknown,1
 201005,0.0, , , , ,no,no,yes,Male,36.0,High school graduate or GED,0
@@ -644,7 +644,7 @@ respondent_id,books_read_1year,print_books,audiobooks,ebooks,smartphone,ebook_re
 201019,36.0,yes,no,no, ,no,yes,yes,Male,67.0,"Some college, no degree",1
 201022,2.0,no,yes,no, ,yes,yes,yes,Male,58.0,Two-year associate degree,0
 201023,5.0,yes,no,yes, ,no,no,yes,Male,51.0,Two-year associate degree,1
-201024,0.0, , , , ,no,no,yes,Male,,Unknown,0
+201024,0.0, , , , ,no,no,yes,Male,51.0,Unknown,0
 201035,20.0,yes,no,no, ,no,no,yes,Female,25.0,Two-year associate degree,1
 201037,25.0,yes,no,yes, ,yes,yes,yes,Male,64.0,Unknown,1
 201038,5.0,no,yes,yes, ,no,yes,yes,Female,74.0,Two-year associate degree,1
@@ -671,7 +671,7 @@ respondent_id,books_read_1year,print_books,audiobooks,ebooks,smartphone,ebook_re
 201145,8.0,yes,no,no, ,no,yes,yes,Female,66.0,"Some college, no degree",1
 201149,2.0,yes,no,no, ,no,no,yes,Female,56.0,Four-year college degree or bachelor's degree,0
 201151,6.0,yes,no,no, ,yes,yes,yes,Female,80.0,Four-year college degree or bachelor's degree,1
-201152,, , , , ,no,no,no,Female,28.0,High school graduate or GED,0
+201152,0.0, , , , ,no,no,no,Female,28.0,High school graduate or GED,0
 201155,3.0,yes,no,no, ,no,no,yes,Female,88.0,"Some college, no degree",0
 201158,2.0,no,no,no, ,no,no,no,Male,28.0,High school graduate or GED,0
 201161,1.0,no,no,yes, ,no,yes,yes,Male,37.0,Two-year associate degree,0
@@ -679,28 +679,28 @@ respondent_id,books_read_1year,print_books,audiobooks,ebooks,smartphone,ebook_re
 201167,3.0,yes,no,yes, ,yes,no,yes,Female,17.0,High school graduate or GED,0
 201169,3.0,no,no,yes, ,no,yes,yes,Female,48.0,Unknown,0
 201171,0.0, , , , ,no,no,yes,Male,27.0,Postgraduate or professional degree,0
-201172,5.0,,yes,no, ,no,no,yes,Male,68.0,Unknown,1
+201172,5.0,no,yes,no, ,no,no,yes,Male,68.0,Unknown,1
 201177,5.0,yes,no,yes, ,yes,yes,yes,Male,40.0,Four-year college degree or bachelor's degree,1
 201188,1.0,yes,no,no, ,no,yes,no,Female,22.0,"Some college, no degree",0
-201194,50.0,yes,no,no, ,no,no,no,Female,,,1
+201194,50.0,yes,no,no, ,no,no,no,Female,51.0,Unknown,1
 201196,0.0, , , , ,no,yes,yes,Male,17.0,High school graduate or GED,0
-201198,15.0,yes,no,no, ,no,no,yes,Male,,,1
+201198,15.0,yes,no,no, ,no,no,yes,Male,51.0,Unknown,1
 201200,30.0,yes,yes,no, ,no,yes,yes,Female,23.0,Postgraduate or professional degree,1
-201203,, , , , ,no,no,yes,Male,57.0,"Some college, no degree",0
+201203,0.0, , , , ,no,no,yes,Male,57.0,"Some college, no degree",0
 201204,0.0, , , , ,no,yes,yes,Male,32.0,"Some college, no degree",0
 201206,1.0,yes,no,no, ,no,yes,no,Female,58.0,"Some college, no degree",0
 201209,3.0,no,no,yes, ,no,yes,yes,Female,69.0,Four-year college degree or bachelor's degree,0
 201210,0.0, , , , ,yes,yes,yes,Male,50.0,"Some college, no degree",0
 201213,12.0,yes,no,no, ,no,no,yes,Male,34.0,High school graduate or GED,1
 201214,10.0,yes,no,no, ,yes,yes,yes,Female,24.0,Postgraduate or professional degree,1
-201215,1.0,yes,no,no, ,no,,no,Male,38.0,High school graduate or GED,0
+201215,1.0,yes,no,no, ,no,no,no,Male,38.0,High school graduate or GED,0
 201218,4.0,yes,yes,yes, ,yes,yes,yes,Male,51.0,Two-year associate degree,0
 201222,15.0,yes,yes,yes, ,yes,no,yes,Male,61.0,Postgraduate or professional degree,1
 201226,0.0, , , , ,no,no,no,Male,35.0,"Some college, no degree",0
 201227,12.0,yes,no,yes, ,no,yes,yes,Male,64.0,Unknown,1
 201253,60.0,yes,no,yes, ,yes,yes,yes,Male,24.0,Postgraduate or professional degree,1
 201261,6.0,yes,yes,no, ,no,yes,yes,Male,65.0,"Some college, no degree",1
-201262,, , , , ,no,yes,yes,Male,23.0,High school graduate or GED,0
+201262,0.0, , , , ,no,yes,yes,Male,23.0,High school graduate or GED,0
 201265,25.0,yes,no,yes, ,no,yes,yes,Female,30.0,Postgraduate or professional degree,1
 201268,10.0,yes,no,yes, ,no,yes,yes,Male,42.0,Unknown,1
 201269,0.0, , , , ,no,no,yes,Male,44.0,Four-year college degree or bachelor's degree,0
@@ -721,7 +721,7 @@ respondent_id,books_read_1year,print_books,audiobooks,ebooks,smartphone,ebook_re
 201330,6.0,no,yes,yes, ,no,no,yes,Female,60.0,Two-year associate degree,1
 201337,20.0,no,yes,yes, ,no,yes,yes,Male,25.0,Two-year associate degree,1
 201341,2.0,yes,no,yes, ,yes,yes,yes,Male,16.0,High school graduate or GED,0
-201356,, , , , ,no,yes,yes,Male,40.0,Postgraduate or professional degree,0
+201356,0.0, , , , ,no,yes,yes,Male,40.0,Postgraduate or professional degree,0
 201371,97.0,yes,no,yes, ,yes,yes,yes,Female,58.0,Postgraduate or professional degree,1
 201380,12.0,yes,no,no, ,yes,no,yes,Female,40.0,Unknown,1
 201392,97.0,yes,no,yes, ,yes,yes,yes,Female,65.0,Four-year college degree or bachelor's degree,1
@@ -740,7 +740,7 @@ respondent_id,books_read_1year,print_books,audiobooks,ebooks,smartphone,ebook_re
 201459,4.0,yes,no,no, ,no,yes,yes,Male,18.0,Four-year college degree or bachelor's degree,0
 201462,30.0,yes,yes,yes, ,no,yes,yes,Male,33.0,Two-year associate degree,1
 201472,6.0,yes,no,no, ,no,yes,yes,Female,17.0,"Some college, no degree",1
-201475,5.0,yes,no,, ,no,no,yes,Female,62.0,Two-year associate degree,1
+201475,5.0,yes,no,no, ,no,no,yes,Female,62.0,Two-year associate degree,1
 201487,0.0, , , , ,no,no,no,Female,62.0,"Some college, no degree",0
 201490,3.0,yes,no,no, ,no,yes,yes,Male,44.0,Unknown,0
 201492,50.0,yes,no,yes, ,no,yes,yes,Female,44.0,Postgraduate or professional degree,1
@@ -806,7 +806,7 @@ respondent_id,books_read_1year,print_books,audiobooks,ebooks,smartphone,ebook_re
 201735,0.0, , , , ,no,no,no,Male,67.0,High school graduate or GED,0
 201736,1.0,yes,no,no, ,no,no,no,Female,58.0,High school graduate or GED,0
 201741,30.0,yes,no,no, ,no,yes,no,Female,54.0,Unknown,1
-201743,12.0,yes,no,yes, ,,yes,yes,Female,64.0,Unknown,1
+201743,12.0,yes,no,yes, ,no,yes,yes,Female,64.0,Unknown,1
 201745,10.0,yes,no,no, ,no,yes,yes,Female,56.0,Postgraduate or professional degree,1
 201746,2.0,no,no,yes, ,no,yes,yes,Male,52.0,Postgraduate or professional degree,0
 201750,1.0,yes,no,no, ,no,yes,yes,Female,31.0,"Some college, no degree",0
@@ -851,7 +851,7 @@ respondent_id,books_read_1year,print_books,audiobooks,ebooks,smartphone,ebook_re
 201923,12.0,yes,no,yes, ,no,yes,yes,Male,24.0,Postgraduate or professional degree,1
 201930,4.0,yes,no,yes, ,yes,yes,yes,Female,63.0,Postgraduate or professional degree,0
 201935,4.0,yes,no,no, ,no,no,no,Female,62.0,Four-year college degree or bachelor's degree,0
-201947,, , , , ,no,no,no,Female,71.0,Two-year associate degree,0
+201947,0.0, , , , ,no,no,no,Female,71.0,Two-year associate degree,0
 201948,50.0,yes,no,no, ,no,yes,yes,Female,36.0,Unknown,1
 201949,3.0,yes,no,yes, ,no,yes,yes,Male,21.0,Two-year associate degree,0
 201951,97.0,yes,no,yes, ,yes,yes,yes,Female,38.0,Four-year college degree or bachelor's degree,1
@@ -899,7 +899,7 @@ respondent_id,books_read_1year,print_books,audiobooks,ebooks,smartphone,ebook_re
 202189,3.0,yes,no,no, ,no,no,yes,Female,41.0,Four-year college degree or bachelor's degree,0
 202207,25.0,yes,no,yes, ,no,yes,yes,Male,58.0,Unknown,1
 202208,0.0, , , , ,no,no,no,Female,19.0,Less than high school,0
-202209,, , , , ,yes,no,yes,Male,49.0,Unknown,0
+202209,0.0, , , , ,yes,no,yes,Male,49.0,Unknown,0
 202213,4.0,yes,no,no, ,no,yes,yes,Male,89.0,Unknown,0
 202216,5.0,yes,no,no, ,no,no,yes,Male,51.0,Two-year associate degree,1
 202218,25.0,yes,yes,no, ,no,yes,yes,Female,62.0,Unknown,1
@@ -921,7 +921,7 @@ respondent_id,books_read_1year,print_books,audiobooks,ebooks,smartphone,ebook_re
 202306,3.0,yes,no,no, ,no,no,yes,Female,24.0,Postgraduate or professional degree,0
 202322,97.0,yes,yes,no, ,no,yes,yes,Male,17.0,Less than high school,1
 202329,0.0, , , , ,no,no,yes,Female,80.0,Two-year associate degree,0
-202342,0.0, , , , ,no,yes,no,Female,33.0,,0
+202342,0.0, , , , ,no,yes,no,Female,33.0,Unknown,0
 202344,25.0,yes,yes,yes, ,no,yes,yes,Male,68.0,Postgraduate or professional degree,1
 202356,5.0,yes,no,yes, ,no,no,yes,Male,59.0,Four-year college degree or bachelor's degree,1
 202360,1.0,yes,no,no, ,no,no,yes,Male,58.0,Two-year associate degree,0
@@ -992,7 +992,7 @@ respondent_id,books_read_1year,print_books,audiobooks,ebooks,smartphone,ebook_re
 202756,9.0,yes,no,no, ,no,yes,yes,Male,32.0,Unknown,1
 202763,30.0,yes,yes,yes, ,yes,yes,yes,Male,68.0,Unknown,1
 202776,3.0,yes,no,no, ,no,yes,yes,Female,55.0,Postgraduate or professional degree,0
-202796,50.0,yes,no,yes, ,no,no,yes,Male,,Postgraduate or professional degree,1
+202796,50.0,yes,no,yes, ,no,no,yes,Male,51.0,Postgraduate or professional degree,1
 202800,0.0, , , , ,no,no,no,Male,77.0,"Some college, no degree",0
 202803,30.0,yes,no,yes, ,no,yes,yes,Female,63.0,Four-year college degree or bachelor's degree,1
 202806,0.0, , , , ,no,yes,yes,Female,21.0,Two-year associate degree,0
@@ -1016,7 +1016,7 @@ respondent_id,books_read_1year,print_books,audiobooks,ebooks,smartphone,ebook_re
 202864,10.0,yes,no,no, ,no,no,no,Female,75.0,Unknown,1
 202871,5.0,yes,no,no, ,no,yes,no,Male,55.0,Postgraduate or professional degree,1
 202876,4.0,yes,no,no, ,no,yes,yes,Female,63.0,"Some college, no degree",0
-202879,1.0,yes,no,no, ,no,yes,yes,Male,,"Some college, no degree",0
+202879,1.0,yes,no,no, ,no,yes,yes,Male,51.0,"Some college, no degree",0
 202891,0.0, , , , ,no,yes,yes,Male,58.0,Postgraduate or professional degree,0
 202903,0.0, , , , ,no,no,no,Male,63.0,"Some college, no degree",0
 202912,3.0,yes,no,yes, ,no,yes,yes,Male,16.0,High school graduate or GED,0
@@ -1026,14 +1026,14 @@ respondent_id,books_read_1year,print_books,audiobooks,ebooks,smartphone,ebook_re
 202927,2.0,yes,no,no, ,no,no,yes,Female,55.0,Four-year college degree or bachelor's degree,0
 202933,2.0,no,no,yes, ,yes,yes,yes,Female,75.0,Postgraduate or professional degree,0
 202935,97.0,no,no,yes, ,yes,yes,yes,Female,78.0,"Some college, no degree",1
-202937,29.0,yes,no,no, ,no,,yes,Female,54.0,High school graduate or GED,1
+202937,29.0,yes,no,no, ,no,no,yes,Female,54.0,High school graduate or GED,1
 202940,5.0,yes,no,yes, ,no,yes,yes,Male,18.0,Two-year associate degree,1
 202943,0.0, , , , ,yes,yes,no,Male,43.0,"Some college, no degree",0
 202948,20.0,yes,no,yes, ,yes,no,yes,Male,66.0,Unknown,1
 202952,20.0,yes,no,yes, ,yes,yes,yes,Female,62.0,Unknown,1
 202957,0.0, , , , ,no,no,no,Female,73.0,Less than high school,0
 202965,25.0,yes,no,no, ,no,no,yes,Male,55.0,Unknown,1
-202967,, , , , ,no,no,yes,Male,57.0,Less than high school,0
+202967,0.0, , , , ,no,no,yes,Male,57.0,Less than high school,0
 202973,30.0,yes,yes,yes, ,no,yes,yes,Male,55.0,Postgraduate or professional degree,1
 202977,5.0,yes,no,no, ,no,no,yes,Male,24.0,Two-year associate degree,1
 202983,10.0,yes,yes,no, ,no,yes,no,Female,25.0,Postgraduate or professional degree,1
@@ -1059,7 +1059,7 @@ respondent_id,books_read_1year,print_books,audiobooks,ebooks,smartphone,ebook_re
 203089,2.0,no,no,yes, ,no,yes,yes,Male,29.0,Unknown,0
 203090,5.0,yes,no,yes, ,yes,yes,yes,Female,18.0,High school graduate or GED,1
 203093,4.0,yes,no,no, ,no,no,yes,Male,31.0,Two-year associate degree,0
-203100,13.0,yes,no,no, ,no,no,yes,Male,,Postgraduate or professional degree,1
+203100,13.0,yes,no,no, ,no,no,yes,Male,51.0,Postgraduate or professional degree,1
 203105,0.0, , , , ,no,yes,yes,Female,54.0,Two-year associate degree,0
 203107,0.0, , , , ,no,yes,yes,Male,53.0,Four-year college degree or bachelor's degree,0
 203114,0.0, , , , ,no,no,yes,Male,55.0,"Some college, no degree",0
@@ -1079,7 +1079,7 @@ respondent_id,books_read_1year,print_books,audiobooks,ebooks,smartphone,ebook_re
 203177,3.0,yes,no,no, ,yes,yes,yes,Female,21.0,Two-year associate degree,0
 203178,17.0,yes,no,yes, ,no,no,yes,Male,27.0,"Some college, no degree",1
 203179,3.0,yes,no,no, ,no,no,no,Male,63.0,Unknown,0
-203196,1.0,no,no,no, ,,,no,Male,54.0,"Some college, no degree",0
+203196,1.0,no,no,no, ,no,no,no,Male,54.0,"Some college, no degree",0
 203198,97.0,yes,no,no, ,no,no,yes,Male,39.0,Unknown,1
 203200,12.0,yes,yes,yes, ,no,yes,yes,Male,32.0,Unknown,1
 203214,15.0,yes,no,no, ,no,no,yes,Male,43.0,Unknown,1
@@ -1113,7 +1113,7 @@ respondent_id,books_read_1year,print_books,audiobooks,ebooks,smartphone,ebook_re
 203348,1.0,yes,no,no, ,no,no,no,Male,42.0,"Some college, no degree",0
 203349,0.0, , , , ,no,no,yes,Male,25.0,"Some college, no degree",0
 203355,1.0,yes,no,no, ,no,no,yes,Female,72.0,"Some college, no degree",0
-203357,, , , , ,yes,yes,yes,Female,46.0,Postgraduate or professional degree,0
+203357,0.0, , , , ,yes,yes,yes,Female,46.0,Postgraduate or professional degree,0
 203360,4.0,no,yes,yes, ,no,no,yes,Male,51.0,"Some college, no degree",0
 203362,0.0, , , , ,no,no,no,Female,49.0,Less than high school,0
 203368,60.0,yes,yes,yes, ,no,yes,yes,Female,73.0,Four-year college degree or bachelor's degree,1
@@ -1129,7 +1129,7 @@ respondent_id,books_read_1year,print_books,audiobooks,ebooks,smartphone,ebook_re
 203414,0.0, , , , ,no,yes,yes,Male,49.0,"Some college, no degree",0
 203427,0.0, , , , ,no,yes,yes,Male,45.0,Unknown,0
 203429,25.0,no,no,yes, ,no,yes,no,Female,76.0,Postgraduate or professional degree,1
-203430,, , , , ,no,yes,no,Female,59.0,Postgraduate or professional degree,0
+203430,0.0, , , , ,no,yes,no,Female,59.0,Postgraduate or professional degree,0
 203449,1.0,yes,no,no, ,no,yes,yes,Male,23.0,"Some college, no degree",0
 203455,15.0,yes,yes,yes, ,yes,yes,yes,Female,49.0,Unknown,1
 203457,5.0,yes,no,no, ,no,no,yes,Female,17.0,High school graduate or GED,1
@@ -1142,7 +1142,7 @@ respondent_id,books_read_1year,print_books,audiobooks,ebooks,smartphone,ebook_re
 203492,12.0,yes,no,yes, ,no,yes,yes,Female,52.0,Unknown,1
 203493,0.0, , , , ,no,yes,no,Male,34.0,"Some college, no degree",0
 203496,5.0,yes,no,yes, ,yes,no,yes,Male,55.0,Two-year associate degree,1
-203498,, , , , ,no,yes,yes,Male,67.0,Postgraduate or professional degree,0
+203498,0.0, , , , ,no,yes,yes,Male,67.0,Postgraduate or professional degree,0
 203499,10.0,yes,yes,no, ,no,yes,yes,Male,27.0,Postgraduate or professional degree,1
 203500,2.0,yes,no,no, ,no,no,yes,Female,40.0,Unknown,0
 203513,3.0,yes,no,yes, ,yes,yes,yes,Male,50.0,Four-year college degree or bachelor's degree,0
@@ -1150,13 +1150,13 @@ respondent_id,books_read_1year,print_books,audiobooks,ebooks,smartphone,ebook_re
 203519,30.0,yes,no,yes, ,yes,no,yes,Male,57.0,Postgraduate or professional degree,1
 203532,0.0, , , , ,yes,yes,yes,Male,66.0,"Some college, no degree",0
 203534,4.0,yes,no,no, ,no,no,yes,Female,59.0,Unknown,0
-203535,5.0,,no,no, ,no,yes,yes,Female,54.0,"Some college, no degree",1
+203535,5.0,no,no,no, ,no,yes,yes,Female,54.0,"Some college, no degree",1
 203552,30.0,yes,no,yes, ,no,yes,yes,Female,22.0,Four-year college degree or bachelor's degree,1
 203554,0.0, , , , ,no,no,no,Male,23.0,Less than high school,0
 203556,30.0,yes,yes,yes, ,no,yes,yes,Male,31.0,Unknown,1
 203560,97.0,yes,yes,yes, ,yes,yes,yes,Female,68.0,Unknown,1
 203565,5.0,yes,no,yes, ,no,yes,yes,Female,60.0,Unknown,1
-203567,10.0,yes,no,no, ,no,no,yes,Male,,,1
+203567,10.0,yes,no,no, ,no,no,yes,Male,51.0,Unknown,1
 203568,1.0,no,no,yes, ,no,yes,yes,Male,26.0,Postgraduate or professional degree,0
 203572,0.0, , , , ,no,no,yes,Male,70.0,Postgraduate or professional degree,0
 203573,2.0,yes,no,no, ,no,yes,yes,Male,20.0,Two-year associate degree,0
@@ -1171,7 +1171,7 @@ respondent_id,books_read_1year,print_books,audiobooks,ebooks,smartphone,ebook_re
 203618,0.0, , , , ,no,no,yes,Male,67.0,Two-year associate degree,0
 203621,40.0,yes,yes,yes, ,yes,no,yes,Female,48.0,Unknown,1
 203622,6.0,yes,no,yes, ,no,yes,yes,Male,31.0,Four-year college degree or bachelor's degree,1
-203627,, , , , ,no,no,no,Male,44.0,High school graduate or GED,0
+203627,0.0, , , , ,no,no,no,Male,44.0,High school graduate or GED,0
 203629,12.0,yes,no,yes, ,yes,yes,yes,Female,59.0,Four-year college degree or bachelor's degree,1
 203635,97.0,yes,no,no, ,no,no,yes,Female,54.0,Two-year associate degree,1
 203637,3.0,yes,no,no, ,no,yes,yes,Male,30.0,Postgraduate or professional degree,0
@@ -1242,7 +1242,7 @@ respondent_id,books_read_1year,print_books,audiobooks,ebooks,smartphone,ebook_re
 203929,16.0,yes,no,yes, ,no,no,yes,Male,22.0,Four-year college degree or bachelor's degree,1
 203935,12.0,yes,no,no, ,no,no,yes,Male,70.0,Unknown,1
 203936,6.0,yes,no,yes, ,yes,yes,yes,Female,64.0,Two-year associate degree,1
-203940,, , , , ,yes,yes,yes,Female,36.0,Postgraduate or professional degree,0
+203940,0.0, , , , ,yes,yes,yes,Female,36.0,Postgraduate or professional degree,0
 203943,0.0, , , , ,no,yes,yes,Male,81.0,Two-year associate degree,0
 203952,6.0,yes,no,no, ,no,no,yes,Male,71.0,Four-year college degree or bachelor's degree,1
 203956,0.0, , , , ,no,no,no,Female,58.0,Two-year associate degree,0
@@ -1275,8 +1275,8 @@ respondent_id,books_read_1year,print_books,audiobooks,ebooks,smartphone,ebook_re
 204077,0.0, , , , ,no,yes,yes,Male,67.0,Postgraduate or professional degree,0
 204079,2.0,yes,no,no, ,no,yes,yes,Male,30.0,Postgraduate or professional degree,0
 204083,2.0,yes,no,no, ,no,no,yes,Male,22.0,Two-year associate degree,0
-204084,6.0,no,yes,yes, ,no,no,yes,Male,,Postgraduate or professional degree,1
-204091,, , , , ,yes,yes,yes,Male,48.0,High school graduate or GED,0
+204084,6.0,no,yes,yes, ,no,no,yes,Male,51.0,Postgraduate or professional degree,1
+204091,0.0, , , , ,yes,yes,yes,Male,48.0,High school graduate or GED,0
 204092,1.0,yes,no,no, ,no,no,yes,Female,59.0,Unknown,0
 204103,25.0,yes,yes,yes, ,no,no,yes,Female,29.0,"Some college, no degree",1
 204106,3.0,yes,no,no, ,no,no,no,Male,16.0,High school graduate or GED,0
@@ -1350,7 +1350,7 @@ respondent_id,books_read_1year,print_books,audiobooks,ebooks,smartphone,ebook_re
 204467,0.0, , , , ,no,no,no,Male,23.0,Unknown,0
 204470,97.0,yes,no,yes, ,no,yes,yes,Male,29.0,Postgraduate or professional degree,1
 204477,20.0,yes,yes,no, ,no,yes,yes,Female,60.0,Postgraduate or professional degree,1
-204484,0.0, , , , ,no,yes,yes,Male,50.0,,0
+204484,0.0, , , , ,no,yes,yes,Male,50.0,Unknown,0
 204497,15.0,yes,no,no, ,no,no,yes,Male,71.0,Postgraduate or professional degree,1
 204511,1.0,yes,yes,no, ,no,no,yes,Male,22.0,Two-year associate degree,0
 204516,20.0,yes,no,yes, ,yes,yes,yes,Male,65.0,Unknown,1
@@ -1360,11 +1360,11 @@ respondent_id,books_read_1year,print_books,audiobooks,ebooks,smartphone,ebook_re
 204524,25.0,yes,no,yes, ,no,no,yes,Female,23.0,Postgraduate or professional degree,1
 204548,3.0,yes,no,no, ,no,no,yes,Male,67.0,Two-year associate degree,0
 204569,0.0, , , , ,no,no,yes,Male,62.0,"Some college, no degree",0
-204571,0.0, , , , ,no,no,yes,Male,,Postgraduate or professional degree,0
+204571,0.0, , , , ,no,no,yes,Male,51.0,Postgraduate or professional degree,0
 204572,0.0, , , , ,no,no,no,Female,45.0,"Some college, no degree",0
 204575,12.0,yes,yes,yes, ,yes,no,yes,Male,59.0,"Some college, no degree",1
 204576,15.0,yes,no,yes, ,yes,yes,yes,Male,64.0,Unknown,1
-204584,, , , , ,no,no,yes,Female,82.0,Two-year associate degree,0
+204584,0.0, , , , ,no,no,yes,Female,82.0,Two-year associate degree,0
 204586,2.0,yes,no,no, ,no,yes,yes,Female,45.0,Two-year associate degree,0
 204587,0.0, , , , ,no,no,no,Male,27.0,Postgraduate or professional degree,0
 204591,24.0,yes,yes,yes, ,yes,no,yes,Female,47.0,Four-year college degree or bachelor's degree,1
@@ -1372,12 +1372,12 @@ respondent_id,books_read_1year,print_books,audiobooks,ebooks,smartphone,ebook_re
 204616,20.0,yes,yes,no, ,no,no,yes,Male,55.0,Two-year associate degree,1
 204626,0.0, , , , ,no,no,no,Male,58.0,"Some college, no degree",0
 204628,4.0,yes,no,yes, ,no,yes,yes,Male,21.0,Postgraduate or professional degree,0
-204632,0.0, , , , ,no,yes,yes,Male,,Four-year college degree or bachelor's degree,0
+204632,0.0, , , , ,no,yes,yes,Male,51.0,Four-year college degree or bachelor's degree,0
 204646,5.0,yes,no,no, ,no,no,no,Male,31.0,Unknown,1
 204647,0.0, , , , ,no,yes,yes,Female,50.0,Four-year college degree or bachelor's degree,0
 204649,1.0,yes,no,no, ,no,yes,yes,Female,68.0,"Some college, no degree",0
 204653,6.0,yes,no,no, ,no,yes,yes,Male,20.0,Less than high school,1
-204667,3.0,no,yes,yes, ,,yes,yes,Female,52.0,"Some college, no degree",0
+204667,3.0,no,yes,yes, ,no,yes,yes,Female,52.0,"Some college, no degree",0
 204668,0.0, , , , ,no,yes,yes,Female,34.0,Postgraduate or professional degree,0
 204671,0.0, , , , ,no,yes,yes,Male,39.0,Less than high school,0
 204677,3.0,yes,no,no, ,yes,yes,yes,Female,47.0,Two-year associate degree,0
@@ -1389,7 +1389,7 @@ respondent_id,books_read_1year,print_books,audiobooks,ebooks,smartphone,ebook_re
 204713,0.0, , , , ,yes,yes,yes,Male,38.0,"Some college, no degree",0
 204721,2.0,yes,no,yes, ,no,no,no,Female,29.0,"Some college, no degree",0
 204724,0.0, , , , ,no,yes,yes,Male,55.0,Unknown,0
-204733,0.0, , , , ,no,yes,yes,Male,,"Some college, no degree",0
+204733,0.0, , , , ,no,yes,yes,Male,51.0,"Some college, no degree",0
 204734,97.0,yes,no,yes, ,yes,yes,yes,Male,40.0,Unknown,1
 204737,12.0,yes,no,no, ,no,yes,yes,Male,25.0,"Some college, no degree",1
 204748,4.0,yes,no,no, ,no,yes,no,Male,44.0,"Some college, no degree",0
@@ -1417,7 +1417,7 @@ respondent_id,books_read_1year,print_books,audiobooks,ebooks,smartphone,ebook_re
 204905,5.0,yes,no,yes, ,yes,yes,yes,Female,35.0,Unknown,1
 204908,8.0,yes,no,no, ,no,no,yes,Male,66.0,Unknown,1
 204909,5.0,yes,no,no, ,no,no,yes,Male,67.0,Two-year associate degree,1
-204911,4.0,yes,no,no, ,no,,yes,Female,77.0,"Some college, no degree",0
+204911,4.0,yes,no,no, ,no,no,yes,Female,77.0,"Some college, no degree",0
 204914,0.0, , , , ,no,no,yes,Female,46.0,Postgraduate or professional degree,0
 204916,12.0,yes,no,no, ,no,no,yes,Female,62.0,Unknown,1
 204923,30.0,yes,no,no, ,no,no,yes,Male,72.0,Two-year associate degree,1
@@ -1426,7 +1426,7 @@ respondent_id,books_read_1year,print_books,audiobooks,ebooks,smartphone,ebook_re
 204930,10.0,yes,no,no, ,no,yes,yes,Male,50.0,Two-year associate degree,1
 204935,0.0, , , , ,no,yes,yes,Female,20.0,Four-year college degree or bachelor's degree,0
 204944,1.0,yes,no,no, ,no,no,yes,Female,19.0,Two-year associate degree,0
-204946,3.0,yes,no,no, ,no,no,no,Male,,Postgraduate or professional degree,0
+204946,3.0,yes,no,no, ,no,no,no,Male,51.0,Postgraduate or professional degree,0
 204949,6.0,yes,yes,no, ,no,yes,yes,Female,49.0,Postgraduate or professional degree,1
 204952,10.0,yes,no,yes, ,no,yes,yes,Female,20.0,Two-year associate degree,1
 204955,0.0, , , , ,no,yes,no,Male,36.0,Postgraduate or professional degree,0
@@ -1450,7 +1450,7 @@ respondent_id,books_read_1year,print_books,audiobooks,ebooks,smartphone,ebook_re
 205047,30.0,yes,no,no, ,no,no,yes,Female,59.0,Postgraduate or professional degree,1
 205049,10.0,yes,no,no, ,no,no,yes,Male,48.0,Four-year college degree or bachelor's degree,1
 205064,8.0,yes,yes,no, ,no,no,yes,Male,19.0,Two-year associate degree,1
-205070,0.0, , , , ,no,no,no,Male,,Postgraduate or professional degree,0
+205070,0.0, , , , ,no,no,no,Male,51.0,Postgraduate or professional degree,0
 205071,5.0,yes,no,no, ,yes,no,yes,Female,29.0,Unknown,1
 205078,8.0,yes,no,no, ,no,no,yes,Female,53.0,Postgraduate or professional degree,1
 205083,30.0,yes,no,yes, ,no,yes,yes,Male,39.0,"Some college, no degree",1
@@ -1459,16 +1459,16 @@ respondent_id,books_read_1year,print_books,audiobooks,ebooks,smartphone,ebook_re
 205091,15.0,yes,no,yes, ,no,yes,yes,Female,26.0,Postgraduate or professional degree,1
 205096,20.0,yes,no,yes, ,yes,yes,yes,Male,31.0,Unknown,1
 205104,15.0,yes,no,no, ,no,yes,yes,Female,30.0,Postgraduate or professional degree,1
-205108,1.0,yes,no,no, ,no,no,yes,Male,,Unknown,0
+205108,1.0,yes,no,no, ,no,no,yes,Male,51.0,Unknown,0
 205110,3.0,no,yes,yes, ,yes,yes,yes,Male,55.0,Two-year associate degree,0
 205118,97.0,yes,yes,no, ,no,yes,yes,Female,26.0,Postgraduate or professional degree,1
 205121,15.0,yes,no,no, ,no,yes,yes,Male,25.0,Postgraduate or professional degree,1
-205131,3.0,,no,no, ,no,no,no,Male,63.0,"Some college, no degree",0
+205131,3.0,no,no,no, ,no,no,no,Male,63.0,"Some college, no degree",0
 205132,2.0,yes,yes,no, ,no,yes,yes,Female,28.0,Four-year college degree or bachelor's degree,0
 205149,0.0, , , , ,no,no,yes,Male,60.0,Postgraduate or professional degree,0
 205151,0.0, , , , ,no,no,no,Male,45.0,"Some college, no degree",0
 205153,3.0,yes,no,yes, ,no,yes,no,Female,28.0,"Some college, no degree",0
-205156,, , , , ,no,yes,yes,Female,50.0,Unknown,0
+205156,0.0, , , , ,no,yes,yes,Female,50.0,Unknown,0
 205162,1.0,yes,no,no, ,no,yes,no,Male,38.0,Two-year associate degree,0
 205165,12.0,yes,yes,no, ,no,yes,yes,Male,17.0,"Some college, no degree",1
 205168,3.0,yes,no,no, ,no,no,no,Female,51.0,Two-year associate degree,0
@@ -1582,7 +1582,7 @@ respondent_id,books_read_1year,print_books,audiobooks,ebooks,smartphone,ebook_re
 205691,5.0,yes,no,no, ,no,yes,yes,Female,20.0,Two-year associate degree,1
 205692,97.0,yes,no,no, ,no,yes,yes,Female,66.0,Two-year associate degree,1
 205705,10.0,yes,yes,yes, ,yes,no,yes,Female,17.0,High school graduate or GED,1
-205717,15.0,yes,no,no, ,no,yes,yes,Female,,Four-year college degree or bachelor's degree,1
+205717,15.0,yes,no,no, ,no,yes,yes,Female,51.0,Four-year college degree or bachelor's degree,1
 205722,7.0,yes,yes,yes, ,yes,yes,yes,Female,25.0,High school graduate or GED,1
 205744,6.0,yes,no,no, ,no,yes,no,Female,70.0,Four-year college degree or bachelor's degree,1
 205747,5.0,yes,no,no, ,no,no,yes,Female,56.0,Unknown,1
