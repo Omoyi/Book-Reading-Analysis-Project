@@ -1,0 +1,1602 @@
+respondent_id,books_read_1year,print_books,audiobooks,ebooks,smartphone,ebook_reader,tablet,laptop,gender,age,education,is_frequent_reader
+100001,10.0,yes,yes,yes,yes,yes,no,yes,,34.0,Two-year associate degree,1
+100003,4.0,yes,no,no,no,no,no,yes,,53.0,Two-year associate degree,0
+100005,7.0,no,no,no,yes,no,yes,yes,,49.0,Four-year college degree or bachelor's degree,1
+100009,30.0,yes,no,no,yes,no,no,yes,,73.0,"Some college, no degree",1
+100014,15.0,yes,no,yes,yes,yes,yes,no,,63.0,Unknown,1
+100016,8.0,yes,yes,no,yes,no,yes,yes,,85.0,Unknown,1
+100017,0.0, , , ,yes,no,no,yes,,34.0,"Some college, no degree",0
+100019,12.0,yes,no,yes,yes,no,yes,yes,,69.0,Unknown,1
+100022,0.0, , , ,no,no,no,yes,,73.0,Two-year associate degree,0
+100026,10.0,yes,no,yes,yes,yes,no,yes,,35.0,"Some college, no degree",1
+100028,2.0,yes,no,no,yes,no,no,yes,,60.0,Unknown,0
+100030,0.0, , , ,no,no,no,no,,50.0,High school graduate or GED,0
+100031,6.0,yes,no,no,yes,no,no,yes,,18.0,"Some college, no degree",1
+100035,7.0,yes,no,no,yes,no,yes,yes,,50.0,Postgraduate or professional degree,1
+100039,9.0,yes,no,no,no,no,no,yes,,87.0,Unknown,1
+100042,7.0,yes,no,yes,yes,no,yes,yes,,59.0,Unknown,1
+100053,75.0,yes,no,yes,yes,yes,yes,yes,,48.0,Postgraduate or professional degree,1
+100054,0.0, , , ,yes,no,no,no,,92.0,Two-year associate degree,0
+100062,20.0,yes,no,yes,yes,yes,yes,yes,,50.0,Four-year college degree or bachelor's degree,1
+100084,97.0,yes,no,no,yes,no,no,no,,94.0,Unknown,1
+100086,0.0, , , ,yes,no,no,yes,,18.0,"Some college, no degree",0
+100094,0.0, , , ,yes,no,no,yes,,67.0,Two-year associate degree,0
+100098,8.0,yes,no,no,yes,no,no,yes,,43.0,Postgraduate or professional degree,1
+100100,3.0,yes,no,no,yes,no,yes,no,,83.0,Two-year associate degree,0
+100108,50.0,yes,yes,yes,yes,no,no,yes,,78.0,"Some college, no degree",1
+100118,0.0, , , ,no,no,no,no,,79.0,Less than high school,0
+100120,30.0,yes,no,no,yes,yes,yes,yes,,58.0,Postgraduate or professional degree,1
+100124,4.0,yes,no,no,yes,no,no,yes,,26.0,Postgraduate or professional degree,0
+100125,0.0, , , ,yes,no,yes,yes,,80.0,Four-year college degree or bachelor's degree,0
+100135,2.0,yes,no,no,yes,no,no,yes,,59.0,Two-year associate degree,0
+100139,2.0,yes,no,no,yes,no,no,no,,50.0,Four-year college degree or bachelor's degree,0
+100140,7.0,yes,no,yes,yes,no,yes,yes,,16.0,High school graduate or GED,1
+100143,4.0,yes,no,no,no,no,no,yes,,90.0,Four-year college degree or bachelor's degree,0
+100145,0.0, , , ,yes,no,yes,yes,,52.0,"Some college, no degree",0
+100151,2.0,no,no,yes,yes,no,yes,yes,,41.0,Postgraduate or professional degree,0
+100155,5.0,yes,no,no,no,no,no,no,,41.0,"Some college, no degree",1
+100158,30.0,yes,no,yes,yes,yes,yes,yes,,58.0,Unknown,1
+100160,0.0, , , ,no,no,no,no,,90.0,"Some college, no degree",0
+100167,0.0, , , ,no,no,no,no,,73.0,Less than high school,0
+100173,5.0,yes,no,yes,yes,no,yes,yes,,47.0,Postgraduate or professional degree,1
+100180,12.0,yes,no,no,yes,no,yes,no,,58.0,Postgraduate or professional degree,1
+100181,3.0,yes,no,no,yes,no,no,no,,67.0,Two-year associate degree,0
+100186,, , , ,yes,no,no,no,,84.0,"Some college, no degree",0
+100188,0.0, , , ,yes,no,no,yes,,75.0,Two-year associate degree,0
+100190,1.0,yes,no,no,yes,no,yes,yes,,55.0,Two-year associate degree,0
+100197,2.0,yes,no,no,no,no,no,no,,68.0,"Some college, no degree",0
+100204,3.0,yes,no,no,yes,no,no,no,,39.0,Less than high school,0
+100205,12.0,yes,yes,no,yes,no,yes,yes,,57.0,Postgraduate or professional degree,1
+100207,30.0,yes,yes,yes,yes,yes,no,yes,,23.0,Postgraduate or professional degree,1
+100208,4.0,yes,no,yes,yes,yes,yes,yes,,54.0,Four-year college degree or bachelor's degree,0
+100211,97.0,yes,no,no,yes,no,no,yes,,69.0,Two-year associate degree,1
+100215,20.0,yes,no,no,yes,no,no,yes,,80.0,"Some college, no degree",1
+100219,30.0,yes,yes,yes,yes,yes,yes,yes,,42.0,Postgraduate or professional degree,1
+100222,6.0,yes,no,no,no,no,no,yes,,84.0,Postgraduate or professional degree,1
+100225,75.0,yes,no,no,yes,,no,yes,,74.0,Two-year associate degree,1
+100228,97.0,yes,no,yes,yes,no,yes,yes,,34.0,Unknown,1
+100242,6.0,yes,no,no,no,no,no,no,,67.0,Unknown,1
+100252,5.0,yes,no,no,yes,no,yes,yes,,19.0,"Some college, no degree",1
+100254,6.0,yes,no,no,no,no,no,no,,79.0,"Some college, no degree",1
+100259,0.0, , , ,yes,no,no,no,,68.0,High school graduate or GED,0
+100266,50.0,yes,no,yes,yes,yes,no,yes,,64.0,Unknown,1
+100267,0.0, , , ,no,no,no,yes,,53.0,"Some college, no degree",0
+100273,25.0,yes,yes,yes,yes,no,yes,yes,,50.0,Unknown,1
+100274,0.0, , , ,yes,no,yes,yes,,50.0,Four-year college degree or bachelor's degree,0
+100277,0.0, , , ,yes,no,no,no,,84.0,"Some college, no degree",0
+100282,10.0,yes,no,yes,yes,no,yes,yes,,17.0,High school graduate or GED,1
+100287,15.0,yes,no,yes,yes,no,no,yes,,70.0,"Some college, no degree",1
+100288,0.0, , , ,yes,no,yes,no,,52.0,Two-year associate degree,0
+100291,1.0,yes,no,no,yes,no,yes,yes,,58.0,Postgraduate or professional degree,0
+100301,, , , ,yes,no,no,yes,,59.0,"Some college, no degree",0
+100302,6.0,yes,no,no,yes,no,no,yes,,55.0,Unknown,1
+100305,0.0, , , ,yes,no,yes,no,,44.0,Postgraduate or professional degree,0
+100316,97.0,yes,no,no,yes,no,no,yes,,65.0,Postgraduate or professional degree,1
+100321,0.0, , , ,yes,no,no,yes,,53.0,Four-year college degree or bachelor's degree,0
+100322,8.0,yes,yes,yes,yes,yes,yes,yes,,74.0,Postgraduate or professional degree,1
+100323,2.0,yes,no,no,yes,no,yes,yes,,39.0,Postgraduate or professional degree,0
+100327,, , , ,yes,no,no,yes,,79.0,Two-year associate degree,0
+100333,0.0, , , ,yes,no,no,yes,,70.0,"Some college, no degree",0
+100338,10.0,yes,no,yes,yes,no,yes,yes,,61.0,Postgraduate or professional degree,1
+100339,97.0,yes,yes,no,yes,no,yes,yes,,38.0,Postgraduate or professional degree,1
+100341,3.0,yes,no,no,yes,no,yes,yes,,34.0,"Some college, no degree",0
+100345,0.0, , , ,yes,no,yes,yes,,51.0,Unknown,0
+100351,8.0,yes,no,no,yes,no,no,yes,,37.0,Postgraduate or professional degree,1
+100353,30.0,yes,no,no,yes,no,yes,yes,,50.0,Four-year college degree or bachelor's degree,1
+100355,50.0,yes,no,yes,yes,yes,yes,no,,41.0,Unknown,1
+100365,2.0,yes,no,no,yes,no,no,yes,,86.0,Four-year college degree or bachelor's degree,0
+100367,1.0,yes,no,no,yes,no,no,no,,84.0,High school graduate or GED,0
+100370,0.0, , , ,yes,no,no,yes,,69.0,"Some college, no degree",0
+100373,5.0,yes,no,no,yes,no,no,yes,,68.0,Postgraduate or professional degree,1
+100375,20.0,yes,yes,no,yes,no,yes,yes,,41.0,Postgraduate or professional degree,1
+100377,4.0,yes,no,yes,yes,no,yes,yes,,54.0,Two-year associate degree,0
+100378,0.0, , , ,yes,no,no,yes,,48.0,Postgraduate or professional degree,0
+100380,12.0,yes,no,no,no,no,no,no,,91.0,Less than high school,1
+100385,97.0,yes,no,yes,yes,yes,yes,yes,,53.0,Postgraduate or professional degree,1
+100394,4.0,yes,yes,yes,yes,yes,yes,yes,,52.0,"Some college, no degree",0
+100396,0.0, , , ,no,no,no,no,,87.0,"Some college, no degree",0
+100408,1.0,yes,no,no,yes,no,no,yes,,63.0,Four-year college degree or bachelor's degree,0
+100410,12.0,yes,no,no,yes,no,yes,yes,,49.0,Four-year college degree or bachelor's degree,1
+100411,60.0,yes,no,no,yes,no,no,yes,,45.0,Unknown,1
+100413,0.0, , , ,no,no,no,no,,63.0,High school graduate or GED,0
+100422,0.0, , , ,yes,no,no,no,,63.0,"Some college, no degree",0
+100425,3.0,no,no,no,yes,no,no,no,,87.0,"Some college, no degree",0
+100432,0.0, , , ,yes,no,no,yes,,52.0,Two-year associate degree,0
+100436,1.0,yes,no,no,yes,no,no,no,,72.0,Four-year college degree or bachelor's degree,0
+100437,10.0,yes,yes,yes,no,no,no,yes,,62.0,Unknown,1
+100445,2.0,no,no,no,no,no,yes,yes,,29.0,"Some college, no degree",0
+100457,6.0,no,no,no,no,no,no,no,,88.0,"Some college, no degree",1
+100460,97.0,yes,no,no,yes,no,no,no,,65.0,High school graduate or GED,1
+100461,10.0,yes,no,no,yes,no,yes,yes,,66.0,Two-year associate degree,1
+100471,0.0, , , ,yes,no,yes,yes,,51.0,"Some college, no degree",0
+100472,6.0,yes,no,no,yes,no,no,yes,,76.0,Two-year associate degree,1
+100478,, , , ,no,no,no,yes,,73.0,High school graduate or GED,0
+100489,0.0, , , ,yes,no,no,yes,,62.0,Two-year associate degree,0
+100491,12.0,yes,no,no,yes,no,yes,yes,,86.0,Postgraduate or professional degree,1
+100497,12.0,yes,yes,yes,yes,no,yes,yes,,71.0,Two-year associate degree,1
+100503,15.0,yes,no,yes,yes,no,yes,yes,,44.0,Postgraduate or professional degree,1
+100506,9.0,yes,no,no,yes,no,no,no,,82.0,Two-year associate degree,1
+100507,2.0,yes,no,no,yes,no,no,yes,,74.0,Unknown,0
+100509,2.0,yes,no,yes,yes,no,no,yes,,73.0,Unknown,0
+100514,97.0,yes,yes,yes,no,yes,no,yes,,62.0,Unknown,1
+100515,12.0,yes,no,no,yes,no,no,yes,,54.0,Four-year college degree or bachelor's degree,1
+100525,80.0,yes,no,yes,yes,no,no,yes,,62.0,Postgraduate or professional degree,1
+100541,2.0,yes,no,no,no,no,no,yes,,25.0,Four-year college degree or bachelor's degree,0
+100554,4.0,yes,no,yes,yes,no,yes,yes,,49.0,Postgraduate or professional degree,0
+100563,3.0,yes,no,no,yes,no,no,yes,,60.0,"Some college, no degree",0
+100568,6.0,yes,no,no,yes,no,no,yes,,53.0,Postgraduate or professional degree,1
+100570,97.0,yes,no,no,yes,no,no,yes,,72.0,Unknown,1
+100573,1.0,yes,yes,no,yes,no,no,yes,,66.0,Unknown,0
+100575,0.0, , , ,no,no,no,no,,85.0,"Some college, no degree",0
+100579,10.0,no,yes,yes,yes,yes,yes,yes,,60.0,Two-year associate degree,1
+100581,20.0,yes,no,no,yes,no,no,yes,,53.0,Postgraduate or professional degree,1
+100584,3.0,yes,no,no,yes,no,no,yes,,70.0,Unknown,0
+100588,4.0,yes,no,no,yes,no,no,yes,,17.0,High school graduate or GED,0
+100594,0.0, , , ,yes,no,no,no,,66.0,"Some college, no degree",0
+100599,15.0,yes,no,no,yes,no,yes,yes,,23.0,Postgraduate or professional degree,1
+100600,0.0, , , ,yes,no,no,yes,,75.0,Four-year college degree or bachelor's degree,0
+100602,3.0,yes,no,no,yes,no,yes,no,,52.0,Postgraduate or professional degree,0
+100603,0.0, , , ,yes,no,no,no,,67.0,"Some college, no degree",0
+100614,0.0, , , ,no,no,no,no,,87.0,Two-year associate degree,0
+100623,5.0,yes,no,no,yes,no,yes,yes,,19.0,"Some college, no degree",1
+100624,5.0,yes,no,yes,yes,no,no,yes,,56.0,"Some college, no degree",1
+100629,1.0,no,,,no,no,no,no,,60.0,Less than high school,0
+100636,0.0, , , ,yes,no,no,yes,,,,0
+100646,, , , ,no,no,no,no,,86.0,Four-year college degree or bachelor's degree,0
+100659,8.0,yes,no,no,yes,no,yes,yes,,58.0,Unknown,1
+100668,1.0,yes,no,no,yes,no,yes,yes,,64.0,"Some college, no degree",0
+100670,2.0,yes,no,no,yes,no,yes,yes,,63.0,Unknown,0
+100692,1.0,yes,no,no,no,no,no,yes,,53.0,Less than high school,0
+100693,0.0, , , ,yes,no,no,yes,,49.0,Postgraduate or professional degree,0
+100694,3.0,yes,no,no,yes,yes,no,no,,70.0,"Some college, no degree",0
+100698,25.0,yes,no,yes,yes,yes,yes,yes,,72.0,Unknown,1
+100699,0.0, , , ,yes,no,yes,yes,,58.0,Postgraduate or professional degree,0
+100700,15.0,no,yes,yes,yes,yes,yes,yes,,40.0,Postgraduate or professional degree,1
+100710,40.0,yes,no,yes,yes,yes,no,yes,,72.0,"Some college, no degree",1
+100711,3.0,yes,no,no,yes,no,yes,yes,,68.0,Postgraduate or professional degree,0
+100713,3.0,yes,no,no,yes,yes,no,no,,,"Some college, no degree",0
+100722,0.0, , , ,yes,no,no,yes,,77.0,Postgraduate or professional degree,0
+100723,5.0,yes,yes,yes,yes,yes,yes,yes,,65.0,Postgraduate or professional degree,1
+100726,0.0, , , ,yes,no,no,yes,,62.0,Four-year college degree or bachelor's degree,0
+100728,0.0, , , ,no,no,no,no,,60.0,Postgraduate or professional degree,0
+100734,0.0, , , ,yes,no,yes,yes,,42.0,Postgraduate or professional degree,0
+100735,0.0, , , ,yes,no,yes,no,,80.0,"Some college, no degree",0
+100736,5.0,yes,no,no,yes,no,no,yes,,63.0,Postgraduate or professional degree,1
+100741,5.0,yes,no,yes,yes,no,yes,yes,,46.0,Postgraduate or professional degree,1
+100747,0.0, , , ,yes,no,no,yes,,33.0,"Some college, no degree",0
+100753,0.0, , , ,no,no,yes,yes,,59.0,Less than high school,0
+100754,0.0, , , ,no,no,no,no,,63.0,"Some college, no degree",0
+100761,3.0,no,no,yes,yes,no,no,no,,45.0,Two-year associate degree,0
+100773,8.0,yes,no,no,yes,no,yes,no,,67.0,Postgraduate or professional degree,1
+100774,7.0,yes,no,no,yes,no,no,yes,,75.0,Four-year college degree or bachelor's degree,1
+100778,4.0,yes,yes,yes,yes,no,no,yes,,59.0,Unknown,0
+100781,10.0,yes,no,no,yes,no,yes,yes,,42.0,Four-year college degree or bachelor's degree,1
+100785,0.0, , , ,yes,no,yes,yes,,57.0,Unknown,0
+100790,5.0,yes,yes,yes,yes,yes,no,yes,,75.0,Unknown,1
+100795,20.0,yes,no,yes,yes,yes,no,no,,59.0,Four-year college degree or bachelor's degree,1
+100796,0.0, , , ,yes,no,no,no,,30.0,"Some college, no degree",0
+100803,52.0,yes,no,no,yes,no,yes,yes,,,Unknown,1
+100813,10.0,yes,no,no,no,no,yes,no,,83.0,Postgraduate or professional degree,1
+100828,1.0,no,no,no,yes,no,no,no,,67.0,Unknown,0
+100844,10.0,yes,no,no,yes,yes,yes,yes,,73.0,Two-year associate degree,1
+100849,1.0,yes,no,no,yes,no,no,no,,37.0,Less than high school,0
+100857,6.0,yes,no,no,yes,no,no,yes,,72.0,Four-year college degree or bachelor's degree,1
+100862,2.0,yes,no,no,yes,no,no,no,,91.0,"Some college, no degree",0
+100867,1.0,no,no,yes,yes,no,yes,yes,,68.0,Postgraduate or professional degree,0
+100871,25.0,yes,no,no,yes,yes,yes,yes,,79.0,"Some college, no degree",1
+100880,0.0, , , ,yes,no,no,yes,,79.0,Four-year college degree or bachelor's degree,0
+100884,6.0,yes,no,no,yes,no,no,yes,,61.0,Unknown,1
+100889,24.0,yes,yes,no,yes,no,yes,yes,,36.0,Two-year associate degree,1
+100899,50.0,yes,yes,yes,yes,no,yes,yes,,57.0,Unknown,1
+100900,0.0, , , ,yes,no,no,no,,78.0,Two-year associate degree,0
+100902,0.0, , , ,no,no,no,yes,,58.0,Four-year college degree or bachelor's degree,0
+100907,25.0,yes,no,no,yes,yes,no,yes,,65.0,"Some college, no degree",1
+100908,5.0,yes,no,no,yes,yes,yes,yes,,44.0,Postgraduate or professional degree,1
+100920,40.0,yes,no,yes,yes,yes,no,yes,,74.0,Four-year college degree or bachelor's degree,1
+100921,50.0,yes,no,no,yes,no,no,no,,26.0,Four-year college degree or bachelor's degree,1
+100927,3.0,yes,no,no,yes,yes,yes,yes,,47.0,Unknown,0
+100933,12.0,yes,no,yes,yes,yes,yes,yes,,47.0,Unknown,1
+100935,24.0,yes,no,no,no,no,yes,yes,,87.0,Postgraduate or professional degree,1
+100937,3.0,yes,no,yes,yes,no,yes,yes,,73.0,Two-year associate degree,0
+100940,40.0,yes,yes,yes,yes,no,yes,yes,,58.0,Unknown,1
+100953,20.0,yes,no,yes,yes,yes,yes,yes,,64.0,Four-year college degree or bachelor's degree,1
+100959,50.0,yes,yes,yes,yes,no,yes,yes,,19.0,"Some college, no degree",1
+100963,3.0,yes,no,no,no,no,no,yes,,58.0,Two-year associate degree,0
+100966,2.0,yes,no,,yes,no,no,no,,91.0,High school graduate or GED,0
+100973,24.0,yes,yes,yes,yes,yes,yes,yes,,57.0,"Some college, no degree",1
+100982,0.0, , , ,yes,no,yes,yes,,56.0,Postgraduate or professional degree,0
+100991,12.0,yes,no,yes,yes,no,yes,yes,,73.0,Unknown,1
+100994,0.0, , , ,yes,no,no,yes,,55.0,Four-year college degree or bachelor's degree,0
+100995,30.0,yes,yes,yes,yes,yes,yes,yes,,57.0,Unknown,1
+100996,0.0, , , ,yes,no,no,no,,63.0,High school graduate or GED,0
+100999,10.0,yes,no,no,no,no,no,no,,70.0,"Some college, no degree",1
+101000,50.0,yes,yes,yes,yes,yes,no,yes,,56.0,Unknown,1
+101003,3.0,yes,no,yes,yes,yes,yes,yes,,76.0,Unknown,0
+101011,3.0,yes,no,no,yes,no,no,no,,84.0,"Some college, no degree",0
+101015,10.0,yes,no,no,yes,no,yes,yes,,69.0,Two-year associate degree,1
+101024,20.0,no,no,yes,yes,no,yes,yes,,60.0,Postgraduate or professional degree,1
+101028,6.0,yes,yes,no,yes,no,yes,yes,,62.0,Unknown,1
+101033,0.0, , , ,yes,no,no,yes,,72.0,"Some college, no degree",0
+101037,2.0,yes,,no,yes,no,no,yes,,72.0,Four-year college degree or bachelor's degree,0
+101041,1.0,yes,no,no,yes,no,no,yes,,75.0,"Some college, no degree",0
+101042,5.0,yes,no,no,yes,yes,no,yes,,78.0,Postgraduate or professional degree,1
+101046,0.0, , , ,yes,no,yes,yes,,52.0,Postgraduate or professional degree,0
+101047,97.0,yes,no,no,yes,no,yes,yes,,,Four-year college degree or bachelor's degree,1
+101048,12.0,yes,no,no,no,no,no,yes,,68.0,Postgraduate or professional degree,1
+101055,50.0,yes,no,yes,yes,yes,yes,yes,,68.0,Four-year college degree or bachelor's degree,1
+101056,11.0,yes,no,yes,yes,yes,yes,yes,,72.0,Four-year college degree or bachelor's degree,1
+101058,0.0, , , ,no,no,no,yes,,56.0,"Some college, no degree",0
+101060,3.0,yes,no,no,yes,no,yes,yes,,55.0,Unknown,0
+101062,2.0,yes,no,no,yes,no,yes,yes,,77.0,Two-year associate degree,0
+101065,0.0, , , ,yes,no,yes,yes,,53.0,Postgraduate or professional degree,0
+101068,30.0,yes,yes,no,no,no,yes,no,,53.0,"Some college, no degree",1
+101071,15.0,yes,yes,yes,yes,no,yes,yes,,58.0,Unknown,1
+101081,12.0,no,yes,yes,yes,yes,yes,yes,,69.0,Unknown,1
+101082,4.0,yes,no,yes,no,no,no,no,,86.0,Two-year associate degree,0
+101083,30.0,yes,no,no,yes,no,no,no,,76.0,Two-year associate degree,1
+101099,50.0,yes,yes,yes,yes,yes,yes,yes,,61.0,Four-year college degree or bachelor's degree,1
+101103,50.0,yes,no,no,yes,no,no,yes,,73.0,"Some college, no degree",1
+101112,20.0,yes,yes,no,yes,no,no,yes,,73.0,Unknown,1
+101114,10.0,yes,no,no,yes,yes,yes,yes,,71.0,Postgraduate or professional degree,1
+101120,97.0,yes,no,no,yes,no,no,yes,,68.0,Postgraduate or professional degree,1
+101125,0.0, , , ,yes,,no,yes,,82.0,"Some college, no degree",0
+101135,60.0,yes,no,yes,yes,yes,yes,yes,,30.0,Two-year associate degree,1
+101136,0.0, , , ,yes,no,yes,yes,,29.0,"Some college, no degree",0
+101140,30.0,yes,no,no,yes,no,yes,yes,,23.0,Two-year associate degree,1
+101141,0.0, , , ,no,no,yes,no,,95.0,"Some college, no degree",0
+101148,12.0,yes,no,no,no,no,no,no,,74.0,"Some college, no degree",1
+101175,6.0,yes,no,no,yes,no,no,no,,78.0,"Some college, no degree",1
+101180,6.0,yes,no,no,yes,no,yes,yes,,40.0,Unknown,1
+101194,12.0,yes,no,yes,yes,yes,yes,yes,,65.0,Two-year associate degree,1
+101202,1.0,yes,yes,yes,yes,yes,no,yes,,51.0,Four-year college degree or bachelor's degree,0
+101204,0.0, , , ,yes,no,yes,yes,,87.0,"Some college, no degree",0
+101206,25.0,yes,no,yes,yes,yes,yes,yes,,69.0,Postgraduate or professional degree,1
+101211,3.0,yes,no,yes,yes,no,yes,yes,,62.0,Four-year college degree or bachelor's degree,0
+101212,60.0,yes,no,no,yes,no,no,yes,,61.0,"Some college, no degree",1
+101217,2.0,yes,no,no,no,no,yes,no,,16.0,High school graduate or GED,0
+101218,0.0, , , ,no,no,no,no,,67.0,Less than high school,0
+101224,3.0,yes,no,no,yes,no,no,no,,,"Some college, no degree",0
+101227,30.0,yes,no,yes,yes,yes,yes,yes,,52.0,Postgraduate or professional degree,1
+101228,15.0,yes,yes,yes,yes,no,yes,yes,,72.0,Unknown,1
+101234,97.0,yes,no,no,yes,no,no,yes,,69.0,Two-year associate degree,1
+101235,0.0, , , ,yes,no,no,yes,,61.0,Four-year college degree or bachelor's degree,0
+101238,0.0, , , ,yes,no,yes,yes,,70.0,"Some college, no degree",0
+101246,0.0, , , ,yes,no,no,yes,,57.0,"Some college, no degree",0
+101255,2.0,yes,no,no,yes,no,no,yes,,64.0,"Some college, no degree",0
+101256,75.0,yes,no,no,yes,no,no,no,,73.0,"Some college, no degree",1
+101263,12.0,yes,no,no,yes,no,no,yes,,64.0,Unknown,1
+101265,2.0,yes,no,no,yes,no,yes,yes,,60.0,Four-year college degree or bachelor's degree,0
+101268,3.0,yes,no,no,yes,no,yes,yes,,,Unknown,0
+101275,5.0,yes,no,no,yes,no,yes,yes,,27.0,"Some college, no degree",1
+101276,12.0,yes,no,yes,yes,no,yes,yes,,58.0,Two-year associate degree,1
+101277,4.0,yes,no,no,yes,no,yes,yes,,67.0,"Some college, no degree",0
+101281,20.0,yes,yes,yes,yes,yes,yes,yes,,61.0,Unknown,1
+101285,0.0, , , ,yes,no,no,no,,67.0,High school graduate or GED,0
+101292,12.0,no,no,yes,yes,yes,yes,yes,,56.0,Unknown,1
+101294,0.0, , , ,no,no,no,no,,59.0,"Some college, no degree",0
+101295,60.0,yes,no,no,yes,no,no,yes,,80.0,Unknown,1
+101302,0.0, , , ,yes,no,yes,yes,,60.0,"Some college, no degree",0
+101309,0.0, , , ,yes,yes,yes,yes,,50.0,Postgraduate or professional degree,0
+101310,2.0,yes,no,no,yes,no,no,yes,,54.0,Postgraduate or professional degree,0
+101311,1.0,no,no,yes,yes,yes,no,yes,,54.0,"Some college, no degree",0
+101313,50.0,yes,yes,no,yes,no,no,yes,,83.0,Four-year college degree or bachelor's degree,1
+101317,0.0, , , ,yes,no,no,yes,,66.0,Less than high school,0
+101320,15.0,yes,no,yes,yes,yes,yes,yes,,53.0,Unknown,1
+101321,3.0,yes,no,no,yes,no,no,yes,,54.0,Four-year college degree or bachelor's degree,0
+101330,8.0,yes,no,no,yes,no,yes,yes,,55.0,Unknown,1
+101335,3.0,yes,no,no,yes,no,yes,yes,,41.0,Two-year associate degree,0
+101351,0.0, , , ,yes,yes,yes,yes,,44.0,Two-year associate degree,0
+101356,8.0,yes,no,no,yes,no,no,yes,,,Unknown,1
+101359,0.0, , , ,yes,no,yes,no,,68.0,Two-year associate degree,0
+101361,3.0,yes,yes,yes,yes,yes,yes,yes,,60.0,Four-year college degree or bachelor's degree,0
+101375,0.0, , , ,no,no,no,no,,94.0,"Some college, no degree",0
+101377,2.0,yes,yes,no,yes,no,yes,yes,,54.0,Two-year associate degree,0
+101378,0.0, , , ,yes,no,yes,yes,,41.0,High school graduate or GED,0
+101397,4.0,yes,yes,no,yes,no,yes,yes,,64.0,Postgraduate or professional degree,0
+101401,2.0,yes,no,no,no,no,no,yes,,,Postgraduate or professional degree,0
+101402,2.0,yes,no,no,yes,no,no,yes,,90.0,Postgraduate or professional degree,0
+101405,2.0,yes,no,no,yes,no,no,yes,,61.0,"Some college, no degree",0
+101406,0.0, , , ,yes,no,no,no,,56.0,"Some college, no degree",0
+101419,50.0,yes,no,no,yes,no,no,yes,,71.0,Postgraduate or professional degree,1
+101425,52.0,yes,no,no,yes,no,no,yes,,72.0,Postgraduate or professional degree,1
+101426,4.0,yes,no,no,yes,no,yes,yes,,69.0,"Some college, no degree",0
+101429,0.0, , , ,no,no,,yes,,46.0,High school graduate or GED,0
+101430,5.0,yes,no,no,no,no,no,yes,,59.0,"Some college, no degree",1
+101433,24.0,yes,no,no,yes,no,no,yes,,69.0,Two-year associate degree,1
+101435,2.0,yes,no,no,yes,no,no,no,,78.0,High school graduate or GED,0
+101437,5.0,yes,no,no,yes,no,yes,yes,,68.0,Unknown,1
+101439,0.0, , , ,yes,no,no,yes,,80.0,Four-year college degree or bachelor's degree,0
+101445,0.0, , , ,yes,no,no,yes,,46.0,Two-year associate degree,0
+101455,40.0,yes,yes,yes,yes,no,no,yes,,45.0,Unknown,1
+101462,0.0, , , ,yes,yes,yes,yes,,53.0,Postgraduate or professional degree,0
+101471,4.0,yes,no,no,yes,no,yes,yes,,72.0,Two-year associate degree,0
+101474,12.0,yes,no,no,yes,no,yes,yes,,60.0,Four-year college degree or bachelor's degree,1
+101475,0.0, , , ,yes,no,yes,yes,,48.0,Postgraduate or professional degree,0
+101494,25.0,yes,no,yes,yes,yes,yes,yes,,21.0,Two-year associate degree,1
+101495,15.0,yes,no,no,yes,yes,yes,yes,,57.0,Unknown,1
+101496,97.0,yes,yes,no,yes,no,no,yes,,44.0,Unknown,1
+101509,97.0,yes,no,no,yes,no,no,yes,,75.0,Four-year college degree or bachelor's degree,1
+101510,6.0,yes,no,no,yes,no,no,yes,,70.0,Two-year associate degree,1
+101517,15.0,yes,yes,yes,yes,no,yes,yes,,54.0,Postgraduate or professional degree,1
+101518,40.0,yes,yes,yes,yes,yes,no,yes,,66.0,Postgraduate or professional degree,1
+101522,2.0,yes,no,no,yes,yes,yes,yes,,16.0,High school graduate or GED,0
+101527,2.0,yes,no,no,yes,no,no,no,,,High school graduate or GED,0
+101529,5.0,yes,no,no,yes,no,yes,yes,,74.0,Unknown,1
+101537,4.0,yes,no,yes,no,yes,no,yes,,63.0,"Some college, no degree",0
+101545,10.0,yes,no,yes,yes,yes,no,yes,,78.0,Unknown,1
+101549,0.0, , , ,yes,no,no,yes,,79.0,"Some college, no degree",0
+101551,52.0,yes,no,no,no,no,no,no,,78.0,"Some college, no degree",1
+101553,0.0, , , ,no,no,yes,no,,24.0,Less than high school,0
+101562,0.0, , , ,no,no,no,no,,76.0,High school graduate or GED,0
+101576,0.0, , , ,yes,no,no,yes,,77.0,Two-year associate degree,0
+101583,0.0, , , ,yes,no,yes,yes,,38.0,"Some college, no degree",0
+101585,50.0,yes,yes,no,yes,no,yes,yes,,51.0,Unknown,1
+101586,0.0, , , ,yes,no,yes,yes,,45.0,Unknown,0
+101593,0.0, , , ,yes,no,yes,yes,,72.0,Unknown,0
+101602,0.0, , , ,yes,no,no,no,,70.0,"Some college, no degree",0
+101604,3.0,yes,no,no,yes,no,no,yes,,61.0,"Some college, no degree",0
+101608,0.0, , , ,no,no,no,no,,71.0,Less than high school,0
+101615,3.0,yes,no,no,yes,no,no,no,,,Four-year college degree or bachelor's degree,0
+101626,2.0,yes,no,no,yes,no,no,yes,,76.0,Two-year associate degree,0
+101630,2.0,yes,no,no,yes,no,no,yes,,67.0,Two-year associate degree,0
+101635,0.0, , , ,no,no,no,no,,74.0,High school graduate or GED,0
+101637,5.0,no,yes,no,yes,no,no,yes,,50.0,Two-year associate degree,1
+101638,0.0, , , ,yes,no,no,yes,,36.0,Less than high school,0
+101641,12.0,yes,no,no,no,no,no,no,,90.0,"Some college, no degree",1
+101643,3.0,no,no,yes,yes,yes,yes,yes,,71.0,High school graduate or GED,0
+101649,45.0,yes,yes,yes,yes,no,yes,yes,,74.0,Unknown,1
+101651,0.0, , , ,no,no,no,no,,63.0,"Some college, no degree",0
+101658,50.0,yes,no,no,no,no,no,yes,,73.0,Unknown,1
+101661,24.0,yes,no,no,yes,no,no,no,,68.0,Two-year associate degree,1
+101667,2.0,yes,no,no,yes,yes,yes,yes,,64.0,"Some college, no degree",0
+101669,97.0,yes,yes,yes,yes,yes,yes,yes,,50.0,Postgraduate or professional degree,1
+101673,, , , ,no,no,no,no,,83.0,"Some college, no degree",0
+101687,3.0,yes,no,no,no,no,no,yes,,79.0,"Some college, no degree",0
+101694,10.0,no,yes,yes,yes,no,yes,yes,,83.0,Unknown,1
+101709,30.0,no,yes,no,yes,yes,yes,no,,84.0,,1
+101718,3.0,yes,no,no,yes,no,no,no,,55.0,Two-year associate degree,0
+101723,2.0,yes,no,no,yes,no,no,no,,62.0,"Some college, no degree",0
+101729,40.0,yes,no,yes,yes,yes,yes,yes,,68.0,Unknown,1
+101732,40.0,no,no,yes,yes,no,yes,yes,,64.0,"Some college, no degree",1
+101734,50.0,yes,no,no,no,yes,yes,yes,,40.0,Four-year college degree or bachelor's degree,1
+101744,3.0,yes,no,no,yes,no,no,yes,,61.0,Postgraduate or professional degree,0
+101747,12.0,yes,no,no,yes,no,no,yes,,,Postgraduate or professional degree,1
+101759,0.0, , , ,yes,no,no,yes,,73.0,Two-year associate degree,0
+101763,15.0,yes,no,no,no,no,no,no,,46.0,Less than high school,1
+101764,0.0, , , ,yes,no,yes,no,,57.0,"Some college, no degree",0
+101774,0.0, , , ,yes,no,no,yes,,80.0,"Some college, no degree",0
+101792,97.0,yes,yes,yes,yes,yes,yes,yes,,61.0,Four-year college degree or bachelor's degree,1
+101795,8.0,yes,yes,yes,yes,yes,yes,yes,,38.0,Four-year college degree or bachelor's degree,1
+101816,5.0,yes,no,yes,yes,yes,no,yes,,64.0,Four-year college degree or bachelor's degree,1
+101828,4.0,yes,yes,no,no,no,no,no,,62.0,Postgraduate or professional degree,0
+101847,3.0,yes,no,no,yes,no,yes,yes,,41.0,Postgraduate or professional degree,0
+101852,5.0,yes,yes,yes,yes,no,yes,yes,,67.0,Postgraduate or professional degree,1
+101856,4.0,yes,no,no,yes,no,no,yes,,56.0,Postgraduate or professional degree,0
+101857,15.0,yes,no,yes,yes,no,yes,yes,,35.0,Four-year college degree or bachelor's degree,1
+101867,12.0,yes,yes,yes,yes,yes,no,yes,,46.0,Postgraduate or professional degree,1
+101869,60.0,yes,no,yes,yes,yes,yes,yes,,69.0,Two-year associate degree,1
+101872,6.0,no,yes,no,yes,no,yes,yes,,53.0,Four-year college degree or bachelor's degree,1
+101873,2.0,yes,no,no,yes,no,no,no,,75.0,Two-year associate degree,0
+101876,25.0,yes,yes,no,yes,no,no,no,,77.0,High school graduate or GED,1
+101879,2.0,yes,no,no,yes,no,yes,yes,,45.0,"Some college, no degree",0
+101881,12.0,yes,no,yes,yes,no,yes,yes,,66.0,Four-year college degree or bachelor's degree,1
+101882,0.0, , , ,no,no,no,no,,65.0,,0
+101885,10.0,yes,no,no,yes,no,no,yes,,45.0,Postgraduate or professional degree,1
+101889,0.0, , , ,yes,no,no,yes,,,Postgraduate or professional degree,0
+101901,0.0, , , ,yes,no,no,yes,,62.0,Postgraduate or professional degree,0
+101910,15.0,no,yes,yes,yes,yes,yes,yes,,51.0,Unknown,1
+101912,12.0,no,no,yes,yes,yes,yes,yes,,43.0,Postgraduate or professional degree,1
+101916,3.0,yes,no,no,yes,no,no,yes,,67.0,Unknown,0
+101919,0.0, , , ,no,no,no,no,,82.0,High school graduate or GED,0
+101943,30.0,yes,yes,yes,yes,yes,no,yes,,16.0,High school graduate or GED,1
+101948,4.0,yes,no,yes,yes,yes,yes,yes,,29.0,Postgraduate or professional degree,0
+101952,90.0,yes,no,yes,yes,yes,yes,yes,,72.0,Unknown,1
+101956,8.0,yes,no,no,yes,no,yes,yes,,57.0,Unknown,1
+101958,15.0,yes,yes,yes,yes,no,yes,yes,,,Two-year associate degree,1
+101959,5.0,yes,yes,yes,yes,yes,yes,yes,,50.0,"Some college, no degree",1
+101961,3.0,yes,no,no,yes,no,no,yes,,66.0,Unknown,0
+101965,24.0,yes,no,no,yes,no,no,yes,,64.0,Postgraduate or professional degree,1
+101969,50.0,yes,no,no,yes,no,no,yes,,70.0,Unknown,1
+101970,15.0,yes,yes,no,no,yes,yes,yes,,16.0,High school graduate or GED,1
+101974,8.0,yes,no,no,yes,yes,yes,yes,,55.0,Four-year college degree or bachelor's degree,1
+101976,4.0,yes,yes,yes,yes,no,no,yes,,81.0,Unknown,0
+200001,0.0, , , , ,no,no,yes,,25.0,Unknown,0
+200002,60.0,yes,no,no, ,no,yes,yes,,23.0,"Some college, no degree",1
+200006,35.0,yes,no,yes, ,no,yes,no,,23.0,Postgraduate or professional degree,1
+200008,12.0,yes,no,no, ,no,no,no,,72.0,Postgraduate or professional degree,1
+200012,10.0,yes,no,no, ,no,no,yes,,45.0,Two-year associate degree,1
+200013,1.0,yes,no,no, ,no,yes,yes,,51.0,Postgraduate or professional degree,0
+200016,30.0,yes,no,no, ,no,yes,no,,66.0,"Some college, no degree",1
+200018,1.0,yes,no,no, ,no,no,no,,68.0,"Some college, no degree",0
+200024,2.0,yes,no,no, ,no,yes,yes,,60.0,Four-year college degree or bachelor's degree,0
+200031,4.0,no,no,yes, ,no,no,yes,,30.0,Postgraduate or professional degree,0
+200033,10.0,yes,yes,yes, ,no,yes,yes,,51.0,Postgraduate or professional degree,1
+200039,50.0,yes,yes,yes, ,yes,yes,yes,,31.0,Unknown,1
+200040,4.0,yes,yes,yes, ,no,no,yes,,39.0,Unknown,0
+200045,5.0,yes,no,no, ,no,no,yes,,60.0,Unknown,1
+200047,4.0,yes,no,yes, ,no,no,yes,,21.0,"Some college, no degree",0
+200048,4.0,yes,no,no, ,no,no,yes,,35.0,Unknown,0
+200059,0.0, , , , ,no,no,no,,19.0,"Some college, no degree",0
+200072,5.0,yes,no,yes, ,yes,yes,yes,,67.0,Postgraduate or professional degree,1
+200073,2.0,yes,no,no, ,no,yes,yes,,34.0,Postgraduate or professional degree,0
+200075,12.0,yes,no,no, ,no,yes,yes,,35.0,Postgraduate or professional degree,1
+200087,6.0,yes,no,yes, ,no,yes,yes,,54.0,Four-year college degree or bachelor's degree,1
+200094,0.0, , , , ,no,no,yes,,53.0,Postgraduate or professional degree,0
+200095,2.0,yes,no,no, ,no,no,yes,,65.0,Postgraduate or professional degree,0
+200102,30.0,yes,yes,no, ,no,no,yes,,52.0,"Some college, no degree",1
+200103,0.0, , , , ,no,yes,yes,,47.0,"Some college, no degree",0
+200108,50.0,yes,yes,yes, ,no,yes,yes,,26.0,Unknown,1
+200109,15.0,yes,yes,no, ,no,no,yes,,49.0,Four-year college degree or bachelor's degree,1
+200110,20.0,yes,no,no, ,no,no,yes,,64.0,Four-year college degree or bachelor's degree,1
+200119,3.0,yes,no,no, ,yes,yes,yes,,34.0,"Some college, no degree",0
+200120,97.0,yes,yes,no, ,no,no,yes,,25.0,Two-year associate degree,1
+200122,5.0,yes,yes,no, ,no,yes,no,,33.0,Postgraduate or professional degree,1
+200123,1.0,yes,no,no, ,no,no,no,,59.0,Four-year college degree or bachelor's degree,0
+200130,5.0,,no,no, ,no,no,no,,82.0,Unknown,1
+200135,6.0,yes,yes,no, ,no,yes,yes,,67.0,Unknown,1
+200138,3.0,no,yes,yes, ,yes,yes,yes,,39.0,Postgraduate or professional degree,0
+200142,20.0,yes,no,yes, ,no,no,yes,,34.0,Unknown,1
+200145,30.0,yes,yes,no, ,no,no,no,,,"Some college, no degree",1
+200151,50.0,yes,no,yes, ,yes,yes,yes,,73.0,"Some college, no degree",1
+200153,0.0, , , , ,no,no,no,,53.0,Less than high school,0
+200155,, , , , ,no,yes,yes,,37.0,"Some college, no degree",0
+200157,9.0,yes,no,yes, ,no,no,yes,,20.0,"Some college, no degree",1
+200160,50.0,yes,,, ,no,yes,yes,,30.0,Two-year associate degree,1
+200167,5.0,no,no,yes, ,yes,yes,yes,,37.0,Postgraduate or professional degree,1
+200174,1.0,yes,yes,no, ,yes,yes,yes,,55.0,Less than high school,0
+200186,6.0,yes,yes,no, ,no,yes,yes,,,Postgraduate or professional degree,1
+200187,25.0,yes,yes,yes, ,yes,yes,yes,,62.0,Unknown,1
+200190,10.0,yes,yes,yes, ,no,yes,yes,,31.0,"Some college, no degree",1
+200192,15.0,yes,no,no, ,yes,yes,yes,,19.0,"Some college, no degree",1
+200198,1.0,yes,no,yes, ,no,yes,yes,,26.0,Unknown,0
+200200,15.0,yes,no,yes, ,yes,yes,yes,,63.0,Unknown,1
+200204,0.0, , , , ,no,yes,yes,,29.0,"Some college, no degree",0
+200207,5.0,yes,no,yes, ,no,no,yes,,24.0,Postgraduate or professional degree,1
+200210,5.0,yes,no,yes, ,no,yes,yes,,46.0,Postgraduate or professional degree,1
+200216,12.0,yes,no,no, ,no,no,no,,42.0,"Some college, no degree",1
+200222,3.0,yes,no,yes, ,no,yes,yes,,50.0,Postgraduate or professional degree,0
+200226,5.0,yes,no,no, ,no,yes,yes,,63.0,Unknown,1
+200229,2.0,yes,no,yes, ,no,yes,yes,,22.0,Two-year associate degree,0
+200231,50.0,yes,no,no, ,no,yes,yes,,67.0,Postgraduate or professional degree,1
+200236,6.0,yes,yes,yes, ,yes,no,yes,,25.0,Postgraduate or professional degree,1
+200238,97.0,yes,yes,yes, ,no,yes,yes,,24.0,Two-year associate degree,1
+200242,50.0,no,,yes, ,yes,yes,yes,,79.0,Four-year college degree or bachelor's degree,1
+200244,25.0,yes,no,yes, ,no,yes,yes,,28.0,Postgraduate or professional degree,1
+200245,5.0,yes,no,no, ,no,yes,yes,,50.0,,1
+200249,0.0, , , , ,no,no,yes,,20.0,Two-year associate degree,0
+200252,0.0, , , , ,no,no,yes,,58.0,"Some college, no degree",0
+200253,4.0,yes,no,no, ,no,yes,yes,,40.0,Postgraduate or professional degree,0
+200256,10.0,yes,no,no, ,no,no,no,,57.0,"Some college, no degree",1
+200259,0.0, , , , ,no,yes,yes,,63.0,"Some college, no degree",0
+200260,24.0,yes,no,no, ,no,no,yes,,72.0,Two-year associate degree,1
+200268,12.0,yes,no,yes, ,no,no,yes,,19.0,"Some college, no degree",1
+200271,7.0,yes,no,no, ,no,no,yes,,46.0,"Some college, no degree",1
+200287,30.0,yes,no,no, ,no,yes,no,,57.0,Four-year college degree or bachelor's degree,1
+200288,2.0,yes,no,no, ,no,no,no,,76.0,"Some college, no degree",0
+200292,6.0,yes,no,yes, ,yes,no,yes,,67.0,Two-year associate degree,1
+200293,50.0,yes,no,no, ,no,no,yes,,32.0,Postgraduate or professional degree,1
+200303,3.0,yes,no,no, ,no,yes,no,,36.0,Two-year associate degree,0
+200309,7.0,yes,no,yes, ,yes,yes,yes,,24.0,Postgraduate or professional degree,1
+200313,97.0,yes,yes,yes, ,yes,yes,yes,,66.0,Postgraduate or professional degree,1
+200317,5.0,yes,no,yes, ,yes,no,yes,,17.0,Less than high school,1
+200321,0.0, , , , ,no,no,no,,60.0,Less than high school,0
+200322,5.0,yes,no,yes, ,yes,yes,yes,,42.0,Unknown,1
+200324,0.0, , , , ,no,no,no,,43.0,"Some college, no degree",0
+200329,24.0,yes,no,no, ,no,yes,yes,,38.0,Unknown,1
+200338,0.0, , , , ,yes,yes,no,,60.0,"Some college, no degree",0
+200340,50.0,yes,no,no, ,yes,yes,no,,61.0,"Some college, no degree",1
+200344,3.0,yes,no,no, ,no,no,no,,82.0,Two-year associate degree,0
+200350,0.0, , , , ,no,no,no,,58.0,"Some college, no degree",0
+200356,0.0, , , , ,no,no,no,,53.0,"Some college, no degree",0
+200357,1.0,yes,no,no, ,no,no,no,,51.0,Two-year associate degree,0
+200358,2.0,yes,no,no, ,no,no,yes,,50.0,Postgraduate or professional degree,0
+200362,3.0,yes,no,no, ,no,yes,yes,,62.0,Postgraduate or professional degree,0
+200365,30.0,yes,no,yes, ,yes,yes,yes,,62.0,Unknown,1
+200366,3.0,yes,no,no, ,no,yes,yes,,18.0,High school graduate or GED,0
+200368,0.0, , , , ,no,yes,yes,,60.0,Unknown,0
+200370,4.0,yes,no,no, ,no,yes,yes,,51.0,Two-year associate degree,0
+200372,10.0,yes,no,yes, ,yes,no,yes,,49.0,Unknown,1
+200373,0.0, , , , ,no,no,no,,66.0,High school graduate or GED,0
+200374,5.0,yes,no,no, ,no,no,yes,,61.0,Unknown,1
+200379,12.0,yes,no,no, ,yes,yes,no,,26.0,"Some college, no degree",1
+200382,2.0,yes,no,yes, ,no,yes,yes,,54.0,Two-year associate degree,0
+200386,15.0,yes,no,yes, ,yes,yes,yes,,17.0,"Some college, no degree",1
+200390,97.0,yes,yes,no, ,no,no,yes,,62.0,Postgraduate or professional degree,1
+200391,4.0,yes,no,no, ,no,no,no,,75.0,"Some college, no degree",0
+200397,6.0,yes,no,yes, ,no,yes,no,,43.0,Two-year associate degree,1
+200398,2.0,yes,no,no, ,no,yes,yes,,53.0,"Some college, no degree",0
+200411,2.0,yes,no,no, ,no,no,no,,18.0,"Some college, no degree",0
+200415,0.0, , , , ,no,yes,yes,,29.0,"Some college, no degree",0
+200423,4.0,yes,no,no, ,no,yes,yes,,44.0,Postgraduate or professional degree,0
+200425,3.0,yes,no,yes, ,yes,yes,yes,,23.0,Postgraduate or professional degree,0
+200437,0.0, , , , ,no,yes,no,,20.0,"Some college, no degree",0
+200439,0.0, , , , ,no,no,no,,29.0,"Some college, no degree",0
+200440,0.0, , , , ,no,no,no,,61.0,"Some college, no degree",0
+200441,5.0,yes,no,no, ,no,yes,yes,,47.0,Two-year associate degree,1
+200443,0.0, , , , ,no,no,no,,17.0,High school graduate or GED,0
+200446,12.0,yes,no,yes, ,no,yes,yes,,62.0,Unknown,1
+200455,12.0,yes,yes,no, ,no,yes,yes,,24.0,Postgraduate or professional degree,1
+200457,3.0,yes,no,yes, ,yes,yes,yes,,64.0,Two-year associate degree,0
+200458,0.0, , , , ,no,no,no,,26.0,High school graduate or GED,0
+200460,5.0,yes,no,no, ,no,no,yes,,46.0,Two-year associate degree,1
+200470,0.0, , , , ,no,no,no,,50.0,"Some college, no degree",0
+200474,7.0,yes,no,yes, ,no,yes,yes,,45.0,Postgraduate or professional degree,1
+200490,25.0,yes,no,no, ,no,no,yes,,73.0,Unknown,1
+200494,9.0,yes,no,no, ,no,yes,no,,29.0,Four-year college degree or bachelor's degree,1
+200495,30.0,yes,no,no, ,no,yes,yes,,55.0,Postgraduate or professional degree,1
+200497,0.0, , , , ,no,yes,no,,25.0,Two-year associate degree,0
+200498,0.0, , , , ,no,no,no,,54.0,Less than high school,0
+200500,25.0,yes,no,yes, ,yes,yes,yes,,66.0,Postgraduate or professional degree,1
+200502,4.0,yes,no,no, ,yes,yes,yes,,39.0,Unknown,0
+200511,5.0,yes,no,no, ,no,yes,yes,,62.0,Unknown,1
+200523,13.0,yes,no,no, ,no,no,yes,,50.0,Two-year associate degree,1
+200524,12.0,yes,yes,yes, ,yes,yes,yes,,69.0,Unknown,1
+200528,1.0,yes,no,no, ,no,yes,yes,,16.0,High school graduate or GED,0
+200537,0.0, , , , ,no,no,no,,44.0,Less than high school,0
+200543,7.0,yes,no,no, ,no,yes,yes,,16.0,High school graduate or GED,1
+200544,5.0,yes,no,yes, ,no,yes,yes,,30.0,"Some college, no degree",1
+200549,10.0,yes,yes,no, ,no,yes,yes,,38.0,"Some college, no degree",1
+200551,10.0,yes,no,yes, ,yes,yes,yes,,39.0,Postgraduate or professional degree,1
+200553,4.0,yes,no,no, ,no,no,yes,,26.0,"Some college, no degree",0
+200561,0.0, , , , ,no,no,no,,63.0,Two-year associate degree,0
+200566,25.0,yes,no,no, ,no,no,yes,,77.0,Postgraduate or professional degree,1
+200575,12.0,yes,no,no, ,no,yes,yes,,30.0,Postgraduate or professional degree,1
+200581,2.0,no,no,no, ,,no,no,,83.0,"Some college, no degree",0
+200584,5.0,yes,no,yes, ,no,yes,yes,,38.0,Postgraduate or professional degree,1
+200586,2.0,yes,no,no, ,no,no,yes,,64.0,Unknown,0
+200590,4.0,yes,yes,no, ,no,no,yes,,72.0,Postgraduate or professional degree,0
+200604,0.0, , , , ,no,no,no,,62.0,"Some college, no degree",0
+200606,10.0,yes,no,no, ,no,yes,yes,,33.0,Two-year associate degree,1
+200619,0.0, , , , ,no,no,yes,,30.0,Four-year college degree or bachelor's degree,0
+200621,2.0,yes,no,no, ,no,no,no,,74.0,Two-year associate degree,0
+200623,4.0,yes,no,no, ,yes,no,yes,,26.0,Unknown,0
+200637,12.0,yes,no,no, ,no,no,no,,55.0,"Some college, no degree",1
+200640,4.0,no,no,yes, ,no,yes,yes,,52.0,Unknown,0
+200646,0.0, , , , ,no,no,no,,64.0,Two-year associate degree,0
+200647,30.0,no,no,yes, ,no,yes,no,,65.0,Unknown,1
+200650,5.0,yes,yes,yes, ,no,no,yes,,21.0,Two-year associate degree,1
+200656,1.0,yes,no,no, ,no,no,no,,53.0,"Some college, no degree",0
+200664,50.0,yes,no,no, ,no,yes,yes,,61.0,Postgraduate or professional degree,1
+200667,, , , , ,no,yes,yes,,40.0,Postgraduate or professional degree,0
+200670,15.0,yes,no,yes, ,no,no,no,,70.0,Postgraduate or professional degree,1
+200675,0.0, , , , ,no,yes,no,,25.0,"Some college, no degree",0
+200676,11.0,yes,no,yes, ,yes,no,yes,,68.0,Two-year associate degree,1
+200688,0.0, , , , ,yes,yes,yes,,38.0,"Some college, no degree",0
+200692,3.0,no,no,yes, ,no,yes,yes,,67.0,Unknown,0
+200700,0.0, , , , ,no,no,yes,,40.0,High school graduate or GED,0
+200701,1.0,yes,no,no, ,no,no,yes,,50.0,"Some college, no degree",0
+200703,0.0, , , , ,no,no,no,,36.0,Postgraduate or professional degree,0
+200722,10.0,no,no,no, ,no,yes,yes,,16.0,High school graduate or GED,1
+200734,97.0,yes,no,no, ,no,no,no,,32.0,"Some college, no degree",1
+200735,20.0,yes,no,no, ,no,yes,yes,,24.0,Two-year associate degree,1
+200738,3.0,no,yes,no, ,no,no,yes,,50.0,Four-year college degree or bachelor's degree,0
+200743,10.0,yes,no,no, ,no,yes,yes,,45.0,Two-year associate degree,1
+200746,6.0,yes,no,no, ,yes,no,yes,,24.0,Postgraduate or professional degree,1
+200759,0.0, , , , ,no,no,yes,,42.0,Postgraduate or professional degree,0
+200775,1.0,yes,no,no, ,no,yes,yes,,26.0,Postgraduate or professional degree,0
+200777,6.0,yes,no,no, ,no,no,yes,,75.0,Unknown,1
+200779,14.0,yes,yes,no, ,no,yes,yes,,65.0,Postgraduate or professional degree,1
+200781,2.0,yes,no,no, ,no,no,yes,,36.0,Postgraduate or professional degree,0
+200782,12.0,yes,yes,yes, ,no,no,yes,,57.0,Unknown,1
+200784,25.0,yes,no,no, ,no,no,no,,62.0,"Some college, no degree",1
+200786,12.0,yes,no,yes, ,no,no,yes,,19.0,Two-year associate degree,1
+200789,10.0,no,no,yes, ,yes,no,yes,,23.0,"Some college, no degree",1
+200790,32.0,yes,yes,yes, ,no,no,yes,,55.0,Unknown,1
+200792,20.0,yes,no,no, ,no,no,yes,,20.0,Two-year associate degree,1
+200795,3.0,yes,no,yes, ,yes,yes,yes,,62.0,Postgraduate or professional degree,0
+200798,50.0,yes,yes,yes, ,yes,yes,yes,,70.0,Two-year associate degree,1
+200800,0.0, , , , ,no,no,yes,,40.0,"Some college, no degree",0
+200801,0.0, , , , ,no,no,no,,79.0,"Some college, no degree",0
+200807,0.0, , , , ,no,yes,yes,,23.0,Postgraduate or professional degree,0
+200808,50.0,yes,no,no, ,no,no,no,,30.0,"Some college, no degree",1
+200811,3.0,yes,no,no, ,no,yes,yes,,57.0,Unknown,0
+200813,50.0,no,yes,yes, ,yes,yes,yes,,69.0,Four-year college degree or bachelor's degree,1
+200815,2.0,yes,no,no, ,no,yes,no,,44.0,Postgraduate or professional degree,0
+200816,4.0,yes,no,no, ,no,no,yes,,20.0,Two-year associate degree,0
+200821,0.0, , , , ,no,no,no,,77.0,"Some college, no degree",0
+200824,20.0,yes,yes,no, ,no,no,yes,,51.0,Unknown,1
+200828,0.0, , , , ,no,no,no,,50.0,Less than high school,0
+200836,50.0,yes,no,no, ,no,no,yes,,67.0,"Some college, no degree",1
+200850,5.0,yes,yes,yes, ,no,yes,yes,,45.0,Unknown,1
+200854,30.0,yes,no,no, ,no,no,yes,,23.0,Four-year college degree or bachelor's degree,1
+200859,1.0,yes,yes,yes, ,no,no,no,,48.0,High school graduate or GED,0
+200867,2.0,yes,no,no, ,no,yes,no,,58.0,Postgraduate or professional degree,0
+200872,30.0,yes,yes,no, ,no,no,yes,,19.0,Postgraduate or professional degree,1
+200875,97.0,yes,yes,yes, ,no,yes,yes,,72.0,Postgraduate or professional degree,1
+200877,5.0,yes,yes,yes, ,yes,yes,yes,,35.0,High school graduate or GED,1
+200880,0.0, , , , ,no,no,no,,67.0,Two-year associate degree,0
+200881,4.0,yes,no,no, ,no,yes,yes,,60.0,Postgraduate or professional degree,0
+200882,1.0,yes,no,no, ,no,no,yes,,70.0,Unknown,0
+200886,20.0,yes,no,yes, ,no,no,yes,,18.0,Two-year associate degree,1
+200891,0.0, , , , ,no,no,yes,,27.0,"Some college, no degree",0
+200892,5.0,,yes,no, ,no,no,no,,45.0,High school graduate or GED,1
+200896,2.0,no,no,yes, ,yes,yes,yes,,56.0,Two-year associate degree,0
+200899,0.0, , , , ,no,no,no,,54.0,"Some college, no degree",0
+200902,20.0,yes,yes,yes, ,no,yes,yes,,32.0,Postgraduate or professional degree,1
+200908,10.0,yes,yes,yes, ,no,no,yes,,59.0,Unknown,1
+200909,50.0,yes,yes,yes, ,no,no,yes,,17.0,High school graduate or GED,1
+200920,0.0, , , , ,no,no,yes,,41.0,"Some college, no degree",0
+200932,4.0,yes,no,no, ,no,no,no,,57.0,"Some college, no degree",0
+200939,0.0, , , , ,no,no,no,,62.0,"Some college, no degree",0
+200944,1.0,yes,no,no, ,no,no,yes,,53.0,"Some college, no degree",0
+200945,12.0,yes,no,no, ,no,yes,yes,,23.0,"Some college, no degree",1
+200946,1.0,yes,no,no, ,no,no,no,,27.0,"Some college, no degree",0
+200950,4.0,yes,no,no, ,no,no,yes,,19.0,"Some college, no degree",0
+200952,2.0,yes,no,no, ,no,yes,yes,,35.0,Postgraduate or professional degree,0
+200957,2.0,yes,no,no, ,no,no,yes,,39.0,Two-year associate degree,0
+200958,0.0, , , , ,no,yes,yes,,55.0,Less than high school,0
+200965,0.0, , , , ,no,no,yes,,52.0,Four-year college degree or bachelor's degree,0
+200966,4.0,yes,yes,yes, ,no,yes,yes,,58.0,Two-year associate degree,0
+200972,50.0,yes,no,no, ,no,yes,yes,,74.0,Postgraduate or professional degree,1
+200975,2.0,yes,no,no, ,no,no,yes,,60.0,Postgraduate or professional degree,0
+200977,50.0,yes,yes,yes, ,yes,yes,yes,,59.0,Postgraduate or professional degree,1
+200978,4.0,yes,no,yes, ,yes,yes,yes,,50.0,Postgraduate or professional degree,0
+200979,0.0, , , , ,no,no,no,,62.0,Four-year college degree or bachelor's degree,0
+200983,5.0,yes,no,yes, ,no,no,yes,,16.0,High school graduate or GED,1
+200985,10.0,yes,yes,yes, ,no,no,no,,18.0,High school graduate or GED,1
+200987,3.0,yes,no,no, ,yes,yes,yes,,17.0,High school graduate or GED,0
+200991,8.0,no,no,yes, ,yes,yes,yes,,43.0,Unknown,1
+200994,0.0, , , , ,,yes,yes,,63.0,"Some college, no degree",0
+200997,0.0, , , , ,no,no,no,,51.0,High school graduate or GED,0
+201003,97.0,yes,no,yes, ,yes,no,yes,,58.0,Unknown,1
+201005,0.0, , , , ,no,no,yes,,36.0,High school graduate or GED,0
+201018,2.0,yes,no,no, ,no,no,yes,,52.0,Unknown,0
+201019,36.0,yes,no,no, ,no,yes,yes,,67.0,"Some college, no degree",1
+201022,2.0,no,yes,no, ,yes,yes,yes,,58.0,Two-year associate degree,0
+201023,5.0,yes,no,yes, ,no,no,yes,,51.0,Two-year associate degree,1
+201024,0.0, , , , ,no,no,yes,,,Unknown,0
+201035,20.0,yes,no,no, ,no,no,yes,,25.0,Two-year associate degree,1
+201037,25.0,yes,no,yes, ,yes,yes,yes,,64.0,Unknown,1
+201038,5.0,no,yes,yes, ,no,yes,yes,,74.0,Two-year associate degree,1
+201062,6.0,yes,no,no, ,no,no,yes,,24.0,Postgraduate or professional degree,1
+201066,4.0,yes,no,no, ,no,no,yes,,40.0,Unknown,0
+201068,3.0,yes,no,no, ,yes,no,yes,,54.0,High school graduate or GED,0
+201081,30.0,yes,no,yes, ,no,no,no,,42.0,Two-year associate degree,1
+201085,6.0,yes,yes,yes, ,no,yes,yes,,22.0,Postgraduate or professional degree,1
+201089,0.0, , , , ,no,yes,yes,,70.0,Unknown,0
+201090,2.0,no,no,yes, ,yes,no,yes,,33.0,Four-year college degree or bachelor's degree,0
+201093,1.0,no,no,yes, ,no,no,no,,25.0,"Some college, no degree",0
+201105,4.0,no,no,yes, ,no,no,yes,,46.0,Four-year college degree or bachelor's degree,0
+201108,5.0,yes,no,no, ,no,yes,yes,,64.0,Postgraduate or professional degree,1
+201112,10.0,yes,no,yes, ,no,no,yes,,18.0,"Some college, no degree",1
+201124,0.0, , , , ,no,no,yes,,26.0,Postgraduate or professional degree,0
+201127,1.0,yes,yes,yes, ,no,yes,yes,,19.0,"Some college, no degree",0
+201129,3.0,no,yes,yes, ,no,yes,yes,,54.0,Two-year associate degree,0
+201132,20.0,yes,no,yes, ,no,yes,yes,,18.0,High school graduate or GED,1
+201137,30.0,no,no,yes, ,no,yes,yes,,60.0,Postgraduate or professional degree,1
+201141,1.0,yes,no,no, ,no,yes,yes,,42.0,Postgraduate or professional degree,0
+201142,0.0, , , , ,no,yes,yes,,32.0,Less than high school,0
+201143,0.0, , , , ,no,yes,yes,,39.0,"Some college, no degree",0
+201144,36.0,yes,no,no, ,no,yes,yes,,40.0,Postgraduate or professional degree,1
+201145,8.0,yes,no,no, ,no,yes,yes,,66.0,"Some college, no degree",1
+201149,2.0,yes,no,no, ,no,no,yes,,56.0,Four-year college degree or bachelor's degree,0
+201151,6.0,yes,no,no, ,yes,yes,yes,,80.0,Four-year college degree or bachelor's degree,1
+201152,, , , , ,no,no,no,,28.0,High school graduate or GED,0
+201155,3.0,yes,no,no, ,no,no,yes,,88.0,"Some college, no degree",0
+201158,2.0,no,no,no, ,no,no,no,,28.0,High school graduate or GED,0
+201161,1.0,no,no,yes, ,no,yes,yes,,37.0,Two-year associate degree,0
+201163,0.0, , , , ,no,no,yes,,50.0,"Some college, no degree",0
+201167,3.0,yes,no,yes, ,yes,no,yes,,17.0,High school graduate or GED,0
+201169,3.0,no,no,yes, ,no,yes,yes,,48.0,Unknown,0
+201171,0.0, , , , ,no,no,yes,,27.0,Postgraduate or professional degree,0
+201172,5.0,,yes,no, ,no,no,yes,,68.0,Unknown,1
+201177,5.0,yes,no,yes, ,yes,yes,yes,,40.0,Four-year college degree or bachelor's degree,1
+201188,1.0,yes,no,no, ,no,yes,no,,22.0,"Some college, no degree",0
+201194,50.0,yes,no,no, ,no,no,no,,,,1
+201196,0.0, , , , ,no,yes,yes,,17.0,High school graduate or GED,0
+201198,15.0,yes,no,no, ,no,no,yes,,,,1
+201200,30.0,yes,yes,no, ,no,yes,yes,,23.0,Postgraduate or professional degree,1
+201203,, , , , ,no,no,yes,,57.0,"Some college, no degree",0
+201204,0.0, , , , ,no,yes,yes,,32.0,"Some college, no degree",0
+201206,1.0,yes,no,no, ,no,yes,no,,58.0,"Some college, no degree",0
+201209,3.0,no,no,yes, ,no,yes,yes,,69.0,Four-year college degree or bachelor's degree,0
+201210,0.0, , , , ,yes,yes,yes,,50.0,"Some college, no degree",0
+201213,12.0,yes,no,no, ,no,no,yes,,34.0,High school graduate or GED,1
+201214,10.0,yes,no,no, ,yes,yes,yes,,24.0,Postgraduate or professional degree,1
+201215,1.0,yes,no,no, ,no,,no,,38.0,High school graduate or GED,0
+201218,4.0,yes,yes,yes, ,yes,yes,yes,,51.0,Two-year associate degree,0
+201222,15.0,yes,yes,yes, ,yes,no,yes,,61.0,Postgraduate or professional degree,1
+201226,0.0, , , , ,no,no,no,,35.0,"Some college, no degree",0
+201227,12.0,yes,no,yes, ,no,yes,yes,,64.0,Unknown,1
+201253,60.0,yes,no,yes, ,yes,yes,yes,,24.0,Postgraduate or professional degree,1
+201261,6.0,yes,yes,no, ,no,yes,yes,,65.0,"Some college, no degree",1
+201262,, , , , ,no,yes,yes,,23.0,High school graduate or GED,0
+201265,25.0,yes,no,yes, ,no,yes,yes,,30.0,Postgraduate or professional degree,1
+201268,10.0,yes,no,yes, ,no,yes,yes,,42.0,Unknown,1
+201269,0.0, , , , ,no,no,yes,,44.0,Four-year college degree or bachelor's degree,0
+201273,1.0,no,no,yes, ,yes,no,yes,,72.0,Four-year college degree or bachelor's degree,0
+201276,50.0,yes,no,yes, ,yes,yes,yes,,69.0,Unknown,1
+201277,30.0,yes,no,yes, ,no,yes,yes,,28.0,Postgraduate or professional degree,1
+201278,5.0,yes,no,no, ,no,no,yes,,46.0,Postgraduate or professional degree,1
+201281,0.0, , , , ,no,yes,yes,,47.0,"Some college, no degree",0
+201282,7.0,yes,no,no, ,no,yes,yes,,24.0,"Some college, no degree",1
+201288,3.0,yes,no,yes, ,no,yes,yes,,40.0,"Some college, no degree",0
+201297,10.0,yes,no,no, ,no,no,yes,,31.0,"Some college, no degree",1
+201300,2.0,yes,no,no, ,no,no,no,,61.0,Two-year associate degree,0
+201302,0.0, , , , ,no,no,no,,46.0,"Some college, no degree",0
+201307,15.0,yes,no,yes, ,yes,yes,yes,,21.0,Unknown,1
+201309,4.0,yes,no,yes, ,no,yes,yes,,51.0,Postgraduate or professional degree,0
+201326,10.0,yes,no,yes, ,no,no,yes,,18.0,"Some college, no degree",1
+201329,0.0, , , , ,yes,yes,yes,,41.0,Two-year associate degree,0
+201330,6.0,no,yes,yes, ,no,no,yes,,60.0,Two-year associate degree,1
+201337,20.0,no,yes,yes, ,no,yes,yes,,25.0,Two-year associate degree,1
+201341,2.0,yes,no,yes, ,yes,yes,yes,,16.0,High school graduate or GED,0
+201356,, , , , ,no,yes,yes,,40.0,Postgraduate or professional degree,0
+201371,97.0,yes,no,yes, ,yes,yes,yes,,58.0,Postgraduate or professional degree,1
+201380,12.0,yes,no,no, ,yes,no,yes,,40.0,Unknown,1
+201392,97.0,yes,no,yes, ,yes,yes,yes,,65.0,Four-year college degree or bachelor's degree,1
+201398,7.0,yes,no,no, ,no,no,yes,,53.0,Unknown,1
+201403,10.0,yes,yes,no, ,no,no,no,,62.0,Four-year college degree or bachelor's degree,1
+201415,52.0,yes,yes,no, ,no,yes,yes,,48.0,Unknown,1
+201419,15.0,yes,no,yes, ,no,no,yes,,60.0,Postgraduate or professional degree,1
+201422,0.0, , , , ,no,yes,yes,,31.0,Postgraduate or professional degree,0
+201424,4.0,yes,no,no, ,no,no,yes,,47.0,Postgraduate or professional degree,0
+201425,20.0,yes,no,no, ,no,yes,yes,,45.0,"Some college, no degree",1
+201438,0.0, , , , ,yes,yes,no,,58.0,Four-year college degree or bachelor's degree,0
+201442,50.0,yes,yes,yes, ,yes,yes,yes,,51.0,Unknown,1
+201443,45.0,yes,yes,no, ,no,yes,yes,,26.0,Four-year college degree or bachelor's degree,1
+201445,0.0, , , , ,no,no,no,,72.0,"Some college, no degree",0
+201454,97.0,yes,no,yes, ,no,yes,yes,,64.0,Postgraduate or professional degree,1
+201459,4.0,yes,no,no, ,no,yes,yes,,18.0,Four-year college degree or bachelor's degree,0
+201462,30.0,yes,yes,yes, ,no,yes,yes,,33.0,Two-year associate degree,1
+201472,6.0,yes,no,no, ,no,yes,yes,,17.0,"Some college, no degree",1
+201475,5.0,yes,no,, ,no,no,yes,,62.0,Two-year associate degree,1
+201487,0.0, , , , ,no,no,no,,62.0,"Some college, no degree",0
+201490,3.0,yes,no,no, ,no,yes,yes,,44.0,Unknown,0
+201492,50.0,yes,no,yes, ,no,yes,yes,,44.0,Postgraduate or professional degree,1
+201495,12.0,yes,no,no, ,no,yes,yes,,52.0,Two-year associate degree,1
+201500,25.0,yes,no,yes, ,yes,yes,yes,,64.0,Postgraduate or professional degree,1
+201501,30.0,yes,no,no, ,no,no,yes,,55.0,Postgraduate or professional degree,1
+201503,0.0, , , , ,no,yes,yes,,45.0,"Some college, no degree",0
+201505,2.0,yes,no,no, ,no,yes,yes,,16.0,High school graduate or GED,0
+201507,2.0,yes,no,no, ,no,no,yes,,52.0,Unknown,0
+201508,50.0,yes,yes,yes, ,yes,yes,yes,,23.0,Unknown,1
+201510,0.0, , , , ,no,yes,yes,,48.0,"Some college, no degree",0
+201515,10.0,yes,no,yes, ,yes,yes,yes,,45.0,Unknown,1
+201516,0.0, , , , ,no,no,yes,,63.0,Two-year associate degree,0
+201521,8.0,yes,yes,yes, ,no,yes,yes,,66.0,Two-year associate degree,1
+201523,4.0,yes,no,no, ,no,no,yes,,67.0,"Some college, no degree",0
+201526,2.0,yes,no,no, ,no,yes,yes,,30.0,Unknown,0
+201527,1.0,yes,no,no, ,no,yes,yes,,23.0,Postgraduate or professional degree,0
+201537,3.0,yes,no,no, ,no,yes,yes,,18.0,High school graduate or GED,0
+201549,0.0, , , , ,no,yes,yes,,60.0,Two-year associate degree,0
+201559,1.0,yes,yes,no, ,no,no,no,,66.0,Less than high school,0
+201573,0.0, , , , ,no,no,no,,59.0,Four-year college degree or bachelor's degree,0
+201575,7.0,yes,no,no, ,no,no,yes,,79.0,Postgraduate or professional degree,1
+201578,5.0,yes,no,no, ,no,yes,yes,,54.0,"Some college, no degree",1
+201586,15.0,yes,no,yes, ,no,yes,yes,,23.0,Postgraduate or professional degree,1
+201588,2.0,yes,no,no, ,no,yes,yes,,29.0,Four-year college degree or bachelor's degree,0
+201590,5.0,yes,no,no, ,no,no,yes,,20.0,Two-year associate degree,1
+201597,15.0,yes,yes,no, ,no,yes,yes,,26.0,Unknown,1
+201598,12.0,yes,no,yes, ,no,no,yes,,20.0,Two-year associate degree,1
+201601,0.0, , , , ,no,no,yes,,45.0,Less than high school,0
+201603,7.0,yes,no,no, ,yes,yes,yes,,34.0,Postgraduate or professional degree,1
+201605,10.0,yes,no,no, ,no,no,no,,33.0,Less than high school,1
+201611,5.0,yes,no,yes, ,no,no,yes,,23.0,"Some college, no degree",1
+201612,0.0, , , , ,no,no,yes,,60.0,Unknown,0
+201617,6.0,yes,no,no, ,no,no,yes,,54.0,Four-year college degree or bachelor's degree,1
+201618,1.0,yes,no,yes, ,no,no,yes,,85.0,Less than high school,0
+201622,0.0, , , , ,yes,yes,yes,,50.0,Two-year associate degree,0
+201623,4.0,no,no,yes, ,yes,yes,yes,,22.0,Four-year college degree or bachelor's degree,0
+201625,1.0,yes,no,no, ,no,yes,yes,,58.0,Postgraduate or professional degree,0
+201630,20.0,yes,no,no, ,no,yes,yes,,16.0,"Some college, no degree",1
+201638,0.0, , , , ,no,yes,yes,,49.0,Postgraduate or professional degree,0
+201643,7.0,yes,no,no, ,no,no,yes,,53.0,"Some college, no degree",1
+201644,6.0,yes,no,no, ,no,yes,no,,61.0,Two-year associate degree,1
+201648,2.0,yes,yes,no, ,no,yes,yes,,55.0,Unknown,0
+201650,10.0,yes,no,no, ,no,no,yes,,55.0,Two-year associate degree,1
+201660,15.0,no,yes,yes, ,no,no,yes,,47.0,"Some college, no degree",1
+201666,2.0,yes,no,no, ,no,no,yes,,68.0,Unknown,0
+201667,0.0, , , , ,no,no,no,,51.0,"Some college, no degree",0
+201671,6.0,yes,no,no, ,no,no,yes,,20.0,"Some college, no degree",1
+201676,1.0,yes,no,no, ,no,no,no,,58.0,Unknown,0
+201680,0.0, , , , ,no,no,no,,40.0,"Some college, no degree",0
+201686,5.0,yes,no,yes, ,no,yes,yes,,37.0,"Some college, no degree",1
+201690,2.0,no,yes,no, ,yes,yes,yes,,27.0,Two-year associate degree,0
+201693,0.0, , , , ,no,no,yes,,21.0,Postgraduate or professional degree,0
+201704,3.0,yes,no,no, ,no,no,no,,29.0,High school graduate or GED,0
+201707,96.0,yes,yes,yes, ,no,yes,yes,,70.0,Unknown,1
+201712,0.0, , , , ,yes,yes,yes,,59.0,"Some college, no degree",0
+201719,0.0, , , , ,no,no,yes,,61.0,Two-year associate degree,0
+201720,12.0,yes,no,no, ,no,yes,yes,,41.0,Unknown,1
+201722,4.0,yes,no,no, ,no,yes,yes,,27.0,Postgraduate or professional degree,0
+201724,4.0,yes,no,no, ,no,no,no,,29.0,"Some college, no degree",0
+201731,0.0, , , , ,no,no,yes,,60.0,Postgraduate or professional degree,0
+201733,17.0,yes,no,yes, ,no,yes,yes,,30.0,Postgraduate or professional degree,1
+201735,0.0, , , , ,no,no,no,,67.0,High school graduate or GED,0
+201736,1.0,yes,no,no, ,no,no,no,,58.0,High school graduate or GED,0
+201741,30.0,yes,no,no, ,no,yes,no,,54.0,Unknown,1
+201743,12.0,yes,no,yes, ,,yes,yes,,64.0,Unknown,1
+201745,10.0,yes,no,no, ,no,yes,yes,,56.0,Postgraduate or professional degree,1
+201746,2.0,no,no,yes, ,no,yes,yes,,52.0,Postgraduate or professional degree,0
+201750,1.0,yes,no,no, ,no,yes,yes,,31.0,"Some college, no degree",0
+201754,2.0,yes,yes,no, ,no,no,no,,79.0,"Some college, no degree",0
+201763,10.0,yes,yes,no, ,no,no,no,,46.0,"Some college, no degree",1
+201770,2.0,yes,no,no, ,no,yes,yes,,60.0,Postgraduate or professional degree,0
+201774,1.0,yes,no,no, ,yes,no,no,,34.0,Less than high school,0
+201776,7.0,yes,no,no, ,yes,no,no,,48.0,"Some college, no degree",1
+201777,0.0, , , , ,no,no,yes,,57.0,Postgraduate or professional degree,0
+201786,12.0,yes,no,yes, ,no,yes,yes,,63.0,"Some college, no degree",1
+201792,15.0,yes,no,no, ,yes,yes,yes,,30.0,Postgraduate or professional degree,1
+201797,0.0, , , , ,no,yes,yes,,24.0,Postgraduate or professional degree,0
+201799,26.0,yes,no,no, ,no,yes,yes,,30.0,Unknown,1
+201804,15.0,yes,no,no, ,yes,no,yes,,53.0,Postgraduate or professional degree,1
+201808,14.0,yes,no,no, ,no,no,no,,40.0,"Some college, no degree",1
+201809,1.0,yes,no,yes, ,no,yes,yes,,22.0,"Some college, no degree",0
+201816,50.0,yes,no,no, ,no,no,yes,,34.0,"Some college, no degree",1
+201818,0.0, , , , ,no,yes,yes,,21.0,"Some college, no degree",0
+201821,0.0, , , , ,no,no,yes,,38.0,Postgraduate or professional degree,0
+201824,3.0,yes,no,no, ,no,yes,yes,,53.0,Four-year college degree or bachelor's degree,0
+201828,5.0,yes,no,no, ,no,no,no,,69.0,Two-year associate degree,1
+201831,2.0,yes,yes,yes, ,no,no,yes,,51.0,Four-year college degree or bachelor's degree,0
+201834,8.0,yes,no,yes, ,yes,no,yes,,46.0,Unknown,1
+201835,12.0,yes,no,no, ,no,yes,yes,,30.0,Postgraduate or professional degree,1
+201837,6.0,yes,no,yes, ,no,yes,yes,,35.0,"Some college, no degree",1
+201838,2.0,yes,no,yes, ,no,yes,yes,,58.0,Postgraduate or professional degree,0
+201845,6.0,yes,yes,no, ,no,yes,yes,,62.0,Unknown,1
+201848,1.0,yes,yes,no, ,no,no,no,,59.0,"Some college, no degree",0
+201850,5.0,yes,yes,yes, ,no,yes,yes,,49.0,Postgraduate or professional degree,1
+201852,97.0,yes,no,yes, ,yes,no,yes,,68.0,Four-year college degree or bachelor's degree,1
+201858,20.0,no,no,no, ,no,no,no,,57.0,High school graduate or GED,1
+201862,45.0,yes,no,yes, ,no,no,no,,16.0,High school graduate or GED,1
+201875,12.0,no,no,yes, ,yes,yes,yes,,47.0,Unknown,1
+201879,2.0,yes,no,no, ,no,yes,no,,58.0,"Some college, no degree",0
+201884,10.0,yes,no,yes, ,yes,yes,yes,,52.0,Unknown,1
+201888,2.0,yes,no,no, ,no,no,yes,,61.0,Unknown,0
+201891,12.0,yes,no,yes, ,no,no,yes,,23.0,Unknown,1
+201893,15.0,yes,yes,yes, ,no,no,yes,,20.0,Two-year associate degree,1
+201896,2.0,yes,no,yes, ,yes,yes,yes,,46.0,Four-year college degree or bachelor's degree,0
+201903,25.0,yes,no,no, ,yes,no,yes,,72.0,Postgraduate or professional degree,1
+201908,0.0, , , , ,no,no,yes,,59.0,"Some college, no degree",0
+201923,12.0,yes,no,yes, ,no,yes,yes,,24.0,Postgraduate or professional degree,1
+201930,4.0,yes,no,yes, ,yes,yes,yes,,63.0,Postgraduate or professional degree,0
+201935,4.0,yes,no,no, ,no,no,no,,62.0,Four-year college degree or bachelor's degree,0
+201947,, , , , ,no,no,no,,71.0,Two-year associate degree,0
+201948,50.0,yes,no,no, ,no,yes,yes,,36.0,Unknown,1
+201949,3.0,yes,no,yes, ,no,yes,yes,,21.0,Two-year associate degree,0
+201951,97.0,yes,no,yes, ,yes,yes,yes,,38.0,Four-year college degree or bachelor's degree,1
+201956,0.0, , , , ,no,no,no,,37.0,"Some college, no degree",0
+201963,24.0,yes,yes,yes, ,yes,yes,yes,,51.0,Postgraduate or professional degree,1
+201976,0.0, , , , ,no,yes,no,,26.0,"Some college, no degree",0
+201981,20.0,yes,no,no, ,yes,yes,yes,,30.0,Postgraduate or professional degree,1
+201992,50.0,yes,no,yes, ,yes,yes,yes,,19.0,Two-year associate degree,1
+201996,2.0,yes,no,no, ,no,no,yes,,17.0,High school graduate or GED,0
+202000,7.0,yes,no,yes, ,no,no,yes,,24.0,Two-year associate degree,1
+202004,2.0,yes,no,no, ,no,no,yes,,23.0,Postgraduate or professional degree,0
+202008,2.0,yes,no,no, ,no,yes,yes,,19.0,"Some college, no degree",0
+202017,0.0, , , , ,no,no,no,,42.0,High school graduate or GED,0
+202020,0.0, , , , ,no,no,no,,53.0,"Some college, no degree",0
+202022,8.0,yes,no,yes, ,no,yes,yes,,66.0,Postgraduate or professional degree,1
+202033,0.0, , , , ,no,no,yes,,52.0,Four-year college degree or bachelor's degree,0
+202037,6.0,no,yes,yes, ,no,yes,yes,,43.0,Postgraduate or professional degree,1
+202039,97.0,yes,no,no, ,no,no,yes,,49.0,"Some college, no degree",1
+202049,5.0,yes,no,no, ,no,no,yes,,67.0,Unknown,1
+202058,0.0, , , , ,no,no,yes,,58.0,"Some college, no degree",0
+202063,12.0,yes,yes,yes, ,yes,yes,yes,,35.0,Postgraduate or professional degree,1
+202072,24.0,yes,no,no, ,no,yes,yes,,45.0,"Some college, no degree",1
+202075,11.0,yes,no,no, ,yes,no,yes,,17.0,High school graduate or GED,1
+202077,8.0,yes,no,no, ,no,no,yes,,26.0,"Some college, no degree",1
+202080,15.0,yes,no,no, ,no,no,no,,54.0,"Some college, no degree",1
+202083,0.0, , , , ,no,no,no,,48.0,High school graduate or GED,0
+202087,6.0,no,no,yes, ,no,yes,yes,,69.0,Unknown,1
+202098,4.0,yes,no,no, ,no,no,no,,55.0,"Some college, no degree",0
+202104,6.0,yes,no,no, ,no,yes,yes,,31.0,Postgraduate or professional degree,1
+202105,2.0,yes,no,no, ,no,yes,yes,,49.0,Two-year associate degree,0
+202109,4.0,yes,no,yes, ,yes,yes,yes,,41.0,"Some college, no degree",0
+202114,1.0,yes,no,no, ,no,no,yes,,75.0,Unknown,0
+202116,4.0,yes,no,no, ,no,yes,yes,,35.0,Four-year college degree or bachelor's degree,0
+202129,0.0, , , , ,no,no,yes,,67.0,"Some college, no degree",0
+202140,50.0,yes,no,yes, ,yes,yes,yes,,70.0,Unknown,1
+202143,0.0, , , , ,no,no,no,,50.0,High school graduate or GED,0
+202148,10.0,no,no,yes, ,no,no,no,,59.0,Two-year associate degree,1
+202151,0.0, , , , ,no,no,no,,62.0,High school graduate or GED,0
+202165,0.0, , , , ,no,no,no,,52.0,"Some college, no degree",0
+202168,6.0,yes,yes,no, ,no,yes,yes,,24.0,Postgraduate or professional degree,1
+202169,1.0,yes,no,no, ,yes,no,no,,30.0,Postgraduate or professional degree,0
+202183,25.0,yes,no,no, ,no,yes,yes,,21.0,Two-year associate degree,1
+202185,97.0,no,no,yes, ,yes,yes,yes,,47.0,Unknown,1
+202186,0.0, , , , ,no,no,no,,76.0,Four-year college degree or bachelor's degree,0
+202189,3.0,yes,no,no, ,no,no,yes,,41.0,Four-year college degree or bachelor's degree,0
+202207,25.0,yes,no,yes, ,no,yes,yes,,58.0,Unknown,1
+202208,0.0, , , , ,no,no,no,,19.0,Less than high school,0
+202209,, , , , ,yes,no,yes,,49.0,Unknown,0
+202213,4.0,yes,no,no, ,no,yes,yes,,89.0,Unknown,0
+202216,5.0,yes,no,no, ,no,no,yes,,51.0,Two-year associate degree,1
+202218,25.0,yes,yes,no, ,no,yes,yes,,62.0,Unknown,1
+202220,1.0,no,no,yes, ,yes,yes,yes,,75.0,Two-year associate degree,0
+202225,3.0,no,no,yes, ,no,yes,yes,,42.0,Four-year college degree or bachelor's degree,0
+202231,2.0,yes,no,no, ,no,no,no,,49.0,Less than high school,0
+202235,0.0, , , , ,no,no,no,,54.0,"Some college, no degree",0
+202241,0.0, , , , ,no,no,no,,73.0,"Some college, no degree",0
+202249,1.0,yes,no,no, ,no,no,no,,60.0,"Some college, no degree",0
+202255,0.0, , , , ,no,no,yes,,71.0,Unknown,0
+202278,20.0,yes,no,yes, ,no,yes,yes,,28.0,Unknown,1
+202280,4.0,yes,no,no, ,no,yes,yes,,18.0,Two-year associate degree,0
+202282,3.0,yes,no,no, ,no,yes,yes,,55.0,Postgraduate or professional degree,0
+202288,5.0,yes,no,yes, ,yes,no,yes,,55.0,Postgraduate or professional degree,1
+202289,0.0, , , , ,yes,no,yes,,30.0,"Some college, no degree",0
+202290,0.0, , , , ,no,no,yes,,20.0,Two-year associate degree,0
+202296,20.0,yes,no,no, ,no,yes,yes,,60.0,Postgraduate or professional degree,1
+202301,2.0,yes,no,no, ,no,no,no,,54.0,"Some college, no degree",0
+202306,3.0,yes,no,no, ,no,no,yes,,24.0,Postgraduate or professional degree,0
+202322,97.0,yes,yes,no, ,no,yes,yes,,17.0,Less than high school,1
+202329,0.0, , , , ,no,no,yes,,80.0,Two-year associate degree,0
+202342,0.0, , , , ,no,yes,no,,33.0,,0
+202344,25.0,yes,yes,yes, ,no,yes,yes,,68.0,Postgraduate or professional degree,1
+202356,5.0,yes,no,yes, ,no,no,yes,,59.0,Four-year college degree or bachelor's degree,1
+202360,1.0,yes,no,no, ,no,no,yes,,58.0,Two-year associate degree,0
+202361,15.0,yes,no,no, ,no,no,no,,77.0,"Some college, no degree",1
+202365,7.0,yes,no,yes, ,no,no,yes,,21.0,Two-year associate degree,1
+202372,0.0, , , , ,no,yes,yes,,19.0,"Some college, no degree",0
+202375,0.0, , , , ,no,no,yes,,46.0,Postgraduate or professional degree,0
+202382,15.0,yes,no,yes, ,yes,yes,yes,,62.0,Two-year associate degree,1
+202388,0.0, , , , ,no,yes,yes,,34.0,Postgraduate or professional degree,0
+202403,0.0, , , , ,no,no,yes,,57.0,"Some college, no degree",0
+202411,12.0,yes,yes,yes, ,no,yes,yes,,67.0,Unknown,1
+202413,50.0,yes,no,no, ,no,yes,yes,,40.0,Postgraduate or professional degree,1
+202414,40.0,yes,no,no, ,no,yes,yes,,23.0,Four-year college degree or bachelor's degree,1
+202421,97.0,yes,no,no, ,no,no,yes,,16.0,High school graduate or GED,1
+202434,7.0,yes,no,no, ,no,yes,yes,,30.0,Unknown,1
+202445,5.0,yes,no,no, ,no,no,yes,,22.0,Two-year associate degree,1
+202464,10.0,yes,no,no, ,no,no,yes,,48.0,Unknown,1
+202474,4.0,no,yes,yes, ,no,no,yes,,22.0,Two-year associate degree,0
+202484,6.0,yes,yes,yes, ,no,no,yes,,59.0,Four-year college degree or bachelor's degree,1
+202487,3.0,yes,no,no, ,no,no,yes,,54.0,Four-year college degree or bachelor's degree,0
+202493,1.0,yes,no,no, ,no,no,yes,,55.0,"Some college, no degree",0
+202497,0.0, , , , ,no,yes,yes,,36.0,"Some college, no degree",0
+202503,2.0,yes,no,yes, ,yes,yes,yes,,68.0,Two-year associate degree,0
+202505,0.0, , , , ,no,no,no,,84.0,Two-year associate degree,0
+202506,12.0,no,no,yes, ,yes,yes,yes,,66.0,Unknown,1
+202515,8.0,yes,no,yes, ,no,yes,no,,21.0,"Some college, no degree",1
+202521,0.0, , , , ,no,no,yes,,63.0,"Some college, no degree",0
+202529,0.0, , , , ,no,no,yes,,60.0,High school graduate or GED,0
+202534,3.0,yes,no,yes, ,no,no,yes,,44.0,Postgraduate or professional degree,0
+202537,30.0,yes,no,no, ,no,no,yes,,57.0,Four-year college degree or bachelor's degree,1
+202541,30.0,yes,no,yes, ,yes,yes,yes,,30.0,Four-year college degree or bachelor's degree,1
+202545,1.0,yes,no,no, ,no,no,no,,52.0,"Some college, no degree",0
+202552,1.0,yes,no,no, ,no,no,no,,71.0,"Some college, no degree",0
+202557,0.0, , , , ,no,no,no,,26.0,"Some college, no degree",0
+202560,10.0,yes,no,yes, ,yes,yes,yes,,39.0,Postgraduate or professional degree,1
+202561,0.0, , , , ,no,yes,yes,,36.0,Four-year college degree or bachelor's degree,0
+202567,1.0,yes,no,no, ,no,no,yes,,20.0,Two-year associate degree,0
+202576,1.0,yes,no,no, ,no,no,yes,,39.0,"Some college, no degree",0
+202579,5.0,yes,no,no, ,no,yes,yes,,34.0,Four-year college degree or bachelor's degree,1
+202585,5.0,yes,no,yes, ,no,yes,yes,,39.0,Unknown,1
+202588,4.0,yes,no,no, ,no,yes,yes,,21.0,Postgraduate or professional degree,0
+202589,2.0,no,no,yes, ,no,no,no,,22.0,High school graduate or GED,0
+202592,25.0,yes,no,no, ,yes,no,yes,,64.0,Postgraduate or professional degree,1
+202601,1.0,yes,no,no, ,no,no,yes,,42.0,High school graduate or GED,0
+202602,5.0,yes,no,no, ,no,yes,no,,53.0,"Some college, no degree",1
+202614,97.0,yes,no,yes, ,yes,no,yes,,67.0,Postgraduate or professional degree,1
+202644,0.0, , , , ,yes,no,yes,,77.0,Postgraduate or professional degree,0
+202651,0.0, , , , ,no,no,yes,,30.0,Postgraduate or professional degree,0
+202664,6.0,yes,no,no, ,no,yes,yes,,47.0,Postgraduate or professional degree,1
+202665,3.0,yes,no,no, ,yes,yes,yes,,61.0,"Some college, no degree",0
+202675,0.0, , , , ,no,no,no,,36.0,High school graduate or GED,0
+202676,4.0,yes,no,no, ,no,no,no,,53.0,High school graduate or GED,0
+202679,15.0,yes,yes,yes, ,yes,yes,yes,,36.0,Postgraduate or professional degree,1
+202680,97.0,yes,no,yes, ,yes,no,yes,,20.0,"Some college, no degree",1
+202681,30.0,yes,no,yes, ,no,yes,yes,,20.0,Two-year associate degree,1
+202690,15.0,yes,yes,yes, ,yes,no,yes,,23.0,Postgraduate or professional degree,1
+202712,10.0,yes,no,no, ,no,no,yes,,21.0,"Some college, no degree",1
+202715,50.0,yes,no,no, ,no,yes,yes,,85.0,High school graduate or GED,1
+202718,50.0,yes,no,yes, ,no,yes,yes,,55.0,Two-year associate degree,1
+202721,2.0,yes,no,no, ,yes,yes,yes,,56.0,Four-year college degree or bachelor's degree,0
+202733,7.0,no,yes,no, ,no,no,no,,61.0,Four-year college degree or bachelor's degree,1
+202735,0.0, , , , ,no,no,no,,27.0,"Some college, no degree",0
+202737,20.0,no,no,yes, ,no,yes,yes,,38.0,Unknown,1
+202738,0.0, , , , ,no,no,yes,,49.0,"Some college, no degree",0
+202739,0.0, , , , ,no,no,no,,48.0,"Some college, no degree",0
+202740,15.0,yes,no,no, ,yes,no,yes,,47.0,Unknown,1
+202742,0.0, , , , ,yes,yes,yes,,44.0,Four-year college degree or bachelor's degree,0
+202756,9.0,yes,no,no, ,no,yes,yes,,32.0,Unknown,1
+202763,30.0,yes,yes,yes, ,yes,yes,yes,,68.0,Unknown,1
+202776,3.0,yes,no,no, ,no,yes,yes,,55.0,Postgraduate or professional degree,0
+202796,50.0,yes,no,yes, ,no,no,yes,,,Postgraduate or professional degree,1
+202800,0.0, , , , ,no,no,no,,77.0,"Some college, no degree",0
+202803,30.0,yes,no,yes, ,no,yes,yes,,63.0,Four-year college degree or bachelor's degree,1
+202806,0.0, , , , ,no,yes,yes,,21.0,Two-year associate degree,0
+202807,97.0,no,no,yes, ,yes,yes,yes,,68.0,Unknown,1
+202811,0.0, , , , ,no,no,no,,18.0,"Some college, no degree",0
+202812,50.0,yes,no,no, ,no,yes,yes,,40.0,Postgraduate or professional degree,1
+202813,50.0,yes,yes,yes, ,yes,yes,yes,,72.0,Postgraduate or professional degree,1
+202815,3.0,yes,no,yes, ,no,yes,yes,,28.0,Postgraduate or professional degree,0
+202816,15.0,yes,no,yes, ,no,yes,yes,,36.0,Postgraduate or professional degree,1
+202819,3.0,yes,no,no, ,no,yes,yes,,62.0,Two-year associate degree,0
+202820,1.0,no,no,no, ,no,no,no,,25.0,"Some college, no degree",0
+202822,4.0,no,yes,yes, ,yes,yes,yes,,42.0,Postgraduate or professional degree,0
+202824,2.0,yes,no,no, ,no,no,no,,47.0,Two-year associate degree,0
+202828,0.0, , , , ,no,no,no,,61.0,"Some college, no degree",0
+202831,97.0,yes,no,yes, ,yes,yes,yes,,63.0,Two-year associate degree,1
+202835,1.0,yes,no,no, ,no,no,no,,89.0,"Some college, no degree",0
+202848,3.0,no,yes,no, ,no,no,yes,,25.0,Four-year college degree or bachelor's degree,0
+202850,1.0,yes,no,no, ,no,yes,yes,,62.0,"Some college, no degree",0
+202854,50.0,yes,no,yes, ,no,yes,yes,,38.0,Postgraduate or professional degree,1
+202855,3.0,yes,no,no, ,no,no,yes,,25.0,Postgraduate or professional degree,0
+202864,10.0,yes,no,no, ,no,no,no,,75.0,Unknown,1
+202871,5.0,yes,no,no, ,no,yes,no,,55.0,Postgraduate or professional degree,1
+202876,4.0,yes,no,no, ,no,yes,yes,,63.0,"Some college, no degree",0
+202879,1.0,yes,no,no, ,no,yes,yes,,,"Some college, no degree",0
+202891,0.0, , , , ,no,yes,yes,,58.0,Postgraduate or professional degree,0
+202903,0.0, , , , ,no,no,no,,63.0,"Some college, no degree",0
+202912,3.0,yes,no,yes, ,no,yes,yes,,16.0,High school graduate or GED,0
+202913,60.0,yes,no,yes, ,no,yes,yes,,51.0,Two-year associate degree,1
+202919,0.0, , , , ,no,yes,yes,,52.0,Less than high school,0
+202922,12.0,yes,no,no, ,no,no,no,,60.0,"Some college, no degree",1
+202927,2.0,yes,no,no, ,no,no,yes,,55.0,Four-year college degree or bachelor's degree,0
+202933,2.0,no,no,yes, ,yes,yes,yes,,75.0,Postgraduate or professional degree,0
+202935,97.0,no,no,yes, ,yes,yes,yes,,78.0,"Some college, no degree",1
+202937,29.0,yes,no,no, ,no,,yes,,54.0,High school graduate or GED,1
+202940,5.0,yes,no,yes, ,no,yes,yes,,18.0,Two-year associate degree,1
+202943,0.0, , , , ,yes,yes,no,,43.0,"Some college, no degree",0
+202948,20.0,yes,no,yes, ,yes,no,yes,,66.0,Unknown,1
+202952,20.0,yes,no,yes, ,yes,yes,yes,,62.0,Unknown,1
+202957,0.0, , , , ,no,no,no,,73.0,Less than high school,0
+202965,25.0,yes,no,no, ,no,no,yes,,55.0,Unknown,1
+202967,, , , , ,no,no,yes,,57.0,Less than high school,0
+202973,30.0,yes,yes,yes, ,no,yes,yes,,55.0,Postgraduate or professional degree,1
+202977,5.0,yes,no,no, ,no,no,yes,,24.0,Two-year associate degree,1
+202983,10.0,yes,yes,no, ,no,yes,no,,25.0,Postgraduate or professional degree,1
+202994,3.0,yes,no,no, ,no,yes,yes,,61.0,Unknown,0
+202996,4.0,yes,no,no, ,no,yes,yes,,56.0,Unknown,0
+202998,0.0, , , , ,no,yes,yes,,24.0,Postgraduate or professional degree,0
+202999,4.0,no,yes,no, ,no,no,yes,,17.0,High school graduate or GED,0
+203006,10.0,no,no,yes, ,no,yes,yes,,53.0,Two-year associate degree,1
+203007,4.0,yes,no,yes, ,no,yes,yes,,55.0,"Some college, no degree",0
+203012,3.0,yes,no,yes, ,no,yes,yes,,16.0,High school graduate or GED,0
+203015,0.0, , , , ,no,yes,yes,,34.0,Postgraduate or professional degree,0
+203027,11.0,yes,yes,no, ,no,no,yes,,22.0,Postgraduate or professional degree,1
+203037,12.0,yes,no,no, ,no,no,no,,66.0,Two-year associate degree,1
+203040,97.0,yes,no,no, ,no,no,no,,63.0,"Some college, no degree",1
+203052,1.0,yes,no,no, ,no,no,no,,60.0,"Some college, no degree",0
+203062,0.0, , , , ,no,no,yes,,21.0,"Some college, no degree",0
+203066,1.0,yes,no,no, ,no,no,no,,21.0,Two-year associate degree,0
+203068,2.0,yes,yes,yes, ,no,no,yes,,67.0,Unknown,0
+203074,30.0,yes,yes,yes, ,yes,no,yes,,45.0,Postgraduate or professional degree,1
+203076,5.0,no,no,yes, ,yes,no,yes,,38.0,"Some college, no degree",1
+203079,97.0,yes,no,no, ,no,no,no,,54.0,"Some college, no degree",1
+203088,0.0, , , , ,no,no,yes,,65.0,Two-year associate degree,0
+203089,2.0,no,no,yes, ,no,yes,yes,,29.0,Unknown,0
+203090,5.0,yes,no,yes, ,yes,yes,yes,,18.0,High school graduate or GED,1
+203093,4.0,yes,no,no, ,no,no,yes,,31.0,Two-year associate degree,0
+203100,13.0,yes,no,no, ,no,no,yes,,,Postgraduate or professional degree,1
+203105,0.0, , , , ,no,yes,yes,,54.0,Two-year associate degree,0
+203107,0.0, , , , ,no,yes,yes,,53.0,Four-year college degree or bachelor's degree,0
+203114,0.0, , , , ,no,no,yes,,55.0,"Some college, no degree",0
+203117,15.0,yes,no,no, ,no,yes,yes,,65.0,Postgraduate or professional degree,1
+203118,97.0,yes,no,no, ,no,yes,yes,,36.0,Two-year associate degree,1
+203121,6.0,yes,no,no, ,no,yes,yes,,17.0,High school graduate or GED,1
+203125,3.0,yes,no,yes, ,no,yes,yes,,62.0,"Some college, no degree",0
+203138,50.0,yes,yes,yes, ,no,yes,yes,,42.0,Postgraduate or professional degree,1
+203140,2.0,no,no,yes, ,no,no,yes,,31.0,"Some college, no degree",0
+203145,0.0, , , , ,no,no,yes,,37.0,"Some college, no degree",0
+203149,10.0,yes,no,yes, ,no,yes,yes,,54.0,Two-year associate degree,1
+203150,0.0, , , , ,no,no,yes,,37.0,Unknown,0
+203153,30.0,yes,no,no, ,no,yes,yes,,26.0,Unknown,1
+203162,6.0,yes,no,no, ,yes,no,no,,64.0,"Some college, no degree",1
+203167,4.0,yes,yes,yes, ,yes,no,yes,,74.0,Postgraduate or professional degree,0
+203171,1.0,yes,no,no, ,no,no,no,,17.0,High school graduate or GED,0
+203177,3.0,yes,no,no, ,yes,yes,yes,,21.0,Two-year associate degree,0
+203178,17.0,yes,no,yes, ,no,no,yes,,27.0,"Some college, no degree",1
+203179,3.0,yes,no,no, ,no,no,no,,63.0,Unknown,0
+203196,1.0,no,no,no, ,,,no,,54.0,"Some college, no degree",0
+203198,97.0,yes,no,no, ,no,no,yes,,39.0,Unknown,1
+203200,12.0,yes,yes,yes, ,no,yes,yes,,32.0,Unknown,1
+203214,15.0,yes,no,no, ,no,no,yes,,43.0,Unknown,1
+203218,0.0, , , , ,no,no,no,,45.0,High school graduate or GED,0
+203220,3.0,no,no,yes, ,no,yes,yes,,22.0,Postgraduate or professional degree,0
+203223,30.0,yes,no,no, ,no,no,yes,,27.0,Postgraduate or professional degree,1
+203228,3.0,yes,no,no, ,no,no,yes,,34.0,Postgraduate or professional degree,0
+203237,1.0,yes,no,no, ,no,no,yes,,16.0,Less than high school,0
+203243,6.0,yes,no,yes, ,no,yes,yes,,45.0,Postgraduate or professional degree,1
+203246,75.0,yes,no,yes, ,yes,yes,yes,,24.0,Four-year college degree or bachelor's degree,1
+203253,0.0, , , , ,no,no,yes,,59.0,Four-year college degree or bachelor's degree,0
+203255,0.0, , , , ,no,no,no,,75.0,"Some college, no degree",0
+203258,3.0,yes,no,no, ,no,yes,yes,,54.0,Two-year associate degree,0
+203260,97.0,yes,yes,yes, ,no,yes,yes,,25.0,"Some college, no degree",1
+203273,0.0, , , , ,no,yes,yes,,36.0,"Some college, no degree",0
+203276,20.0,yes,no,yes, ,yes,no,yes,,23.0,Postgraduate or professional degree,1
+203278,1.0,yes,no,no, ,no,yes,yes,,18.0,"Some college, no degree",0
+203279,0.0, , , , ,no,no,yes,,26.0,Postgraduate or professional degree,0
+203281,60.0,yes,no,no, ,yes,no,yes,,63.0,Unknown,1
+203287,5.0,no,yes,no, ,no,yes,yes,,19.0,"Some college, no degree",1
+203289,50.0,yes,no,yes, ,no,yes,yes,,22.0,Postgraduate or professional degree,1
+203291,2.0,yes,no,no, ,yes,yes,yes,,32.0,Four-year college degree or bachelor's degree,0
+203293,0.0, , , , ,no,no,no,,66.0,"Some college, no degree",0
+203298,0.0, , , , ,no,yes,yes,,50.0,Postgraduate or professional degree,0
+203299,7.0,yes,no,no, ,no,yes,no,,63.0,"Some college, no degree",1
+203308,15.0,yes,no,no, ,no,no,yes,,24.0,Postgraduate or professional degree,1
+203311,7.0,yes,no,no, ,no,yes,yes,,66.0,Postgraduate or professional degree,1
+203319,0.0, , , , ,no,yes,yes,,35.0,Two-year associate degree,0
+203329,5.0,yes,no,no, ,no,no,yes,,46.0,Four-year college degree or bachelor's degree,1
+203332,50.0,yes,yes,yes, ,yes,yes,yes,,24.0,Postgraduate or professional degree,1
+203348,1.0,yes,no,no, ,no,no,no,,42.0,"Some college, no degree",0
+203349,0.0, , , , ,no,no,yes,,25.0,"Some college, no degree",0
+203355,1.0,yes,no,no, ,no,no,yes,,72.0,"Some college, no degree",0
+203357,, , , , ,yes,yes,yes,,46.0,Postgraduate or professional degree,0
+203360,4.0,no,yes,yes, ,no,no,yes,,51.0,"Some college, no degree",0
+203362,0.0, , , , ,no,no,no,,49.0,Less than high school,0
+203368,60.0,yes,yes,yes, ,no,yes,yes,,73.0,Four-year college degree or bachelor's degree,1
+203371,0.0, , , , ,yes,yes,no,,74.0,Two-year associate degree,0
+203372,1.0,no,no,yes, ,no,yes,yes,,25.0,Unknown,0
+203382,2.0,yes,no,no, ,yes,yes,yes,,61.0,"Some college, no degree",0
+203389,6.0,yes,no,no, ,no,yes,yes,,62.0,Four-year college degree or bachelor's degree,1
+203391,10.0,yes,no,yes, ,no,no,yes,,27.0,Postgraduate or professional degree,1
+203399,5.0,yes,no,no, ,no,yes,yes,,71.0,Four-year college degree or bachelor's degree,1
+203404,3.0,yes,no,no, ,no,yes,no,,44.0,High school graduate or GED,0
+203407,5.0,no,yes,no, ,no,yes,yes,,16.0,High school graduate or GED,1
+203409,20.0,yes,no,yes, ,yes,yes,yes,,37.0,Postgraduate or professional degree,1
+203414,0.0, , , , ,no,yes,yes,,49.0,"Some college, no degree",0
+203427,0.0, , , , ,no,yes,yes,,45.0,Unknown,0
+203429,25.0,no,no,yes, ,no,yes,no,,76.0,Postgraduate or professional degree,1
+203430,, , , , ,no,yes,no,,59.0,Postgraduate or professional degree,0
+203449,1.0,yes,no,no, ,no,yes,yes,,23.0,"Some college, no degree",0
+203455,15.0,yes,yes,yes, ,yes,yes,yes,,49.0,Unknown,1
+203457,5.0,yes,no,no, ,no,no,yes,,17.0,High school graduate or GED,1
+203462,3.0,yes,yes,no, ,no,no,no,,69.0,Less than high school,0
+203466,10.0,yes,no,no, ,yes,no,yes,,19.0,Two-year associate degree,1
+203476,97.0,no,no,yes, ,yes,yes,yes,,37.0,Postgraduate or professional degree,1
+203478,6.0,yes,no,yes, ,no,yes,yes,,31.0,Postgraduate or professional degree,1
+203486,20.0,yes,no,no, ,no,no,no,,52.0,Postgraduate or professional degree,1
+203491,12.0,yes,yes,yes, ,no,yes,yes,,42.0,"Some college, no degree",1
+203492,12.0,yes,no,yes, ,no,yes,yes,,52.0,Unknown,1
+203493,0.0, , , , ,no,yes,no,,34.0,"Some college, no degree",0
+203496,5.0,yes,no,yes, ,yes,no,yes,,55.0,Two-year associate degree,1
+203498,, , , , ,no,yes,yes,,67.0,Postgraduate or professional degree,0
+203499,10.0,yes,yes,no, ,no,yes,yes,,27.0,Postgraduate or professional degree,1
+203500,2.0,yes,no,no, ,no,no,yes,,40.0,Unknown,0
+203513,3.0,yes,no,yes, ,yes,yes,yes,,50.0,Four-year college degree or bachelor's degree,0
+203517,0.0, , , , ,no,no,yes,,79.0,"Some college, no degree",0
+203519,30.0,yes,no,yes, ,yes,no,yes,,57.0,Postgraduate or professional degree,1
+203532,0.0, , , , ,yes,yes,yes,,66.0,"Some college, no degree",0
+203534,4.0,yes,no,no, ,no,no,yes,,59.0,Unknown,0
+203535,5.0,,no,no, ,no,yes,yes,,54.0,"Some college, no degree",1
+203552,30.0,yes,no,yes, ,no,yes,yes,,22.0,Four-year college degree or bachelor's degree,1
+203554,0.0, , , , ,no,no,no,,23.0,Less than high school,0
+203556,30.0,yes,yes,yes, ,no,yes,yes,,31.0,Unknown,1
+203560,97.0,yes,yes,yes, ,yes,yes,yes,,68.0,Unknown,1
+203565,5.0,yes,no,yes, ,no,yes,yes,,60.0,Unknown,1
+203567,10.0,yes,no,no, ,no,no,yes,,,,1
+203568,1.0,no,no,yes, ,no,yes,yes,,26.0,Postgraduate or professional degree,0
+203572,0.0, , , , ,no,no,yes,,70.0,Postgraduate or professional degree,0
+203573,2.0,yes,no,no, ,no,yes,yes,,20.0,Two-year associate degree,0
+203574,0.0, , , , ,no,no,yes,,73.0,Two-year associate degree,0
+203580,40.0,yes,yes,no, ,no,no,yes,,70.0,Two-year associate degree,1
+203590,3.0,yes,no,no, ,no,no,yes,,65.0,Postgraduate or professional degree,0
+203591,0.0, , , , ,no,no,yes,,38.0,"Some college, no degree",0
+203596,3.0,yes,no,no, ,no,yes,no,,51.0,"Some college, no degree",0
+203605,5.0,no,no,yes, ,no,yes,yes,,32.0,"Some college, no degree",1
+203607,3.0,yes,no,no, ,no,no,yes,,26.0,Two-year associate degree,0
+203608,0.0, , , , ,no,yes,yes,,32.0,Postgraduate or professional degree,0
+203618,0.0, , , , ,no,no,yes,,67.0,Two-year associate degree,0
+203621,40.0,yes,yes,yes, ,yes,no,yes,,48.0,Unknown,1
+203622,6.0,yes,no,yes, ,no,yes,yes,,31.0,Four-year college degree or bachelor's degree,1
+203627,, , , , ,no,no,no,,44.0,High school graduate or GED,0
+203629,12.0,yes,no,yes, ,yes,yes,yes,,59.0,Four-year college degree or bachelor's degree,1
+203635,97.0,yes,no,no, ,no,no,yes,,54.0,Two-year associate degree,1
+203637,3.0,yes,no,no, ,no,yes,yes,,30.0,Postgraduate or professional degree,0
+203639,0.0, , , , ,yes,yes,yes,,20.0,Two-year associate degree,0
+203641,15.0,yes,no,no, ,yes,no,yes,,66.0,Unknown,1
+203642,12.0,yes,no,no, ,no,yes,yes,,16.0,Less than high school,1
+203645,5.0,no,no,yes, ,no,yes,yes,,42.0,Postgraduate or professional degree,1
+203659,0.0, , , , ,no,no,yes,,58.0,"Some college, no degree",0
+203662,38.0,yes,yes,yes, ,no,yes,yes,,45.0,Postgraduate or professional degree,1
+203667,5.0,yes,yes,yes, ,yes,yes,yes,,31.0,Postgraduate or professional degree,1
+203671,2.0,yes,yes,no, ,no,yes,yes,,50.0,Postgraduate or professional degree,0
+203672,50.0,yes,no,yes, ,yes,yes,yes,,32.0,Unknown,1
+203674,0.0, , , , ,no,no,no,,51.0,High school graduate or GED,0
+203680,2.0,yes,no,no, ,yes,yes,yes,,62.0,Postgraduate or professional degree,0
+203682,4.0,yes,no,no, ,no,no,yes,,21.0,Two-year associate degree,0
+203692,10.0,yes,yes,yes, ,no,no,yes,,28.0,Less than high school,1
+203693,2.0,yes,no,yes, ,no,no,no,,19.0,High school graduate or GED,0
+203697,1.0,yes,no,no, ,no,yes,yes,,60.0,"Some college, no degree",0
+203709,0.0, , , , ,no,yes,yes,,23.0,Postgraduate or professional degree,0
+203717,0.0, , , , ,no,no,yes,,54.0,High school graduate or GED,0
+203720,75.0,yes,yes,yes, ,yes,yes,yes,,52.0,Unknown,1
+203724,5.0,yes,no,no, ,no,no,yes,,83.0,Unknown,1
+203727,10.0,yes,yes,yes, ,yes,yes,yes,,47.0,Postgraduate or professional degree,1
+203741,0.0, , , , ,yes,yes,yes,,66.0,"Some college, no degree",0
+203745,5.0,yes,no,no, ,no,yes,yes,,48.0,Postgraduate or professional degree,1
+203753,0.0, , , , ,no,no,yes,,18.0,"Some college, no degree",0
+203756,3.0,yes,no,no, ,yes,yes,yes,,28.0,Postgraduate or professional degree,0
+203760,4.0,no,no,yes, ,no,yes,yes,,17.0,High school graduate or GED,0
+203761,30.0,yes,no,no, ,no,no,yes,,29.0,Four-year college degree or bachelor's degree,1
+203764,4.0,yes,no,yes, ,no,yes,yes,,46.0,Unknown,0
+203768,0.0, , , , ,no,no,no,,30.0,High school graduate or GED,0
+203771,97.0,yes,no,yes, ,yes,yes,yes,,50.0,Postgraduate or professional degree,1
+203777,0.0, , , , ,no,no,yes,,56.0,"Some college, no degree",0
+203778,24.0,yes,yes,yes, ,yes,yes,yes,,32.0,Postgraduate or professional degree,1
+203782,3.0,yes,no,no, ,no,no,no,,66.0,Less than high school,0
+203786,0.0, , , , ,no,no,yes,,52.0,High school graduate or GED,0
+203787,5.0,yes,no,no, ,no,yes,yes,,62.0,Unknown,1
+203800,6.0,yes,no,no, ,no,no,yes,,83.0,Unknown,1
+203802,2.0,yes,no,yes, ,no,yes,yes,,33.0,Unknown,0
+203804,50.0,yes,yes,yes, ,yes,yes,yes,,68.0,Unknown,1
+203805,6.0,yes,no,no, ,yes,yes,yes,,39.0,Postgraduate or professional degree,1
+203807,3.0,yes,no,no, ,no,no,yes,,26.0,Postgraduate or professional degree,0
+203814,3.0,no,yes,no, ,no,yes,yes,,37.0,Postgraduate or professional degree,0
+203817,30.0,yes,no,yes, ,yes,yes,yes,,70.0,Unknown,1
+203818,2.0,yes,no,no, ,no,yes,yes,,38.0,Postgraduate or professional degree,0
+203823,5.0,yes,no,no, ,no,yes,yes,,45.0,Postgraduate or professional degree,1
+203825,2.0,yes,no,yes, ,no,no,yes,,24.0,"Some college, no degree",0
+203832,2.0,no,no,yes, ,no,no,yes,,21.0,Two-year associate degree,0
+203834,1.0,yes,yes,yes, ,no,no,yes,,72.0,Postgraduate or professional degree,0
+203852,0.0, , , , ,no,no,no,,47.0,Two-year associate degree,0
+203853,30.0,yes,no,yes, ,no,yes,yes,,34.0,Unknown,1
+203858,0.0, , , , ,no,yes,yes,,31.0,Unknown,0
+203862,0.0, , , , ,no,no,yes,,34.0,Postgraduate or professional degree,0
+203872,0.0, , , , ,no,yes,yes,,54.0,Postgraduate or professional degree,0
+203876,24.0,yes,yes,no, ,no,no,yes,,58.0,Four-year college degree or bachelor's degree,1
+203877,0.0, , , , ,no,no,no,,58.0,High school graduate or GED,0
+203879,3.0,yes,no,yes, ,yes,yes,yes,,26.0,Two-year associate degree,0
+203882,2.0,yes,no,no, ,no,yes,yes,,46.0,"Some college, no degree",0
+203886,5.0,yes,no,no, ,no,no,yes,,72.0,Two-year associate degree,1
+203895,40.0,yes,no,yes, ,no,yes,yes,,30.0,Unknown,1
+203898,20.0,yes,yes,yes, ,no,no,yes,,17.0,High school graduate or GED,1
+203899,97.0,yes,no,no, ,no,no,no,,33.0,"Some college, no degree",1
+203903,3.0,yes,no,no, ,no,yes,yes,,27.0,Unknown,0
+203917,8.0,no,no,yes, ,yes,no,yes,,58.0,Two-year associate degree,1
+203918,0.0, , , , ,no,no,yes,,63.0,Postgraduate or professional degree,0
+203919,0.0, , , , ,no,no,no,,77.0,"Some college, no degree",0
+203921,0.0, , , , ,no,no,no,,60.0,High school graduate or GED,0
+203929,16.0,yes,no,yes, ,no,no,yes,,22.0,Four-year college degree or bachelor's degree,1
+203935,12.0,yes,no,no, ,no,no,yes,,70.0,Unknown,1
+203936,6.0,yes,no,yes, ,yes,yes,yes,,64.0,Two-year associate degree,1
+203940,, , , , ,yes,yes,yes,,36.0,Postgraduate or professional degree,0
+203943,0.0, , , , ,no,yes,yes,,81.0,Two-year associate degree,0
+203952,6.0,yes,no,no, ,no,no,yes,,71.0,Four-year college degree or bachelor's degree,1
+203956,0.0, , , , ,no,no,no,,58.0,Two-year associate degree,0
+203960,15.0,yes,yes,yes, ,yes,yes,yes,,35.0,"Some college, no degree",1
+203963,30.0,yes,no,yes, ,no,yes,yes,,50.0,Unknown,1
+203968,0.0, , , , ,no,no,no,,73.0,Less than high school,0
+203975,20.0,yes,no,yes, ,no,yes,yes,,22.0,Postgraduate or professional degree,1
+203976,6.0,yes,no,yes, ,no,yes,yes,,36.0,Postgraduate or professional degree,1
+203979,5.0,yes,no,no, ,no,no,yes,,70.0,Postgraduate or professional degree,1
+203987,0.0, , , , ,no,yes,yes,,68.0,Postgraduate or professional degree,0
+203988,10.0,yes,no,no, ,no,yes,no,,17.0,"Some college, no degree",1
+203996,3.0,yes,no,yes, ,yes,no,yes,,39.0,Four-year college degree or bachelor's degree,0
+204003,0.0, , , , ,no,no,yes,,47.0,"Some college, no degree",0
+204007,6.0,yes,yes,yes, ,yes,no,yes,,42.0,Less than high school,1
+204015,15.0,yes,no,no, ,no,yes,yes,,54.0,Unknown,1
+204020,0.0, , , , ,no,no,yes,,56.0,Two-year associate degree,0
+204021,3.0,yes,no,no, ,no,yes,yes,,50.0,Postgraduate or professional degree,0
+204023,24.0,yes,yes,yes, ,no,yes,yes,,27.0,Two-year associate degree,1
+204026,30.0,yes,yes,yes, ,yes,yes,yes,,55.0,Postgraduate or professional degree,1
+204038,0.0, , , , ,no,no,yes,,57.0,Unknown,0
+204042,0.0, , , , ,no,no,no,,51.0,"Some college, no degree",0
+204050,0.0, , , , ,no,no,yes,,36.0,"Some college, no degree",0
+204059,0.0, , , , ,no,yes,yes,,61.0,"Some college, no degree",0
+204065,30.0,yes,no,yes, ,yes,no,yes,,19.0,"Some college, no degree",1
+204066,10.0,yes,no,yes, ,no,no,no,,31.0,Four-year college degree or bachelor's degree,1
+204070,70.0,yes,no,no, ,no,yes,yes,,57.0,Postgraduate or professional degree,1
+204072,20.0,yes,no,no, ,no,yes,yes,,39.0,Postgraduate or professional degree,1
+204074,8.0,yes,no,no, ,no,yes,yes,,55.0,Two-year associate degree,1
+204075,2.0,yes,yes,no, ,no,yes,yes,,59.0,Postgraduate or professional degree,0
+204077,0.0, , , , ,no,yes,yes,,67.0,Postgraduate or professional degree,0
+204079,2.0,yes,no,no, ,no,yes,yes,,30.0,Postgraduate or professional degree,0
+204083,2.0,yes,no,no, ,no,no,yes,,22.0,Two-year associate degree,0
+204084,6.0,no,yes,yes, ,no,no,yes,,,Postgraduate or professional degree,1
+204091,, , , , ,yes,yes,yes,,48.0,High school graduate or GED,0
+204092,1.0,yes,no,no, ,no,no,yes,,59.0,Unknown,0
+204103,25.0,yes,yes,yes, ,no,no,yes,,29.0,"Some college, no degree",1
+204106,3.0,yes,no,no, ,no,no,no,,16.0,High school graduate or GED,0
+204125,0.0, , , , ,no,no,yes,,47.0,Two-year associate degree,0
+204131,0.0, , , , ,no,yes,yes,,70.0,Unknown,0
+204132,7.0,yes,yes,no, ,yes,yes,yes,,27.0,Unknown,1
+204136,0.0, , , , ,no,no,yes,,25.0,Unknown,0
+204142,2.0,yes,no,no, ,yes,yes,yes,,53.0,Postgraduate or professional degree,0
+204151,3.0,yes,no,no, ,no,no,no,,55.0,"Some college, no degree",0
+204159,30.0,yes,no,no, ,no,yes,yes,,50.0,Four-year college degree or bachelor's degree,1
+204161,1.0,yes,no,no, ,no,no,yes,,55.0,Postgraduate or professional degree,0
+204166,6.0,yes,no,no, ,no,no,yes,,70.0,"Some college, no degree",1
+204170,97.0,yes,no,yes, ,yes,no,yes,,57.0,Two-year associate degree,1
+204171,0.0, , , , ,no,no,yes,,42.0,Less than high school,0
+204187,96.0,yes,yes,yes, ,no,yes,yes,,39.0,Unknown,1
+204193,0.0, , , , ,no,yes,yes,,22.0,Two-year associate degree,0
+204194,5.0,yes,no,no, ,no,no,yes,,16.0,High school graduate or GED,1
+204204,97.0,yes,yes,no, ,no,no,yes,,25.0,Four-year college degree or bachelor's degree,1
+204205,2.0,yes,no,no, ,yes,no,yes,,38.0,Four-year college degree or bachelor's degree,0
+204207,4.0,yes,yes,yes, ,no,no,yes,,23.0,"Some college, no degree",0
+204215,3.0,yes,no,no, ,no,yes,yes,,24.0,Two-year associate degree,0
+204219,1.0,no,yes,no, ,no,yes,yes,,35.0,"Some college, no degree",0
+204220,2.0,yes,no,no, ,no,no,no,,22.0,Two-year associate degree,0
+204224,97.0,yes,no,yes, ,no,yes,yes,,48.0,Postgraduate or professional degree,1
+204229,96.0,yes,no,yes, ,no,yes,yes,,71.0,Unknown,1
+204230,35.0,yes,no,no, ,no,no,no,,78.0,"Some college, no degree",1
+204231,0.0, , , , ,no,yes,yes,,20.0,"Some college, no degree",0
+204233,1.0,no,no,yes, ,no,yes,yes,,69.0,Unknown,0
+204235,1.0,yes,no,no, ,no,no,no,,47.0,"Some college, no degree",0
+204237,0.0, , , , ,no,no,no,,80.0,"Some college, no degree",0
+204239,12.0,yes,no,no, ,no,no,no,,77.0,Two-year associate degree,1
+204242,0.0, , , , ,no,no,yes,,61.0,Postgraduate or professional degree,0
+204249,10.0,yes,no,yes, ,yes,yes,yes,,61.0,Postgraduate or professional degree,1
+204250,15.0,yes,yes,yes, ,yes,no,yes,,70.0,Unknown,1
+204258,10.0,yes,no,no, ,no,yes,yes,,67.0,Postgraduate or professional degree,1
+204263,9.0,no,no,yes, ,no,no,yes,,26.0,Unknown,1
+204267,30.0,yes,no,no, ,no,no,yes,,68.0,Unknown,1
+204274,5.0,yes,no,no, ,no,yes,yes,,43.0,Unknown,1
+204287,20.0,yes,yes,yes, ,no,yes,yes,,50.0,Postgraduate or professional degree,1
+204304,14.0,yes,no,no, ,no,no,no,,70.0,"Some college, no degree",1
+204307,6.0,yes,no,yes, ,yes,yes,yes,,63.0,Unknown,1
+204308,15.0,yes,no,yes, ,no,yes,yes,,20.0,Two-year associate degree,1
+204309,5.0,no,yes,yes, ,no,yes,yes,,45.0,"Some college, no degree",1
+204310,4.0,yes,no,yes, ,no,no,yes,,17.0,High school graduate or GED,0
+204315,7.0,yes,no,no, ,no,yes,yes,,18.0,"Some college, no degree",1
+204322,5.0,yes,no,yes, ,no,no,no,,26.0,"Some college, no degree",1
+204334,0.0, , , , ,no,no,no,,44.0,High school graduate or GED,0
+204338,6.0,no,yes,no, ,no,no,no,,68.0,High school graduate or GED,1
+204352,2.0,yes,no,no, ,no,no,yes,,27.0,"Some college, no degree",0
+204355,60.0,yes,no,no, ,no,yes,yes,,45.0,Unknown,1
+204363,5.0,yes,no,yes, ,yes,yes,yes,,66.0,Unknown,1
+204365,0.0, , , , ,no,no,yes,,42.0,Unknown,0
+204374,20.0,yes,yes,yes, ,no,yes,yes,,22.0,Postgraduate or professional degree,1
+204378,0.0, , , , ,no,no,yes,,65.0,Four-year college degree or bachelor's degree,0
+204384,50.0,no,no,no, ,no,no,no,,76.0,Two-year associate degree,1
+204387,1.0,yes,no,no, ,no,yes,yes,,67.0,Two-year associate degree,0
+204398,16.0,yes,no,yes, ,yes,no,yes,,20.0,"Some college, no degree",1
+204408,25.0,yes,no,yes, ,yes,yes,yes,,70.0,Postgraduate or professional degree,1
+204409,25.0,yes,yes,yes, ,yes,yes,yes,,65.0,Unknown,1
+204410,1.0,yes,no,no, ,yes,yes,yes,,38.0,Postgraduate or professional degree,0
+204412,6.0,yes,no,no, ,no,no,yes,,93.0,"Some college, no degree",1
+204417,5.0,yes,no,no, ,no,no,yes,,43.0,Postgraduate or professional degree,1
+204441,0.0, , , , ,no,no,yes,,34.0,Four-year college degree or bachelor's degree,0
+204442,5.0,yes,yes,no, ,no,yes,yes,,16.0,"Some college, no degree",1
+204446,0.0, , , , ,no,yes,yes,,50.0,Two-year associate degree,0
+204450,0.0, , , , ,yes,yes,yes,,36.0,Two-year associate degree,0
+204454,0.0, , , , ,no,yes,yes,,55.0,Four-year college degree or bachelor's degree,0
+204460,1.0,yes,no,no, ,no,yes,yes,,33.0,Postgraduate or professional degree,0
+204465,10.0,yes,no,no, ,no,no,yes,,65.0,Unknown,1
+204466,17.0,yes,yes,yes, ,no,no,no,,25.0,Four-year college degree or bachelor's degree,1
+204467,0.0, , , , ,no,no,no,,23.0,Unknown,0
+204470,97.0,yes,no,yes, ,no,yes,yes,,29.0,Postgraduate or professional degree,1
+204477,20.0,yes,yes,no, ,no,yes,yes,,60.0,Postgraduate or professional degree,1
+204484,0.0, , , , ,no,yes,yes,,50.0,,0
+204497,15.0,yes,no,no, ,no,no,yes,,71.0,Postgraduate or professional degree,1
+204511,1.0,yes,yes,no, ,no,no,yes,,22.0,Two-year associate degree,0
+204516,20.0,yes,no,yes, ,yes,yes,yes,,65.0,Unknown,1
+204517,30.0,yes,no,no, ,no,no,no,,55.0,"Some college, no degree",1
+204521,1.0,yes,no,no, ,no,no,no,,60.0,Four-year college degree or bachelor's degree,0
+204522,3.0,yes,no,no, ,no,yes,yes,,22.0,Postgraduate or professional degree,0
+204524,25.0,yes,no,yes, ,no,no,yes,,23.0,Postgraduate or professional degree,1
+204548,3.0,yes,no,no, ,no,no,yes,,67.0,Two-year associate degree,0
+204569,0.0, , , , ,no,no,yes,,62.0,"Some college, no degree",0
+204571,0.0, , , , ,no,no,yes,,,Postgraduate or professional degree,0
+204572,0.0, , , , ,no,no,no,,45.0,"Some college, no degree",0
+204575,12.0,yes,yes,yes, ,yes,no,yes,,59.0,"Some college, no degree",1
+204576,15.0,yes,no,yes, ,yes,yes,yes,,64.0,Unknown,1
+204584,, , , , ,no,no,yes,,82.0,Two-year associate degree,0
+204586,2.0,yes,no,no, ,no,yes,yes,,45.0,Two-year associate degree,0
+204587,0.0, , , , ,no,no,no,,27.0,Postgraduate or professional degree,0
+204591,24.0,yes,yes,yes, ,yes,no,yes,,47.0,Four-year college degree or bachelor's degree,1
+204600,1.0,yes,no,no, ,no,no,yes,,62.0,"Some college, no degree",0
+204616,20.0,yes,yes,no, ,no,no,yes,,55.0,Two-year associate degree,1
+204626,0.0, , , , ,no,no,no,,58.0,"Some college, no degree",0
+204628,4.0,yes,no,yes, ,no,yes,yes,,21.0,Postgraduate or professional degree,0
+204632,0.0, , , , ,no,yes,yes,,,Four-year college degree or bachelor's degree,0
+204646,5.0,yes,no,no, ,no,no,no,,31.0,Unknown,1
+204647,0.0, , , , ,no,yes,yes,,50.0,Four-year college degree or bachelor's degree,0
+204649,1.0,yes,no,no, ,no,yes,yes,,68.0,"Some college, no degree",0
+204653,6.0,yes,no,no, ,no,yes,yes,,20.0,Less than high school,1
+204667,3.0,no,yes,yes, ,,yes,yes,,52.0,"Some college, no degree",0
+204668,0.0, , , , ,no,yes,yes,,34.0,Postgraduate or professional degree,0
+204671,0.0, , , , ,no,yes,yes,,39.0,Less than high school,0
+204677,3.0,yes,no,no, ,yes,yes,yes,,47.0,Two-year associate degree,0
+204688,0.0, , , , ,no,yes,yes,,32.0,"Some college, no degree",0
+204690,36.0,yes,no,yes, ,no,no,yes,,39.0,Unknown,1
+204697,6.0,yes,yes,yes, ,no,yes,yes,,48.0,Four-year college degree or bachelor's degree,1
+204705,10.0,yes,yes,no, ,no,yes,yes,,39.0,Postgraduate or professional degree,1
+204712,25.0,yes,no,no, ,no,no,yes,,51.0,Two-year associate degree,1
+204713,0.0, , , , ,yes,yes,yes,,38.0,"Some college, no degree",0
+204721,2.0,yes,no,yes, ,no,no,no,,29.0,"Some college, no degree",0
+204724,0.0, , , , ,no,yes,yes,,55.0,Unknown,0
+204733,0.0, , , , ,no,yes,yes,,,"Some college, no degree",0
+204734,97.0,yes,no,yes, ,yes,yes,yes,,40.0,Unknown,1
+204737,12.0,yes,no,no, ,no,yes,yes,,25.0,"Some college, no degree",1
+204748,4.0,yes,no,no, ,no,yes,no,,44.0,"Some college, no degree",0
+204758,16.0,yes,no,yes, ,yes,yes,yes,,47.0,Unknown,1
+204773,0.0, , , , ,yes,yes,yes,,79.0,High school graduate or GED,0
+204777,6.0,yes,no,no, ,no,no,yes,,20.0,Two-year associate degree,1
+204786,0.0, , , , ,no,yes,yes,,25.0,"Some college, no degree",0
+204794,20.0,yes,yes,no, ,yes,yes,yes,,56.0,Postgraduate or professional degree,1
+204806,30.0,yes,no,yes, ,yes,yes,yes,,84.0,"Some college, no degree",1
+204812,5.0,yes,no,no, ,yes,yes,yes,,18.0,Two-year associate degree,1
+204814,0.0, , , , ,no,yes,yes,,46.0,Postgraduate or professional degree,0
+204816,20.0,no,no,yes, ,yes,yes,yes,,34.0,Postgraduate or professional degree,1
+204821,2.0,yes,no,no, ,no,no,yes,,31.0,Postgraduate or professional degree,0
+204824,1.0,yes,no,no, ,no,yes,no,,39.0,Less than high school,0
+204825,0.0, , , , ,yes,yes,yes,,39.0,"Some college, no degree",0
+204832,6.0,yes,no,no, ,yes,yes,yes,,16.0,High school graduate or GED,1
+204834,3.0,yes,no,no, ,no,no,yes,,85.0,"Some college, no degree",0
+204838,0.0, , , , ,no,no,no,,72.0,High school graduate or GED,0
+204851,0.0, , , , ,no,no,no,,62.0,Less than high school,0
+204863,5.0,yes,no,no, ,no,yes,yes,,63.0,Postgraduate or professional degree,1
+204867,0.0, , , , ,no,no,no,,66.0,Four-year college degree or bachelor's degree,0
+204874,10.0,yes,no,no, ,no,no,yes,,18.0,High school graduate or GED,1
+204889,40.0,yes,no,no, ,no,yes,yes,,72.0,Unknown,1
+204899,20.0,yes,no,yes, ,yes,yes,yes,,65.0,Four-year college degree or bachelor's degree,1
+204905,5.0,yes,no,yes, ,yes,yes,yes,,35.0,Unknown,1
+204908,8.0,yes,no,no, ,no,no,yes,,66.0,Unknown,1
+204909,5.0,yes,no,no, ,no,no,yes,,67.0,Two-year associate degree,1
+204911,4.0,yes,no,no, ,no,,yes,,77.0,"Some college, no degree",0
+204914,0.0, , , , ,no,no,yes,,46.0,Postgraduate or professional degree,0
+204916,12.0,yes,no,no, ,no,no,yes,,62.0,Unknown,1
+204923,30.0,yes,no,no, ,no,no,yes,,72.0,Two-year associate degree,1
+204924,6.0,yes,yes,no, ,yes,yes,yes,,18.0,Two-year associate degree,1
+204929,5.0,yes,no,yes, ,yes,yes,yes,,50.0,Unknown,1
+204930,10.0,yes,no,no, ,no,yes,yes,,50.0,Two-year associate degree,1
+204935,0.0, , , , ,no,yes,yes,,20.0,Four-year college degree or bachelor's degree,0
+204944,1.0,yes,no,no, ,no,no,yes,,19.0,Two-year associate degree,0
+204946,3.0,yes,no,no, ,no,no,no,,,Postgraduate or professional degree,0
+204949,6.0,yes,yes,no, ,no,yes,yes,,49.0,Postgraduate or professional degree,1
+204952,10.0,yes,no,yes, ,no,yes,yes,,20.0,Two-year associate degree,1
+204955,0.0, , , , ,no,yes,no,,36.0,Postgraduate or professional degree,0
+204962,1.0,yes,no,no, ,no,yes,yes,,36.0,"Some college, no degree",0
+204977,20.0,yes,yes,yes, ,no,yes,yes,,32.0,Four-year college degree or bachelor's degree,1
+204985,10.0,yes,no,no, ,no,yes,yes,,25.0,Unknown,1
+204987,0.0, , , , ,no,no,yes,,47.0,"Some college, no degree",0
+204990,8.0,yes,no,no, ,no,no,no,,79.0,High school graduate or GED,1
+205003,0.0, , , , ,no,no,yes,,23.0,Two-year associate degree,0
+205010,25.0,yes,no,yes, ,no,yes,yes,,39.0,Unknown,1
+205014,1.0,yes,no,no, ,no,no,no,,67.0,High school graduate or GED,0
+205019,0.0, , , , ,no,yes,yes,,22.0,Four-year college degree or bachelor's degree,0
+205021,10.0,yes,no,no, ,no,no,yes,,68.0,Unknown,1
+205025,3.0,yes,no,no, ,no,no,yes,,64.0,Postgraduate or professional degree,0
+205032,0.0, , , , ,no,yes,yes,,54.0,"Some college, no degree",0
+205035,50.0,yes,no,yes, ,yes,no,yes,,67.0,Postgraduate or professional degree,1
+205037,0.0, , , , ,yes,yes,yes,,41.0,Postgraduate or professional degree,0
+205040,10.0,yes,yes,yes, ,no,yes,yes,,39.0,Postgraduate or professional degree,1
+205045,97.0,no,yes,no, ,no,no,yes,,55.0,"Some college, no degree",1
+205046,15.0,yes,no,no, ,no,no,yes,,23.0,Postgraduate or professional degree,1
+205047,30.0,yes,no,no, ,no,no,yes,,59.0,Postgraduate or professional degree,1
+205049,10.0,yes,no,no, ,no,no,yes,,48.0,Four-year college degree or bachelor's degree,1
+205064,8.0,yes,yes,no, ,no,no,yes,,19.0,Two-year associate degree,1
+205070,0.0, , , , ,no,no,no,,,Postgraduate or professional degree,0
+205071,5.0,yes,no,no, ,yes,no,yes,,29.0,Unknown,1
+205078,8.0,yes,no,no, ,no,no,yes,,53.0,Postgraduate or professional degree,1
+205083,30.0,yes,no,yes, ,no,yes,yes,,39.0,"Some college, no degree",1
+205085,2.0,yes,no,yes, ,no,yes,yes,,73.0,Postgraduate or professional degree,0
+205086,0.0, , , , ,no,yes,no,,20.0,"Some college, no degree",0
+205091,15.0,yes,no,yes, ,no,yes,yes,,26.0,Postgraduate or professional degree,1
+205096,20.0,yes,no,yes, ,yes,yes,yes,,31.0,Unknown,1
+205104,15.0,yes,no,no, ,no,yes,yes,,30.0,Postgraduate or professional degree,1
+205108,1.0,yes,no,no, ,no,no,yes,,,Unknown,0
+205110,3.0,no,yes,yes, ,yes,yes,yes,,55.0,Two-year associate degree,0
+205118,97.0,yes,yes,no, ,no,yes,yes,,26.0,Postgraduate or professional degree,1
+205121,15.0,yes,no,no, ,no,yes,yes,,25.0,Postgraduate or professional degree,1
+205131,3.0,,no,no, ,no,no,no,,63.0,"Some college, no degree",0
+205132,2.0,yes,yes,no, ,no,yes,yes,,28.0,Four-year college degree or bachelor's degree,0
+205149,0.0, , , , ,no,no,yes,,60.0,Postgraduate or professional degree,0
+205151,0.0, , , , ,no,no,no,,45.0,"Some college, no degree",0
+205153,3.0,yes,no,yes, ,no,yes,no,,28.0,"Some college, no degree",0
+205156,, , , , ,no,yes,yes,,50.0,Unknown,0
+205162,1.0,yes,no,no, ,no,yes,no,,38.0,Two-year associate degree,0
+205165,12.0,yes,yes,no, ,no,yes,yes,,17.0,"Some college, no degree",1
+205168,3.0,yes,no,no, ,no,no,no,,51.0,Two-year associate degree,0
+205176,0.0, , , , ,no,yes,yes,,44.0,Unknown,0
+205178,3.0,yes,no,no, ,no,no,no,,55.0,Two-year associate degree,0
+205186,2.0,yes,yes,yes, ,no,no,no,,17.0,High school graduate or GED,0
+205189,12.0,yes,no,no, ,yes,yes,yes,,62.0,Unknown,1
+205191,3.0,yes,no,no, ,no,no,no,,58.0,Two-year associate degree,0
+205193,0.0, , , , ,no,no,no,,81.0,High school graduate or GED,0
+205201,10.0,yes,no,yes, ,yes,yes,yes,,21.0,Two-year associate degree,1
+205208,2.0,yes,no,no, ,yes,no,yes,,60.0,"Some college, no degree",0
+205215,0.0, , , , ,no,yes,yes,,55.0,Unknown,0
+205221,10.0,yes,no,yes, ,no,yes,no,,44.0,"Some college, no degree",1
+205228,3.0,yes,no,no, ,no,no,no,,59.0,Two-year associate degree,0
+205237,5.0,yes,yes,no, ,no,yes,yes,,79.0,Unknown,1
+205250,4.0,yes,no,no, ,no,no,yes,,25.0,Unknown,0
+205259,3.0,yes,no,no, ,no,yes,yes,,65.0,Postgraduate or professional degree,0
+205261,0.0, , , , ,no,no,no,,47.0,"Some college, no degree",0
+205264,0.0, , , , ,no,no,no,,46.0,High school graduate or GED,0
+205267,3.0,yes,no,no, ,no,yes,no,,52.0,"Some college, no degree",0
+205269,0.0, , , , ,no,no,yes,,19.0,"Some college, no degree",0
+205277,12.0,no,no,yes, ,yes,no,yes,,40.0,"Some college, no degree",1
+205278,15.0,yes,no,no, ,no,yes,yes,,62.0,Postgraduate or professional degree,1
+205281,0.0, , , , ,no,no,yes,,53.0,"Some college, no degree",0
+205284,4.0,yes,no,yes, ,no,yes,yes,,29.0,Unknown,0
+205286,2.0,yes,no,no, ,no,yes,yes,,68.0,Four-year college degree or bachelor's degree,0
+205294,10.0,yes,no,no, ,yes,yes,no,,41.0,Postgraduate or professional degree,1
+205308,50.0,yes,no,yes, ,no,yes,yes,,17.0,High school graduate or GED,1
+205311,20.0,yes,no,no, ,no,yes,yes,,17.0,High school graduate or GED,1
+205312,25.0,yes,yes,yes, ,no,yes,yes,,44.0,"Some college, no degree",1
+205313,2.0,yes,no,no, ,no,no,yes,,42.0,"Some college, no degree",0
+205314,30.0,yes,no,yes, ,yes,yes,yes,,50.0,Postgraduate or professional degree,1
+205321,12.0,yes,yes,no, ,no,yes,yes,,50.0,Unknown,1
+205323,2.0,yes,no,no, ,no,no,yes,,42.0,"Some college, no degree",0
+205326,6.0,yes,yes,no, ,no,no,yes,,27.0,Postgraduate or professional degree,1
+205329,0.0, , , , ,no,no,no,,56.0,Less than high school,0
+205343,18.0,yes,yes,yes, ,no,yes,yes,,45.0,"Some college, no degree",1
+205347,5.0,yes,no,no, ,no,yes,yes,,60.0,Four-year college degree or bachelor's degree,1
+205356,15.0,yes,no,yes, ,no,yes,yes,,22.0,Unknown,1
+205366,4.0,yes,no,no, ,no,no,yes,,63.0,"Some college, no degree",0
+205368,50.0,yes,no,yes, ,no,no,no,,72.0,"Some college, no degree",1
+205379,3.0,yes,yes,yes, ,yes,yes,yes,,38.0,Postgraduate or professional degree,0
+205381,2.0,yes,yes,no, ,yes,yes,yes,,62.0,Postgraduate or professional degree,0
+205386,0.0, , , , ,no,yes,yes,,33.0,Two-year associate degree,0
+205388,0.0, , , , ,no,no,yes,,25.0,Unknown,0
+205395,97.0,yes,no,no, ,no,yes,yes,,43.0,Postgraduate or professional degree,1
+205402,4.0,yes,no,yes, ,no,yes,yes,,78.0,Unknown,0
+205403,4.0,yes,no,no, ,no,yes,yes,,65.0,Postgraduate or professional degree,0
+205412,4.0,yes,no,no, ,no,yes,yes,,34.0,Unknown,0
+205417,6.0,yes,no,no, ,yes,no,yes,,69.0,Unknown,1
+205419,4.0,yes,no,yes, ,yes,yes,yes,,63.0,Unknown,0
+205422,15.0,yes,no,yes, ,no,no,yes,,22.0,"Some college, no degree",1
+205424,50.0,yes,no,yes, ,no,yes,yes,,42.0,Unknown,1
+205427,8.0,yes,yes,yes, ,yes,no,yes,,64.0,Postgraduate or professional degree,1
+205433,2.0,yes,no,yes, ,no,yes,yes,,33.0,Postgraduate or professional degree,0
+205442,1.0,yes,no,no, ,yes,no,yes,,80.0,Four-year college degree or bachelor's degree,0
+205451,0.0, , , , ,no,no,yes,,27.0,Postgraduate or professional degree,0
+205452,2.0,yes,no,no, ,no,yes,yes,,47.0,High school graduate or GED,0
+205453,15.0,yes,yes,no, ,no,yes,yes,,32.0,High school graduate or GED,1
+205457,2.0,yes,no,no, ,no,no,no,,82.0,"Some college, no degree",0
+205458,40.0,yes,no,no, ,no,no,yes,,62.0,Postgraduate or professional degree,1
+205466,3.0,yes,no,yes, ,no,yes,yes,,52.0,Unknown,0
+205468,0.0, , , , ,no,yes,yes,,21.0,Four-year college degree or bachelor's degree,0
+205471,0.0, , , , ,no,yes,no,,67.0,Four-year college degree or bachelor's degree,0
+205473,3.0,yes,no,no, ,no,no,yes,,25.0,Four-year college degree or bachelor's degree,0
+205474,0.0, , , , ,no,no,yes,,47.0,High school graduate or GED,0
+205477,5.0,yes,yes,no, ,no,no,yes,,55.0,Unknown,1
+205480,8.0,yes,yes,yes, ,yes,yes,yes,,52.0,"Some college, no degree",1
+205488,10.0,yes,yes,yes, ,no,yes,yes,,34.0,Postgraduate or professional degree,1
+205493,3.0,yes,no,yes, ,no,yes,yes,,55.0,Unknown,0
+205503,1.0,yes,no,no, ,no,yes,yes,,20.0,Two-year associate degree,0
+205508,5.0,yes,no,no, ,no,yes,no,,36.0,Four-year college degree or bachelor's degree,1
+205510,1.0,no,no,yes, ,no,no,yes,,64.0,Unknown,0
+205515,97.0,yes,yes,no, ,no,yes,no,,47.0,Unknown,1
+205521,3.0,yes,yes,no, ,yes,yes,yes,,46.0,Two-year associate degree,0
+205535,5.0,yes,no,no, ,no,yes,yes,,17.0,High school graduate or GED,1
+205536,72.0,yes,no,no, ,no,yes,yes,,54.0,Two-year associate degree,1
+205540,1.0,yes,no,no, ,no,no,yes,,31.0,Two-year associate degree,0
+205542,3.0,yes,no,no, ,no,no,yes,,71.0,Unknown,0
+205548,3.0,yes,no,yes, ,yes,yes,yes,,45.0,Two-year associate degree,0
+205554,6.0,yes,no,yes, ,no,yes,yes,,67.0,Four-year college degree or bachelor's degree,1
+205559,97.0,yes,no,yes, ,no,no,yes,,27.0,Two-year associate degree,1
+205563,20.0,yes,no,no, ,no,no,yes,,71.0,Unknown,1
+205564,30.0,yes,yes,yes, ,yes,yes,yes,,69.0,Unknown,1
+205571,4.0,yes,no,no, ,no,yes,yes,,31.0,"Some college, no degree",0
+205576,0.0, , , , ,no,yes,yes,,50.0,"Some college, no degree",0
+205578,2.0,yes,no,no, ,no,no,yes,,49.0,Less than high school,0
+205586,30.0,yes,yes,yes, ,yes,yes,yes,,72.0,Unknown,1
+205592,15.0,yes,no,yes, ,yes,yes,yes,,45.0,"Some college, no degree",1
+205594,60.0,yes,no,no, ,no,no,yes,,53.0,Four-year college degree or bachelor's degree,1
+205595,1.0,yes,no,no, ,no,yes,yes,,35.0,Postgraduate or professional degree,0
+205610,4.0,yes,no,yes, ,no,yes,yes,,35.0,Two-year associate degree,0
+205616,97.0,yes,no,yes, ,no,yes,yes,,52.0,Postgraduate or professional degree,1
+205618,3.0,yes,no,no, ,no,yes,yes,,59.0,Unknown,0
+205622,0.0, , , , ,no,yes,yes,,30.0,Postgraduate or professional degree,0
+205627,3.0,yes,no,yes, ,no,no,no,,51.0,Four-year college degree or bachelor's degree,0
+205629,12.0,yes,no,no, ,no,no,yes,,29.0,Postgraduate or professional degree,1
+205633,20.0,yes,no,yes, ,yes,no,yes,,66.0,Unknown,1
+205636,0.0, , , , ,no,yes,yes,,60.0,"Some college, no degree",0
+205639,10.0,yes,no,yes, ,no,no,yes,,33.0,Unknown,1
+205640,3.0,yes,no,no, ,no,no,yes,,19.0,Two-year associate degree,0
+205643,6.0,yes,no,yes, ,yes,yes,yes,,27.0,Unknown,1
+205645,20.0,yes,no,no, ,no,no,yes,,26.0,Postgraduate or professional degree,1
+205652,20.0,yes,no,no, ,no,no,yes,,60.0,Unknown,1
+205655,50.0,yes,no,no, ,no,no,yes,,75.0,"Some college, no degree",1
+205662,7.0,yes,no,no, ,no,no,yes,,34.0,Unknown,1
+205665,6.0,yes,no,yes, ,no,yes,no,,26.0,"Some college, no degree",1
+205668,3.0,no,yes,yes, ,no,no,yes,,31.0,"Some college, no degree",0
+205673,8.0,yes,no,no, ,yes,yes,no,,38.0,Two-year associate degree,1
+205678,20.0,yes,no,no, ,no,yes,no,,35.0,"Some college, no degree",1
+205691,5.0,yes,no,no, ,no,yes,yes,,20.0,Two-year associate degree,1
+205692,97.0,yes,no,no, ,no,yes,yes,,66.0,Two-year associate degree,1
+205705,10.0,yes,yes,yes, ,yes,no,yes,,17.0,High school graduate or GED,1
+205717,15.0,yes,no,no, ,no,yes,yes,,,Four-year college degree or bachelor's degree,1
+205722,7.0,yes,yes,yes, ,yes,yes,yes,,25.0,High school graduate or GED,1
+205744,6.0,yes,no,no, ,no,yes,no,,70.0,Four-year college degree or bachelor's degree,1
+205747,5.0,yes,no,no, ,no,no,yes,,56.0,Unknown,1
+205754,3.0,yes,no,yes, ,no,no,yes,,40.0,Four-year college degree or bachelor's degree,0
+205758,8.0,yes,no,yes, ,yes,no,yes,,56.0,Unknown,1
+205760,6.0,yes,yes,no, ,no,no,yes,,24.0,Two-year associate degree,1
+205764,11.0,yes,yes,no, ,yes,yes,yes,,48.0,"Some college, no degree",1
+205771,10.0,yes,no,yes, ,no,yes,yes,,25.0,"Some college, no degree",1
+205783,2.0,yes,no,no, ,no,no,no,,55.0,"Some college, no degree",0
+205802,0.0, , , , ,no,no,no,,34.0,Less than high school,0
+205803,6.0,yes,no,no, ,yes,yes,yes,,16.0,High school graduate or GED,1
+205816,3.0,yes,yes,no, ,no,yes,yes,,51.0,Unknown,0
+205817,2.0,yes,no,no, ,no,yes,yes,,66.0,Postgraduate or professional degree,0
+205832,1.0,yes,yes,yes, ,no,no,no,,39.0,Less than high school,0
+205849,3.0,no,no,no, ,no,no,no,,38.0,Less than high school,0
+205856,0.0, , , , ,no,no,yes,,29.0,Two-year associate degree,0
+205861,20.0,yes,no,no, ,no,yes,yes,,39.0,High school graduate or GED,1
