@@ -31,6 +31,12 @@ A python data analysis project using a dataset from pewresearch.org on book read
 
 To access the report with extensive analysis and step by step guide on findings and insights from my python codes check and download the report named `Book Reading Report` under Reports folder in this github repositories
 
+### **2.4. Innovation: Python Prediction App**
+On line 172 in the ``readersDataCleaning.ipynb`` jypyter notebook file, I created an ipywidget user interface that predicts and recommends a user's reading habits.
+
+![My recommendation app](/Visuals/Screen%20Shot%202025-08-03%20at%203.30.34%20PM.png)
+
+
 ## 3. Data Analysis & Visualization in PowerBI
 
 To display and communicate key problems and insights, I went with three leading questions:
