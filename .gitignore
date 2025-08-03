@@ -20,5 +20,8 @@ rad.json
 *.flf
 #Test results file
 TestResults.xml
-.~lock.March 7-April 4, 2016 - Libraries - CSV.csv#
+# Mac OS files
 .DS_Store
+
+# Temporary lock files (from LibreOffice, etc.)
+.~lock.*
