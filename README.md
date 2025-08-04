@@ -35,7 +35,6 @@ To access the report with extensive analysis and by step-by-step guide on data c
 - **Handling Coded Values**: Unfortunately, not just the columns but even row values were hard-coded; all rows were numerical, and most of them had recurring numbers: 98 and 99. After checking the questionnaire, I realized those were referring to "unknown" or "refused" inputs from respondents. This helped me then transform them into Null values
 
 ![Data Cleaning & Preparation](/Visuals/Cleaning.png)
-
 - **Exploratory Data Analysis**: After doing all the cleaning and preparation, I went ahead with manipulating the data and displaying reports to better understand my dataframe. I also did some feature engineering and created a column to achieve my objective of knowing people's reading frequency: "Is_frequent_reader"
 - **Classification Model Training**: I decided to train 2 models: **Logistic Regression** and **Random Forest Classifier** to see which one would have the highest accuracy rate, Logistic Regression won with +14% and it is the one I used for my Innovation prediction App below.
   
