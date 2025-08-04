@@ -32,13 +32,12 @@ A python data analysis project using a dataset from pewresearch.org on book read
 To access the report with extensive analysis and by step-by-step guide on data cleaning, feature engineering, and other findings and insights from my Python codes, please check and download the report named `Book Reading Report` under the Reports folder in this GitHub repository. Still, here is a short summary of what I did: 
 - **Feature Selection**: This dataset had too many columns over 100, with some including location coordinates and other variables unrelated to my objectives that I listed above. So I had to study each hard column carefully and then select which would be part of my data frame.
 - **Column Renaming**: Like I just mentioned, this dataset has coded columns, so to understand what I was dealing with. I quickly mapped the questionnaire using the `CMD+F/CTRL+F` to quickly search/find the column name and then see the question that was being asked in regards to that. That is how I added meaningful columns to my dataset in the preparation phase. For example, a column device1 referred to whether someone owned an electronic device, with corresponding 'a,b,c' standing for smartphone, laptop, tablet, etc...
-- **Handling Coded Values**: Unfortunately, not just the columns but even row values were hard-coded; all rows were numerical, and most of them had recurring numbers: 98 and 99. After checking the questionnaire, I realized those were referring to "unknown" or "refused" inputs from respondents. This helped me then transform them into Null values 
+- **Handling Coded Values**: Unfortunately, not just the columns but even row values were hard-coded; all rows were numerical, and most of them had recurring numbers: 98 and 99. After checking the questionnaire, I realized those were referring to "unknown" or "refused" inputs from respondents. This helped me then transform them into Null values
+  ![Data Cleaning & Preparation](/Visuals/Cleaning.png)
+
 - **Exploratory Data Analysis**: After doing all the cleaning and preparation, I went ahead with manipulating the data and displaying reports to better understand my dataframe. I also did some feature engineering and created a column to achieve my objective of knowing people's reading frequency: "Is_frequent_reader"
 - **Classification Model Training**: I decided to train 2 models: **Logistic Regression** and **Random Forest Classifier** to see which one would have the highest accuracy rate, Logistic Regression won with +14% and it is the one I used for my Innovation prediction App below.
-
-![Data Cleaning & Preparation](/Visuals/Cleaning.png)
-
-![Classification Models comparison](/Visuals/ModelTraining.png)
+  ![Classification Models comparison](/Visuals/ModelTraining.png)
 
 
 ### **2.4. Innovation: Python Prediction App**
